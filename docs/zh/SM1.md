@@ -1,43 +1,32 @@
-# SM1 Subterranean tidal biome
+# SM1 地下潮汐生物群系
 
-The subterranean tidal biome includes coastal pools and subterranean voids with a partially or entirely submerged connection to marine waters. Like all other subterranean ecosystems, sunlight is absent or too dim to sustain photosynthesis. Marine shelf ecosystems (M1), terrestrial aquifers (SF1) and surface coastal systems (T, MT) connected to these subterranean systems are their sources of allochthonous energy, nutrients and oxygenation. Food and energy availability are influenced by in situ microbial processing (biogeochemical transformation) of these allochthonous organic matter inputs. The marine interface, a typical feature of coastal aquifers and subterranean estuaries, also generates a marked salinity gradient is the primary zone of biogeochemical cycling. In carbonate
-and volcanic geologies, the salinity gradient can often be observed in the flooded pools, voids, and caves as a halocline (a sharp salinity gradient in the water column), which is not present in other subterranean environments. In comparison
-to other subterranean ecosystems, diverse assemblages of chemoautotrophic and heterotrophic microbes, as well as scavengers, filter feeders and predators. Physiological traits enabling osmotic regulation allow some species to transit across haloclines between the fresh- and saline waters. In dark sections of the subterranean marine systems where photoautotrophs are absent, trophic webs are truncated. Some of the subterranean marine biota belong to lineages otherwise restricted to the
-deep sea floor (M3), and share traits with those in other low- productivity, dark biomes, including depigmentation, reduced visual organs, increased tactile and chemical sensitivity, low fecundity, long lifespans, and slow metabolism and growth
-rates. Tides are an important means of hydrological mixing, resource flux, biotic dispersal and perturbation. In subterranean tidal systems with more direct connections to the sea, marine suspension feeders, particularly sponges and other sessile invertebrates, are dominant. Farther into marine and anchialine caves, where tidal flushing and water exchange diminishes
-or disappears, the fauna consists of stygobitic crustaceans, annelids and several other faunal groups (i.e. strictly subterranean aquatic fauna that complete their entire life in this environment).
+地下潮汐生物群系包括部分或完全被海水淹沒的沿海水池和地下空隙。 與其他地下生態系相同，此生物群系缺乏日照或日照過於微弱，無法維持光合作用。 海域大陸棚（M1）、陸域含水層（SF1）以及與此生物群系相連的地表沿海生態系（T, MT）是異源能量、養分和氧氣的主要來源。 食物和能量的可用性受到異源有機物在此生物群系中進行的微生物處理（生物地球化學轉化）的影響。 海洋分界面是沿海含水層和地下河口的典型特徵，會產生明顯的鹽度變化，成為生物地球化學循環的主要區域。 在碳酸鹽岩和火山地質中，可以在淹沒的水池、空隙和洞穴中觀察到鹽度躍層（halocline，即水體中明顯的鹽度變化），這在其他地下環境中並不常見。 與其他地下生態系相比，此生物群系擁有豐富的自營和異營微生物群集，以及碎食者、濾食者和掠食者。 具有調節滲透作用的生理特徵使某些物種能夠跨越淡水和鹹水之間的鹽度躍層。 此生物群系的地下黑暗區域，由於缺乏光自營生物，食物網呈現扁平狀。 部分地下海洋生物的譜系僅出現在深海底棲生物群系（M3），並具有其他低初級生產力、黑暗生物群系中的生物特徵，包括失去色素、視覺器官退化、觸覺和化學感官增強、繁殖率低、壽命長以及緩慢的新陳代謝和生長速度。 潮汐是混合水文、資源流動、生物傳播和擾動的重要驅動力。 在與海洋直接連接的地下潮汐生態系中，優勢物種為海洋懸浮物攝食者，特別是海綿和其他固著性無脊椎動物。 在更深處的海洋和海下水蝕洞中，隨著潮汐沖刷和水體交換減少，動物相以地下水棲生物為主，包括暗層甲殼類、環節動物及其他動物相，如在地下完成生命週期的專性地下水生動物相。
 
-# SM1.1 Anchialine caves
+# SM1.1 海下水蝕洞
 
-BIOME: SM1 SUBTERRANEAN TIDAL SYSTEMS
-REALM: TRANSITIONAL SUBTERRANEAN-MARINE
+生物群系：SM1 地下潮汐生物群系
+生態域：地下域與海域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Anchialine caves contain bodies
-of saline or brackish waters with subterranean connections to the sea. Since virtually all anchialine biota are marine in origin, these caves have a larger and more diverse species pool than underground freshwaters. The trophic network is truncated
-and dominated by heterotrophs (scavenging and filter-feeding detritivores and their predators), with photosynthetic primary producers and herbivores only present where sinkholes connect caves to the surface and sunlight. Productivity is limited by the scarcity of light and food, but less so than in insular freshwater subterranean systems (SF1.1) due to influx of marine detritus and biota. The dominant fauna includes planktonic bacteria, protozoans, annelids, crustaceans and fish. Anchialine obligates that inhabit locations deep within the caves, with marine biota increasing in frequency with proximity to the sea. Caves closely connected with the ocean tend to have stronger tidal currents and biota, such as sponges and hydroids commonly associated with sea caves (SM1.3). Distinctive traits of cave obligates
-that reflect selection under darkness and food scarcity include varying degrees of eye loss and depigmentation, increased tactile and chemical sensitivity, reproduction with few large eggs, long lifespans, and slow metabolism and growth rates. Some anchialine biota are related to in deep sea species, including shrimps that retain red pigmentation, while others include relict taxa inhabiting anchialine caves on opposite sides of ocean basins. Characteristic anchialine taxa also occur in isolated water bodies, far within extensive seafloor cave systems.
+海下水蝕洞中含有鹹水或半鹹水，透過地下水道與海洋相連。 幾乎所有的近海地下洞穴生物都源於海洋，因此這些洞穴的物種比地下淡水生態系更多且更具多樣性。 食物網呈現扁平狀，由異營生物主導，包括腐食者、濾食者及其掠食者，光自營生物和植食者僅出現在洞穴與地表相連，且有陽光照射的區域。 由於缺乏日照和食物，初級生產力受到限制，但由於有海洋碎屑和生物流入，其初級生產力高於孤立的地下淡水生態系（SF1.1）。 主要的動物相包括浮游細菌、原生動物、環節動物、甲殼類和魚類。 海下水蝕洞中，棲息在洞穴深處的專性物種佔據優勢，靠近海洋的區域則有更多海洋生物。 在與海洋連接緊密的洞穴中，潮流較強，通常有與海洋洞穴（SM1.3）相關的生物，如海綿和水螅。 洞穴專性物種具有各種特徵，得以適應黑暗和食物匱乏的天擇壓力，包括不同程度的眼睛退化和褪色、觸覺和化學感官增強、產卵量少但卵大、壽命長、代謝和生長速度緩慢。 部分海下水蝕洞生物相與深海物種有關聯，包括仍保有紅色色素的蝦類，另一些則是孑遺物種，分布於海洋盆地兩側的海下水蝕洞中。 深海洞穴中的孤立水體也會形成特殊的海下水蝕洞生物相。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Anchialine caves originate from seawater penetration into faults, fractures, and lava tubes as well as sea-level rise into limestone caves formed by solution. Cave waters are characterised by an absence or scarcity of light, low food abundance and strong salinity gradients. Sharp haloclines, which fluctuate with tides and rainfall percolation, occur at deeper depths with increasing distance inland. Tidal connections result in suck and blow phases of water movement that diminish with increasing distance from the sea. In karst terrain with no surface runoff, anchialine caves are closely linked
-via hydrology to overlying subaerial coastal systems and can serve as subterranean rivers with haloclines separating seaward flowing freshwater from underlying saltwater. Temperatures are moderate, increasing at the halocline, then stabilise with depth. Dissolved oxygen declines with depth.
+海下水蝕洞起源於海水滲透進地層斷裂、裂縫及熔岩管中，或由海水抬升進入石灰岩溶蝕洞穴。 洞穴中的水體特徵包括缺乏日照或日照量稀少、缺乏食物以及強烈的鹽度變化。 隨著深入內陸，洞穴深處出現隨潮汐和降雨滲流量變化的劇烈鹽度躍層。 潮汐調節水流進出，此現象隨著與海洋的距離增加而逐漸減弱。 在沒有地表逕流的喀斯特地形中，海下水蝕洞通過水文系統緊密連結上覆的陸上沿海生態系，並可作為伏流，由鹽度躍層分隔流向海洋的淡水與地下鹹水。 水溫適中，鹽度躍層溫度較高，隨深度增加逐漸穩定。 溶氧量隨深度增加而逐漸下降。
 
-## DISTRIBUTION
+## 分布
 
-Scattered worldwide, mostly in the Northern Hemisphere in limestone, basalt flows, and more rarely other lithic substrates.
+零星分布於全球各地，主要位於北半球的石灰岩、玄武岩流中，較少出現在其他岩石基質中。
 
-# SM1.2 Anchialine pools
+# SM1.2 海水湖
 
-BIOME: SM1 SUBTERRANEAN TIDAL SYSTEMS
-REALM: TRANSITIONAL SUBTERRANEAN-MARINE
+生物群系：SM1 地下潮汐生物群系
+生態域：地下域與海域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Anchialine pools, like anchialine caves (SM1.1), are tidally influenced bodies of brackish water with subterranean connections to the sea and groundwater, but with significant or full exposure to open air and sunlight. They have no surface connection to the ocean or freshwater ecosystems. Younger anchialine pools are exposed to abundant sunlight, characterised by relatively low productivity, and tend to support only benthic microalgae, cyanobacteria and primary consumers. Older pools with more established biological communities have higher productivity with a wider range of autotrophs, including macroalgae, aquatic monocots, established riparian and canopy vegetation, and primary
-and secondary consumers. High productivity is attributed to
-a combination of sunlight exposure, rugose substrates and relatively high natural concentrations of inorganic nutrients from groundwater. Anchialine pools may support complex benthic microbial communities, primary consumers, filter-feeders, detritivores, scavengers and secondary consumers. These consumers are primarily molluscs and crustaceans, several of which are anchialine obligates. Due to connections with deeper hypogeal habitats, obligate species may display physical and physiological traits similar to anchialine cave species. However, larger predatory fish and birds also utilize anchialine pools for food and habitat. Anchialine pools are ecologically dynamic systems due to their openness, connections with surrounding terrestrial habitats and subterranean hydrologic connections. Consequently, they are inherently sensitive to ecological phase shifts throughout their relatively ephemeral existence, with senescence initiating in as little as 100 years. However, new anchialine pools may form within a few months after basaltic lava flows.
+海水湖與海下水蝕洞(SM1.1)相似，均為受潮汐影響的半鹹水體，從地下連結海洋和地下水，但海水湖具有明顯或完全暴露於空氣和陽光下的特徵。 此生態系與海洋或淡水生態系沒有地表連接。 歷史較短的海水湖曝曬於陽光下，初級生產力相對較低，通常僅能支撐底棲微藻類、藍綠菌和初級消費者。 歷史較長的海水湖生物群集豐富，初級生產力較高，擁有更多元的自營生物，包括大型藻類、水生單子葉植物以及成熟的河岸和樹冠植被，得以支撐初級與次級消費者。 高初級生產力主要歸因於日照、粗糙的土壤以及地下水中相對較多的無機營養鹽。 海水湖還能支撐複雜的底棲微生物群集、初級消費者、次級消費者、濾食者以及腐食者。 消費者主要包括軟體動物和甲殼類，部分為海水湖專性物種。 由於海水湖連結更深的地下棲地，專性物種可能表現出類似海下水蝕洞物種的形態和生理特徵。 較大的掠食性魚類和鳥類也會利用海水湖覓食和棲息。 Anchialine pools are ecologically dynamic systems due to their openness, connections with surrounding terrestrial habitats and subterranean hydrologic connections. Consequently, they are inherently sensitive to ecological phase shifts throughout their relatively ephemeral existence, with senescence initiating in as little as 100 years. However, new anchialine pools may form within a few months after basaltic lava flows.
 
 ## KEY ECOLOGICAL DRIVERS
 
