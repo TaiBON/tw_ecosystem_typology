@@ -1,0 +1,3 @@
+files:
+    - source: /docs/en-US/*
+      translation: /docs/%four_letters_code%/%original_file_name%
