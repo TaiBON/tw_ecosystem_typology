@@ -1,55 +1,38 @@
-# SF1 Subterranean freshwaters biome
+# SF1 地下淡水生物群系
 
-The Subterranean freshwaters biome includes streams,
-small lakes and aquifers beneath the earth’s surface and potentially has the largest volume of water of all the freshwater biomes. In the absence of sunlight, these ecosystems rely on allochthonous energy sourced from surface ecosystems via connected waters and in situ chemoautotrophs. Depending on the mode of connectivity to the surface, water flow- through varies from extremely rapid to slow. Highly connected subterranean streams in monsoonal climates undergo seasonal flooding and drying cycles. In contrast, paleo- aquifers are characterised by slow, low-variability seepage over millennial time scales. Inflowing water is the principal source of dissolved oxygen and mineral nutrients, although some nutrients are liberated by in situ weathering of lithic substrates. The water regime largely determines environmental variability in subterranean freshwaters, but these systems may occasionally be influenced by mass movements. The trophic structure of subterranean waters is typically truncated, although photosynthetically inactive, algae and higher-plant propagules may be transient occupants in systems that are connected to the surface. Chemoautotrophic and heterotrophic microbes
-in biofilms and the water column dominate the trophic web, supporting small invertebrate detritivores and predators. Small predatory fish may occur in streams and lakes, where voids
-in the subsurface are of sufficient size. Productivity, metabolic rates, life histories and the diversity of the biota all reflect resource scarcity but may vary depending on water source. Insular systems exhibit high levels of endemism.
+地下淡水生物群系包括地表以下的伏流、小湖泊和含水層，可能是淡水域中體積最大的生物群系。 在缺乏日照的情況下，此生物群系透過連接的水源和化學自營生物利用來自地表生態系的異源能量。 Depending on the mode of connectivity to the surface, water flow-through varies from extremely rapid to slow. 在季風氣候區中，與地表水高度連接的伏流會經歷季節性洪水和乾旱週期。 In contrast, paleo-aquifers are characterised by slow, low-variability seepage over millennial time scales. 溶氧和礦物質養分的主要來源是自地表流入的水，另外一部分來自地下岩石的風化作用。 水文主要決定地下淡水的環境多樣性，並可能受塊體運動影響。 地下水體的食物網通常呈扁平狀，但在與地表連接的生態系中，光合作用不活躍的藻類和高等植物繁殖體可能會暫時存在。 化學自營微生物和異營微生物在生物膜和水層中為優勢物種，供應小型無脊椎碎食者和掠食者。 在體積足夠大的伏流和湖泊中，可能存在小型掠食性魚類。 初級生產力、代謝速率、生活史和生物多樣性都反映出資源匱乏，但可能隨水源不同而有所變化。 孤立生態系表現出多樣化的特有種。
 
-# SF1.1 Underground streams and pools
+# SF1.1 伏流與地下池塘
 
-BIOME: SF1 SUBTERRANEAN FRESHWATER SYSTEMS
-REALM: TRANSITIONAL SUBTERRANEAN-FRESHWATER
+生物群系：SF1 地下淡水生物群系
+生態域：地下域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Subterranean streams, pools and aquatic voids (flooded caves) are low-productivity systems devoid of light. The taxonomic and functional diversity of
-these water bodies is low, but they may host local endemics, depending on connectivity with surface waters and between cave systems. The truncated trophic network is entirely heterotrophic, with no photosynthetic primary producers or herbivores. Detritivores and their predators are dominant, although a few specialist predators may be associated with resource-rich hotspots. Microbial mats composed of bacteria and aquatic fungi covering submerged rock surfaces are
-major food sources for protozoans and invertebrates. Other biota include planktonic bacteria, crustaceans, annelids, molluscs, arachnids and fish in larger voids. Chemoautotrophic proteobacteria are locally abundant in sulphur-rich waters fed by springs but not widespread. Obligate denizens of subterranean waters complete their life cycles entirely below ground and derive from relatively few evolutionary lineages. These make
-up a variable portion of the biota, depending on connectivity
-to surface waters. Most species are generalist detritivores coexisting under weak competitive interactions. Some are
-also opportunistic predators, reflecting selection pressures
-of food scarcity. Distinctive traits include the absence of eyes and pigmentation, long lifespans, slow metabolism and growth rates and low fecundity. Less-specialised biota include taxa that spend part of their life cycles below ground and part above,
-as well as temporary below-ground inhabitants. Transient vertebrates occur only in waters of larger subterranean voids that are well connected to surface streams with abundant food.
+伏流、地下池塘和水下空穴（淹沒的洞穴）屬於低生產力的生態系，缺乏光源。 此生態系的分類多樣性和功能多樣性較低，但根據與地表水和洞穴生態系的連接情況，可能會演化出特有種。 扁平狀的食物網完全由異營生物組成，沒有光自營生物或植食者。 碎食者和其掠食者為優勢物種，但在資源豐富的熱點，可能存在少量特化的掠食者。 由細菌和水生真菌組成的微生物墊覆蓋在水下岩石表面，是原生動物和無脊椎動物的主要食物來源。 其他生物包括浮游細菌、甲殼類、環節動物、軟體動物和蛛形綱動物，魚類僅出現在較大的洞穴水體中。 富含硫元素的水域中有大量化學自營變形菌，但其分布侷限。 地下水體的專性物種會在地下完成生命週期，其演化譜系相對較少。 根據與地表水的連接程度，專性物種在生物群集中的比例也有所不同。 大多數物種是廣食性碎食者，共存於較弱的競爭壓力下， 部分物種則是機會主義型捕食者，反映出缺乏食物的天擇壓力。 這些生物具有缺乏眼睛和色素、壽命長、代謝和生長速率緩慢以及繁殖力低等獨特的特性。 特化程度較低的生物包括生命週期在地上和地下交替進行的物種，以及暫時棲息於地下的物種。 僅在與地表河流連接且食物充足的大型地下洞穴水體中，才會出現暫時棲息的脊椎動物。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Most caves form from chemical weathering of soluble rocks, such as limestone or dolomite, and others include lava tunnels. Cave waters are devoid of light, typically low in dissolved oxygen nutrients,
-and food, and exhibit low variability in temperature. Water chemistry reflects substrate properties (i.e. high Calcium levels in limestone voids). Resource supply and biotic dispersal depend on connectivity with surface waters and flow velocity and turbulence. In the absence of light, surface-connected streams are major allochthonous sources of energy and nutrients. Disconnected systems are the most biologically insular and oligotrophic, and may also be limited by nutrient imbalance. These features promote insular evolution in stable conditions.
+大多數洞穴由可溶性岩石（如石灰石或白雲石）經化學風化形成，部分則是熔岩隧道。 洞穴水體缺乏光線，通常含有較低的溶氧、養分及食物，且水溫變化較小。 水體化學性質反映環境特徵（例如石灰石洞穴中鈣含量高）。 資源與生物傳播能力仰賴流速、湍流和連結地表水。 由於缺乏光線，與地表相連的伏流是異源能量和養分的主要來源。 與地表水隔絕的生態系生物隔離程度高且缺乏養分，可能受限於養分失衡， 促進穩定環境中的孤立演化。
 
-## DISTRIBUTION
+## 分布
 
-Scattered worldwide, mostly in the Northern Hemisphere in limestone (map) and more rarely in basalt flows and other lithic substrates.
+零星遍布全球，主要集中在北半球的石灰岩地區（見地圖），少量分布於玄武岩質熔岩流及其他岩石環境基質中。
 
-# SF1.2 Groundwater ecosystems
+# SF1.2 地下水生態系
 
-BIOME: SF1 SUBTERRANEAN FRESHWATER SYSTEMS
-REALM: TRANSITIONAL SUBTERRANEAN-FRESHWATER
+生物群系：SF1 地下淡水生物群系
+生態域：地下域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-These low-productivity ecosystems are found within or below groundwater (phreatic) zones.
-They include aquifers (underground layers of water-saturated permeable rock or unconsolidated gravel, sand, or silt) and hyporheic zones beneath rivers and lakes (i.e. where shallow groundwater and surface water mix). Diversity and abundance of biota decline with depth and connectivity to surface waters, as do nutrients (i.e. most meiofauna is limited to 100 m
-deep). Microbial communities are functionally diverse and invertebrate taxa exhibit high local endemism where aquifers are poorly connected. Trophic networks are truncated and comprised almost exclusively of heterotrophic microbes and invertebrates. Chemoautotrophic bacteria are the only source of autochthonous energy. Herbivores only occur where plant material enters groundwater systems (i.e. in well-connected hyporheic zones). Microbes and their protozoan predators dwell on particle surfaces rather than in pore water. They
-play key roles in weathering and mineral formation, engineer chemically distinctive microhabitats through redox reactions, and are repositories of Carbon, Nitrogen and Phosphorus
-within the ecosystem. Meio-faunal detritivores and predators transfer Carbon and nutrients from biofilms to larger invertebrate predators such as crustaceans, annelids, nematodes, water mites and beetles. These larger trophic generalists live in interstitial waters, either browsing on particle biofilms or ingesting sediment grains, digesting their surface microbes,
-and excreting ‘cleaned’ grains. They have morphological and behavioural traits that equip them for life in dark, resource- scarce groundwater where space is limited. These include slow metabolism and growth, long lifespans without resting stages, low fecundity, lack of pigmentation, reduced eyes, enhanced non-optic sensory organs and elongated body shapes with enhanced segmentation. Much of the biota belongs to ancient subterranean lineages that have diverged sympatrically within aquifers or allopatrically from repeated colonisations or aquifer fragmentation.
+這些低生產力的生態系位於地下水域內或以下，
+包括含水層（指地下水飽和的透水岩層或未固結的礫石、沙粒或粉砂層）及河流與湖泊下方的低流區（即淺層地下水與地表水混合的地區）。 隨著深度增加，以及與地表水的連接程度降低，生物多樣性和豐度逐漸降低，例如中型底棲動物的活動範圍大多侷限在深度一百公尺以內。 微生物群集有多種生態功能，無脊椎動物在孤立含水層中表現出高度特有性。 營養網路結構簡化，幾乎完全由異營微生物和無脊椎動物構成 ，只有化學自營細菌能自行產生能量， 僅有連接地表水，植物殘骸得以流入的低流區中，才會出現植食者。 微生物及其原生動物掠食者棲息於顆粒表面，而非孔隙水中， 它們能協助風化與形成礦物，經由氧化還原反應構建微棲地，作為生態系中碳、氮和磷的儲存庫。 中型底棲碎食者和掠食者將碳和營養從生物膜轉移至體型更大的無脊椎動物掠食者，如甲殼類、環節動物、線蟲、水蟎和甲蟲等。 這些廣食性動物生活在孔隙水中，掠食顆粒生物膜或沉積物顆粒，消化表面微生物，排出「乾淨」的顆粒。 They have morphological and behavioural traits that equip them for life in dark, resource-scarce groundwater where space is limited. 形態和行為特徵包括代謝和生長緩慢、無休眠期的長壽命、低生殖能力、缺乏色素、眼睛退化、強化非視覺感官、身體細長並分節。 大部分生物屬於古老的地下演化譜系，在含水層內同域種化，由於多次拓殖或含水層破裂而產生異域種化。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Groundwater ecosystems are characterised by a scarcity of nutrients, Carbon, dissolved oxygen and free space, and an absence of light. They occur within basin fill or other porous geological strata. Groundwater flow, pore size, interstitial biogeochemistry and hydrological conductivity to adjacent aquifers and surface waters determine ecosystem properties. Subsurface water residence times
-vary from days in shallow, well-connected, coarse-grained hyporheic systems to thousands of years in deep, poorly connected aquifers confined between impermeable rock strata. Lack of connectivity promotes insularity and endemism as
-well as reductive biogeochemical processes that influence the availability of food and nutrients.
+地下水生態系的養分、碳、溶氧量和空間匱乏，且沒有光照。 此生態系存在於盆地填積或其他多孔地層中。 地下水流、孔隙大小、孔隙生物地球化學性質和導水度決定相鄰含水層和地表水對此生態系的影響程度。 地下水的滯留時間從數天到數千年不等，前者發生在與其他含水層連接的粗顆粒淺層低流區中，後者發生在深層、孤立且被不透水岩層包圍的含水層中。 與其他地下水體缺乏連通性會導致孤立和增加物種特有性，並驅動還原性的生物地球化學作用，影響食物和養分供給。
 
-## DISTRIBUTION
+## 分布
 
-Globally distributed. Map shows only the major groundwater basins by recharge rates.
+遍布全球， 地圖僅由補注率標示主要地下水流域。
