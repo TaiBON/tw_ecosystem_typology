@@ -1,4 +1,4 @@
-# FM1 Semi-confined transitional waters biome
+# FM1 半侷限過渡水域生物群系
 
 The Transitional waters biome includes coastal inlets that
 are influenced by inputs of both fresh and marine water from terrestrial catchments and ocean tides, waves and currents. They include deep-water coastal inlets or fjords mostly restricted to high latitudes, as well as estuaries, bays and lagoons, which are scattered around coastlines throughout
