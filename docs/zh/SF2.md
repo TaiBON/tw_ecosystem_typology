@@ -26,12 +26,12 @@
 
 ## 生態特徵
 
-廢棄且已淹沒的地下礦坑常含有廣闊的溫暖地下水庫，熱量來自於地熱，且可能被附近天然洞穴的無脊椎暗層動物拓殖。 部分生物相可能是在採礦活動時引入此生態系。 由於缺乏日照，光自營生物無法在此生態系中存活，低連通性則限制異源能量輸入。 因此初級生產力較低，仰賴化學自營微生物（例如硫酸鹽還原菌）作為能量來源。 對於停滯礦坑水域中水域生物的生態學研究甚少，但其食物網通常結構簡單且呈扁平狀，物種多樣性和豐度低，無特有種。 主要異營生物群集為細菌、水生真菌及原生生物，生活在廢棄基礎設施人造表面或岩石表面的生物膜中。 Extremophiles are likely to dominate in waters that are highly acidic or with high concentrations of heavy metals or other toxins. Micro-invertebrates are most likely to be the highest-level predators. Some voids may have simple assemblages of macroinverterbates, but few are likely to support vertebrates unless they are connected with surface waters that provide a means of colonization.
+廢棄且已淹沒的地下礦坑常含有廣闊的溫暖地下水庫，熱量來自於地熱，且可能被附近天然洞穴的無脊椎暗層動物拓殖。 部分生物相可能是在採礦活動時引入此生態系。 由於缺乏日照，光自營生物無法在此生態系中存活，低連通性則限制異源能量輸入。 因此初級生產力較低，仰賴化學自營微生物（例如硫酸鹽還原菌）作為能量來源。 對於停滯礦坑水域中水域生物的生態學研究甚少，但其食物網通常結構簡單且呈扁平狀，物種多樣性和豐度低，無特有種。 主要異營生物群集為細菌、水生真菌及原生生物，生活在廢棄基礎設施人造表面或岩石表面的生物膜中。 在極酸性或高濃度重金屬或其他毒素的水域中，極端微生物可能佔據主導地位。 微型無脊椎動物可能是此生態系中的頂尖掠食者。 一些洞穴可能含有簡單的巨型無脊椎動物群集，但很少具有脊椎動物，除非與提供生物拓殖途徑的地表水相連。
 
 ## 關鍵生態驅動力
 
-Like all subterranean ecosystems, light is absent or extremely dim in flooded mines. Unlike subterranean canals and pipes (SF2.1), mine waters are quasi-stagnant and not well connected to surface waters. During mine operation, water is pumped out of the mine forming a widespread cone of water table depression, with oxidation and hydrolysis of exposed minerals changing groundwater chemistry. When mines close and dewatering ceases, water table rebounds and the voids often flood. Some voids are completely inundated, while others retain a subterranean atmosphere, which may or may not be connected to the surface. Further changes in water chemistry occur after flooding due to dissolution and flushing of the oxidation products. Water is often warm due to geothermal heating. After inundation has stabilised, seepage and mixing may be slow, and stratification creates strong gradients in oxygen and solutes. Waters are acidic in most flooded mines. The ionic composition varies depending on mineralogy of the substrate, but ionic concentrations are typically high, and often contain heavy metals at levels toxic to some aquatic biota. Acid mine drainage is a common cause of pollution in surface rivers and streams, where it seeps to the surface.
+淹沒礦坑與其他地下生態系相同，缺乏日照或光線極其微弱。 與水管及地下運河（SF2.1）不同，礦坑水域近乎停滯，且難以連結地表水。 礦坑運營期間，水會被抽出，形成廣闊的地下水位下降區域，礦物經氧化和水解改變地下水的化學性質。 當礦坑廢棄並停止排水時，地下水位回升使礦坑被淹沒。 部分洞穴會完全被淹沒，其餘則會保有一部分地下空氣，這些洞穴可能與地表連通，也可能不連通。 淹沒後，由於氧化產物溶解和沖刷，進一步導致水化學性質的變化。 礦井水通常因地熱而較為溫暖。 隨著淹沒穩定後，水體的滲流和混合速率變慢，分層現象會產生強烈的氧氣和溶質梯度變化。 大多數淹沒礦井為酸性水質。 離子組成取決於礦物成分，但離子濃度通常較高，且重金屬濃度常對水域生物有毒。 礦井的酸性水滲流至地表時會對環境產生負面影響，是造成地表河流和溪流污染的常見原因。
 
-## DISTRIBUTION
+## 分布
 
-Common in in many mineral rich regions of the world.
+常見於世界各地礦業發達的地區。
