@@ -1,4 +1,4 @@
-# TF1 Palustrine wetlands biome
+# TF1 沼生濕地生物群系
 
 At the interface of terrestrial and freshwater realms, the Palustrine wetlands biome includes vegetated floodplains, groundwater seeps, and mires with permanent or intermittent surface water. Although water and light are abundant at
 least periodically, saturation of the soil may result in oxygen deprivation below the ground. This suppresses microbial activity and, in many systems, production exceeds decomposition, resulting in peat accumulation. The water regime influences resource availability and productivity and thus regulates
