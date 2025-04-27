@@ -5,8 +5,7 @@
 
 # SF2.1 水管及地下運河
 
-生物群系：SF2 地下人造淡水生物群系
-生態域：地下域與淡水域過渡帶
+生物群系：SF2 地下人造淡水生物群系生態域：地下域與淡水域過渡帶
 
 ## 生態特徵
 
@@ -20,15 +19,14 @@
 
 水管及地下運河常見於城市或具有工業基礎設施的地景中，包括供水和污水管道系統、水力發電、灌溉及其他密集型農業。
 
-# SF2.2 Flooded mines and other voids
+# SF2.2 淹沒礦坑和其他空穴
 
-BIOME: SF2 FRESHWATER SUBTERRANEAN SYSTEMS
-REALM: TRANSITIONAL SUBTERRANEAN-FRESHWATER
+生物群系：SF2 地下人造淡水生物群系
+生態域：地下域與淡水域過渡帶
 
 ## 生態特徵
 
-Abandoned and now flooded underground mines frequently contain extensive reservoirs of geothermally warmed groundwater, colonized by stygobitic invertebrates from nearby natural subterranean habitats. A fraction of the biota is likely to have been introduced by mining activities. A lack of light excludes photoautotrophs from these systems and low connectivity limits inputs from allochthonous energy sources. Consequently, overall productivity is low, and is likely to depend on chemoautrophic microbes (i.e. sulfate-reducing bacteria) as sources of energy. Few studies have investigated the ecology of the aquatic biota in quasi-stagnant water within mine workings, but trophic networks are truncated and likely to be simple, with low diversity and abundance
-at all trophic levels, and no endemism. Most of the resident heterotrophic biota are bacteria, aquatic fungi and protists living in biofilms on artificial surfaces of abandoned infrastructure, equipment or cut rock faces. Extremophiles are likely to dominate in waters that are highly acidic or with high concentrations of heavy metals or other toxins. Micro-invertebrates are most likely to be the highest-level predators. Some voids may have simple assemblages of macroinverterbates, but few are likely to support vertebrates unless they are connected with surface waters that provide a means of colonization.
+廢棄且已淹沒的地下礦坑常含有廣闊的溫暖地下水庫，熱量來自於地熱，且可能被附近天然洞穴的無脊椎暗層動物拓殖。 部分生物相可能是在採礦活動時引入此生態系。 由於缺乏日照，光自營生物無法在此生態系中存活，低連通性則限制異源能量輸入。 因此初級生產力較低，仰賴化學自營微生物（例如硫酸鹽還原菌）作為能量來源。 對於停滯礦坑水域中水域生物的生態學研究甚少，但其食物網通常結構簡單且呈扁平狀，物種多樣性和豐度低，無特有種。 主要異營生物群集為細菌、水生真菌及原生生物，生活在廢棄基礎設施人造表面或岩石表面的生物膜中。 Extremophiles are likely to dominate in waters that are highly acidic or with high concentrations of heavy metals or other toxins. Micro-invertebrates are most likely to be the highest-level predators. Some voids may have simple assemblages of macroinverterbates, but few are likely to support vertebrates unless they are connected with surface waters that provide a means of colonization.
 
 ## 關鍵生態驅動力
 
