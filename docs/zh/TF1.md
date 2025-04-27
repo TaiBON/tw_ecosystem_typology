@@ -1,17 +1,13 @@
 # TF1 沼生濕地生物群系
 
-沼生濕地生物群系位於陸域和淡水域的交界處，包括植被覆蓋的氾濫平原、地下水滲流區和具有永久或間歇性地表水的泥炭沼澤。 Although water and light are abundant at
-least periodically, saturation of the soil may result in oxygen deprivation below the ground. This suppresses microbial activity and, in many systems, production exceeds decomposition, resulting in peat accumulation. The water regime influences resource availability and productivity and thus regulates
-these ecosystems from the bottom-up. Interactions among catchment precipitation, local evapotranspiration, and substrate and surface morphology regulate run-on, runoff, infiltration,
-and percolation. This results in water regimes that vary from permanent shallow standing water or near-surface water tables to seasonally high water tables to episodic inundation with long inter-annual dry phases. As a consequence of their indirect relationships with climate, wetland biomes are traditionally classified as ‘azonal’. Spatial heterogeneity is a key feature of palustrine wetlands. At landscape scales, they function as resource sinks and refuges with substantially higher productivity than the surrounding matrix. Fine-scale spatial variation in the water regime often produces restricted hydrological niches
-and intricate mosaics of patch types with contrasting structure and biotic composition. Autotrophs dominate complex trophic webs. Amphibious macrophytes are the dominant autotrophs, although epibenthic algae are important in some systems. Amphibious plants have specialised traits enabling growth and survival in low-oxygen substrates and often engineer habitats for heterotrophs. Microbial decomposers and invertebrate detritivores are most abundant in surface soils. A range of microscopic and macroinvertebrates with sedentary adult phases (i.e. crustaceans) have obligate associations with Palustrine wetlands, which also provide important foraging and breeding sites for macroinvertebrate and vertebrate herbivores and predators that disperse more widely across the landscape, including waterbirds.
+沼生濕地生物群系位於陸域和淡水域的交界處，包括植被覆蓋的氾濫平原、地下水滲流區和具有永久或間歇性地表水的泥炭沼澤。 雖然定期有充足的水分和日照量，但飽和土壤可能導致地下缺氧。 抑制微生物活動，使初級生產力常超過分解速率，導致泥炭累積。 水文狀況影響資源的可用性和初級生產力，從而上行調節此生物群系。 集水區降水量、局部蒸發散量、土壤和地形的相互作用，共同調節水分進出、入滲和滲漏。 創造多樣化的水文，包括較淺的永久靜水，或是季節性水位變化和年際性乾旱造成的間歇性洪水。 由於此生物群系與氣候的間接關係，濕地生物群系傳統上被歸類為「泛域」生物群系。 空間異質性是沼生濕地的關鍵特徵。 在地景尺度上，沼生濕地作為資源的匯集地和庇護所，初級生產力顯著高於周圍的生態系。 水文的微小空間變化通常會產生較侷限的水文棲位，和區塊間結構和生物組成差異巨大的鑲嵌式地景。 自營生物在複雜的食物網中占主導地位。 兩棲大型植物是主要的生產者，底表棲性藻類則是部分生態系的重要生產者。 兩棲植物能在低溶氧的水域中生長，並為異營生物構築棲地。 微生物分解者和無脊椎動物碎食者是地表土壤中的優勢物種。 微觀和大型無脊椎動物（如甲殼類）的成體有定棲性，為沼生濕地的專性物種。廣泛分布於地景中的大型無脊椎、脊椎動物植食者和掠食者（包括水鳥）也會利用沼生濕地作為覓食和繁殖地。
 
-# TF1.1 Tropical flooded forests and peat forests
+# TF1.1 熱帶水沒林與泥炭森林
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
 Closed-canopy forests in tropical swamps and riparian zones have high biomass and LAI, with unseasonal growth and reproductive phenology. The canopy foliage is evergreen, varying in size from mesophyll to notophyll with moderate SLA. Productivity differs markedly between high-nutrient ‘white water’ riparian systems and low-nutrient ‘black water’ systems. In the latter, most of the nutrient capital is sequestered in plant biomass, litter, or peat, whereas in white water systems, soil nutrients are replenished continually by fluvial subsidies. Some trees have specialised traits conferring tolerance to low-oxygen substrates, such as surface root
 mats, pneumatophores and stilt roots. Palms (sometimes in pure stands), hydrophytes, pitcher plants, epiphytic mosses, and ferns may be abundant, but lianas and grasses are rare or absent. The recent origin of these forests has allowed limited time for evolutionary divergence from nearby lowland rainforests (T1.1), but strong filtering by saturated soils has resulted in low diversity and some endemism. The biota is spatially structured by local hydrological gradients. Riparian galleries of floodplain forests also occur within savanna matrices. Trophic networks are complex but with less diverse representation of vertebrate consumers and predators than T1.1, although avian frugivores, primates, amphibians, macroinvertebrates, and crocodilian predators are prominent. Plant propagules are dispersed mostly by surface water or vertebrates. Seed dormancy and seedbanks are rare. Gap-phase dynamics are driven by individual tree-
