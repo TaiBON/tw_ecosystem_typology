@@ -1,6 +1,6 @@
 # TF1 沼生濕地生物群系
 
-At the interface of terrestrial and freshwater realms, the Palustrine wetlands biome includes vegetated floodplains, groundwater seeps, and mires with permanent or intermittent surface water. Although water and light are abundant at
+沼生濕地生物群系位於陸域和淡水域的交界處，包括植被覆蓋的氾濫平原、地下水滲流區和具有永久或間歇性地表水的泥炭沼澤。 Although water and light are abundant at
 least periodically, saturation of the soil may result in oxygen deprivation below the ground. This suppresses microbial activity and, in many systems, production exceeds decomposition, resulting in peat accumulation. The water regime influences resource availability and productivity and thus regulates
 these ecosystems from the bottom-up. Interactions among catchment precipitation, local evapotranspiration, and substrate and surface morphology regulate run-on, runoff, infiltration,
 and percolation. This results in water regimes that vary from permanent shallow standing water or near-surface water tables to seasonally high water tables to episodic inundation with long inter-annual dry phases. As a consequence of their indirect relationships with climate, wetland biomes are traditionally classified as ‘azonal’. Spatial heterogeneity is a key feature of palustrine wetlands. At landscape scales, they function as resource sinks and refuges with substantially higher productivity than the surrounding matrix. Fine-scale spatial variation in the water regime often produces restricted hydrological niches
