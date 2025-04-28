@@ -26,24 +26,22 @@
 
 ## 生態特徵
 
-亞熱帶、溫帶的親水性森林和灌木叢具有開闊到鬱閉的樹冠或灌木冠層，高度在2至40公尺之間，取決於洪水規模或地下淡水透鏡體（groundwater lense）深度。 不同於熱帶水沒林（TF1.1），此生態系由一種或少數幾種木本植物主導。 樹木能改變資源可用性（如水、養分和日照量）及生態系結構，營造小尺度空間異質性，從而影響下層植群及動物群集的物種組成、形態及功能特徵。 此過程包括改變沉積物（如大型根系生長造成地表微地形）、沉積落葉層和木屑、樹冠遮蔭、為動物提供乾燥庇護所，並為覓食或築巢提供環境和材料（如樹洞）。 Forest understories vary from diverse herbaceous assemblages
-to simple aquatic macrophyte communities in response to spatial and temporal hydrological gradients, which influence
-the density and relative abundance of algae, hydrophytes and dryland plants. Primary production varies seasonally and inter- annually and can be periodically high due to the mobilisation of nutrients on floodplains during inundation. Nutrients accumulate on floodplains during low flows, and may drive microbial blooms, leading to aquatic anoxia, and fish kills, which may be extensive when flushing occurs. Plant and animal life histories are closely connected to inundation (e.g. seed-fall, germination fish-spawning and bird breeding are stimulated by flooding). Inundation-phase aquatic food webs are moderately complex. Turtles, frogs, birds and sometimes fish exploit the alternation between aquatic and terrestrial phases. Waterbirds forage extensively on secondary production, stranded as floodplains recede, and breed in the canopies of trees or mid-storey. Forested wetlands are refuges for many vertebrates during droughts. Itinerant mammalian herbivores (e.g. deer and kangaroos) may have locally important impacts on vegetation structure and recruitment.
+亞熱帶、溫帶的親水性森林和灌木叢具有開闊到鬱閉的樹冠或灌木冠層，高度在2至40公尺之間，取決於洪水規模或地下淡水透鏡體（groundwater lense）深度。 不同於熱帶水沒林（TF1.1），此生態系由一種或少數幾種木本植物主導。 樹木能改變資源可用性（如水、養分和日照量）及生態系結構，營造小尺度空間異質性，從而影響下層植群及動物群集的物種組成、形態及功能特徵。 此過程包括改變沉積物（如大型根系生長造成地表微地形）、沉積落葉層和木屑、樹冠遮蔭、為動物提供乾燥庇護所，並為覓食或築巢提供環境和材料（如樹洞）。 森林的下層植被物種豐富，從草本植群到簡單的大型水生植群不等，時空上的水文變化會改變藻類、水生植物和旱生植物的密度及相對豐度。 初級生產力隨季節和年際變化波動，並且在氾濫平原淹水期間因養分移動而達到週期性高峰。 低流量時養分累積於氾濫平原，可能會引起微生物爆發，導致水體缺氧，並在沖刷時造成魚類大量死亡。 動植物生活史與淹水息息相關，如播種、發芽、魚類產卵和鳥類繁殖都受洪水刺激。 淹水階段的水生食物網複雜。 烏龜、青蛙和鳥類會在水陸域交替活動，部分魚類也有此特徵。 洪水退去後，水鳥會在氾濫平原上廣泛掠食，並在樹冠或中層植被繁衍。 森林濕地在乾旱期間為許多脊椎動物提供庇護所。 遊蕩性哺乳類植食者（如鹿和袋鼠）可能會大幅影響植群結構和補充。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-These forests occur on floodplains, riparian corridors, and disconnected lowland flats. Seasonally and inter-annually variable water supply influences ecosystem dynamics. Allochthonous water and nutrient subsidies from upstream catchments supplement local resources and promote the extension of floodplain forests and their biota into arid regions (‘green tongues’). Water movement is critical for the connectivity and movement of biota, while some groundwater-dependent forests are disconnected. High-energy floods in riparian corridors displace standing vegetation and woody debris, redistribute nutrients, and create opportunities for dispersal and recruitment. Low-energy environments with slow drainage promote peat accumulation. Extreme drying and heat events may generate episodes of tree dieback and mortality. Fires may occur depending on the frequency of fire weather, ignition sources, and landscape context.
+森林濕地分布於氾濫平原、河岸廊道和孤立的低地平原上。 水分隨季節和年際變化，造成生態系動態變化。 來自上游集水區的異源水分和養分補充當地資源，促進氾濫平原森林及其生物相往乾燥地區擴展，形成「綠舌」（green tongues）。 水體流動是生物群集連結和遷徙的重要因素，部分依賴地下水的森林則與外界隔離。 河岸廊道中能量高的洪水會沖刷現有植被和木質碎片，重新分配養分，並創造植物傳播和補充的機會。 在水流能量低的環境中，排水緩慢會累積泥炭。 極端乾旱和高溫可能導致樹木枯萎和死亡。 乾旱頻率、起火源和地景會影響火燒事件頻率。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Temperate and subtropical floodplains. riparian zones and lowland flats worldwide.
+亞熱帶、溫帶森林氾濫平原。 全球的河岸和低地平原。
 
-# TF1.3 Permanent marshes
+# TF1.3 永久草澤
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
 These shallow, permanently inundated freshwater wetlands lack woody vegetation but
 are dominated instead by emergent macrophytes growing
