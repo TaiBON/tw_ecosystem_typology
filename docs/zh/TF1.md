@@ -43,38 +43,30 @@
 
 ## 生態特徵
 
-These shallow, permanently inundated freshwater wetlands lack woody vegetation but
-are dominated instead by emergent macrophytes growing
-in extensive, often monospecific groves of rhizomatous grasses, sedges, rushes, or reeds in mosaics with patches
-of open water. These plants, together with phytoplankton, algal mats, epiphytes, floating, and amphibious herbs, sustain high primary productivity and strong bottom-up regulation. Although most of the energy comes from these functionally diverse autotrophs, inflow and seepage from catchments may contribute allochthonous energy and nutrients. Plant traits, including aerenchymatous stems and leaf tissues (i.e. with
-air spaces), enable oxygen transport to roots and rhizomes
-and into the substrate. Invertebrate and microbial detritivores and decomposers inhabit the water column and substrate. Air-breathing invertebrates are more common than gill- breathers, due to low dissolved oxygen. The activity of microbial decomposers is also limited by low oxygen levels and organic deposition continually exceeds decomposition. Their aquatic predators include invertebrates, turtles, snakes and sometimes small fish. The emergent vegetation supports a complex trophic web, including insects with winged adult phases, waterbirds, reptiles, and mammals, which feed in the vegetation and
-also use it for nesting (e.g. herons, muskrat, and alligators). Waterbirds include herbivores, detritivores, and predators. Many plants and animals disperse widely beyond the marsh through the air, water and zoochory (e.g. birds, mammals). Reproduction and recruitment coincide with resource availability and may be cued to floods. Most macrophytes spread vegetatively with long rhizomes but also produce an abundance of wind- and water- dispersed seeds.
+永久草澤與開闊水域鑲嵌分布於地景中，缺乏木本植物，優勢物種為挺水植物，通常生長在廣闊且單一種群的地下莖禾本科、莎草、燈心草或蘆葦中。 上述植物和浮游植物、藻類墊層、附生植物、漂浮植物和兩棲草本植物共同維持高初級生產力，並上行調節營養階層。 雖然大部分能量來自功能多樣的自營生物，但集水區輸入和滲流的水流也會帶來異源能量和養分。 植物特徵使氧氣能夠傳輸到根和地下莖，並進入土壤，包括能通氣的莖葉組織。 無脊椎動物和微生物的碎食者和分解者棲息在水柱和土壤中。 由於溶氧量低，呼吸空氣的無脊椎動物比水中呼吸者更為常見。 微生物分解者的活性也受到低溶氧量限制，使有機質沉積量超過分解量。 水生掠食者包括無脊椎動物、烏龜、蛇和小型魚類。 挺水植物支撐複雜的食物網，包括成蟲階段有翅膀的昆蟲、水鳥、爬蟲類和哺乳類，在植物中覓食，並將其用於築巢（例如鷺科、麝鼠和短吻鱷）。 水鳥包括植食者、碎食者和掠食者。 許多動植物透過空氣、水和動物傳播（例如鳥類、哺乳類）到沼澤之外。 生物繁殖和補充時間與資源可用性一致，且可能由洪水觸發。 大多數挺水植物通過地下莖進行無性繁殖，但也會產生大量由風力和水力傳播的種子。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-These systems occur in several geomorphic settings, including lake shores, groundwater seeps, river floodplains and deltas, always in low-energy depositional environments. Shallow but perennial inundation and low variability are maintained by frequent floods and lake waters, sometimes independently of local climate. This sustains high levels of water and nutrients, but also generates substrate anoxia. Substrates are typically organic. Their texture varies, but silt and clay substrates are associated with high levels of P and N. Salinity is low but may be transitional where wetlands connect with brackish lagoons (FM1.2, FM1.3). Surface fires may burn vegetation in some permanent marshes, but rarely burn the saturated substrate, and are less pervasive drivers of these ecosystems than seasonal floodplain marshes (TF1.4).
+永久草澤出現在多種地貌中，包括湖岸、地下水滲流區、氾濫平原和三角洲，並且總是出現在水流能量低的沉積環境。 頻繁的洪水和湖水維持長期淺層淹水和低變異性，有時與當地氣候無關。 提供高水位和大量養分，但也會導致土壤缺氧。 土壤通常富含有機質。 土壤質地各異，磷和氮含量高的土壤通常為粉砂和黏土。此生態系的鹽度通常較低，但在與半鹹水潟湖（FM1.2, FM1.3）相連的地方可能會有鹽度過渡帶。 地表火燒事件可能會燃燒永久草澤中的部分植被，但很少會燃燒飽和土壤，在此生態系中的影響力也低於季節性氾濫平原草澤（TF1.4）。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Scattered throughout the tropical and temperate regions worldwide.
+永久草澤散布於全球熱帶和溫帶地區。
 
-# TF1.4 Seasonal floodplain marshes
+# TF1.4 季節性氾濫平原草澤
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-This group includes high-productivity floodplain wetlands fed regularly by large inputs of allochthonous resources that drive strong bottom-up regulation, and smaller areas of disconnected oligotrophic wetlands. Functionally diverse autotrophs include phytoplankton, algal mats and epiphytes, floating and amphibious herbs and graminoids, and semi-terrestrial woody plants. Interactions of fine-scale spatial gradients in anoxia and desiccation are related to differential flooding. These gradients shape ecosystem assembly by enabling species with diverse life-history traits to exploit different niches, resulting in strong local zonation of vegetation and
-high patch-level diversity of habitats for consumers. Wetland mosaics include very productive and often extensive grasses, sedges and forbs (sedges dominate oligotrophic systems)
-that persist through dry seasons largely as dormant seeds or subterranean organs as well as groves of woody perennials that are less tolerant of prolonged anoxia but access ground water or arrest growth during dry phases. Productive and functionally diverse autotrophs support complex trophic networks with zooplankton, aquatic invertebrates, fish, amphibians, reptiles, aquatic mammals, waterbirds, and terrestrial animals with diverse dietary and foraging strategies. During dry phases, obligate aquatic organisms are confined to wet refugia. Others, including many invertebrates, have dormancy traits allowing persistence during dry phases. Very high abundances and diversities of invertebrates, waterbirds, reptiles, and mammals exploit resource availability, particularly when prey are concentrated during drawdown phases of floods. Reproduction and recruitment, especially of fish, coincide with food availability cued by flood regimes.
+季節性氾濫平原草澤包括高初級生產力的氾濫平原濕地，其定期接收大量異源資源，藉以上行調節營養階層，同時也涵蓋小範圍的孤立貧養濕地。 功能多樣的自營生物包括浮游植物、藻類墊層、附生植物、漂浮和兩棲草本植物及禾草，以及半陸生木本植物。 由於氾濫不均，缺氧與乾燥程度的微尺度變化相互作用。 提供不同棲位給生活史特徵多樣的物種，進而塑造生態系的物種組成，造成植群帶狀分布，並提供消費者多樣化的棲地。 濕地鑲嵌地景包括初級生產力極高且廣闊的禾本科、莎草和闊葉草類（莎草在貧養地區佔優勢），在乾季以休眠種子或地下器官存活；木本多年生植物對長期缺氧的耐受性較低，但能夠利用地下水或在乾旱期間停止生長。 初級生產力高且功能多樣的自營生物支撐複雜的食物網，包括浮游動物、水生無脊椎動物、魚類、兩棲類、爬蟲類、水生哺乳類、水鳥及陸生動物，具有多樣的食性和覓食策略。 在乾旱期間，水域生物被限制在濕潤的庇護所。 其他生物（包括無脊椎動物）具有能度過乾旱的休眠特徵。 當洪水退去而獵物集中時，無脊椎動物、水鳥、爬蟲類和哺乳類的豐度和多樣性極高，能充分利用資源。 洪水帶來的大量食物與生物繁殖和補充的物候一致。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Regular seasonal flooding and drying is driven by river flow regimes, reflecting seasonal precipitation or melt patterns in catchments. Salinity gradients and tides influence these marshes where they adjoin estuaries, with brackish marshes on transitions to TF1.2, TF1.3 and MFT1.3. Disconnected oligotrophic systems rely on rainfall and low substrate permeability for seasonal waterlogging. Seasonal flood extent and duration vary inter-annually, especially in temperate zones. Geomorphic heterogeneity in the depositional floodplains promote spatial and temporal variability in moisture status, creating contrasting patches, including perennially inundated refuges and dry ‘islands’ that seldom flood and dry rapidly. Substrates are fertile alluvia or infertile white sands with variable grain sizes, moisture, and organic content that reflect fine-scale depositional patterns and hydrological gradients. Fires may occur in dry seasons, releasing resources, changing vegetation structure and composition, consuming organic substrates and lowering the wetland surface.
+由河川流量驅動季節性洪水和乾旱，反映集水區內的季節性降水或融雪模式。 當沼澤鄰近河口時，會受到鹽度變化和潮汐影響，並且在與TF1.2、TF1.3和MFT1.3的過渡區中形成半鹹水沼澤。 孤立貧養地區的季節性洪水仰賴降雨和低滲透性的土壤。 季節性洪水的範圍和持續時間在不同年份有所變化，溫帶地區的變化特別明顯。 多樣化的地貌造成氾濫平原的水分時空變異性，形成對比鮮明的區塊，包括長期淹沒的庇護所和鮮少淹沒且迅速乾燥的「島嶼」。 土壤從肥沃的沖積層到貧瘠的白沙不等，其顆粒大小、水分和有機質含量隨小尺度的沉積模式和水文變化。 在乾季可能發生火燒事件，釋放資源、改變植被結構和物種組成、消耗有機質並降低濕地高度。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
 Throughout the seasonal tropics and subhumid temperate regions of the world.
 
