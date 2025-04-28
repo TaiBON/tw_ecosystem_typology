@@ -68,24 +68,24 @@
 
 ## 生態系功能群分布
 
-Throughout the seasonal tropics and subhumid temperate regions of the world.
+季節性氾濫平原草澤分布於全球季節性熱帶區和溫帶半濕潤地區。
 
-# TF1.5 Episodic arid floodplains
+# TF1.5 乾燥間歇性氾濫平原
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
 Highly episodic freshwater floodplains are distinct from, but associated with, adjacent river channels, which provide water and sediment during flooding. These are low-productivity systems during long, dry periods (maybe years), with periodic spikes of very high productivity when first inundated. These floodplains have a high diversity of aquatic and terrestrial biota in complex trophic networks, with ruderal life-history traits enabling the exploitation of transient water and nutrient availability. Primary producers include flood- dependent macrophytes and algae with physiological traits for water conservation or drought avoidance. Lower trophic levels (e.g. algae, invertebrate consumers) avoid desiccation with traits, such as dormant life-cycle phases, deposition of resting eggs (e.g. crustaceans and rotifers) and burial in sediments banks (i.e. larvae of cyclopoid copepods). Higher trophic levels (e.g. fish, amphibians, reptiles and waterbirds) are highly mobile in large numbers or with resting strategies (i.e. burrowing frogs). These taxa can be important mobile links for the movement of biota and resources, but floods are the primary allochthonous sources of energy and nutrients. Floods are important
 triggers for life-history processes, such as seed germination, emergence from larval stages, dispersal and reproduction. Common lifeforms include detritus-feeding invertebrate collector-gatherers, indicating a reliance on heterotrophic energy pathways.
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
 Multi-year dry periods are punctuated by brief intervals of shallow inundation caused by the overspill from flooding river channels. These boom-bust systems have temporarily high productivity driven by water and partly by elevated levels of dissolved Carbon and nutrients (notably N and P) released from leaf litter, oxygen, and organic matter in newly inundated, shallow areas. High temperatures promote productivity and rapid drying in arid environments. Water may be turbid or clear, which affects light environments and may limit benthic algal production to the shallow littoral margins of small channels. This in turn affects aquatic food webs and Carbon dynamics. Drainage is predominantly horizontal
 and bidirectional (i.e. in and out of the river), but infiltration and evapotranspiration can be significant in the flat terrain and may influence salinity if there are sources of salt in the catchment or ground water.
 
-## DISTRIBUTION
+## 生態系功能群分布
 
 Connected to ephemeral rivers in semi-arid and arid regions of all continents.
 
@@ -94,26 +94,26 @@ Connected to ephemeral rivers in semi-arid and arid regions of all continents.
 BIOME: TF1 PALUSTRINE WETLANDS
 REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
 These patterned peatlands account for up to 40% of global soil carbon are dominated by a dense cover (high LAI) of hydrophytic mosses, graminoids, and shrubs, sometimes with scattered trees. Positive feedbacks between dense ground vegetation, hydrology, and substrate chemistry promote peat formation. through water retention and inhibition of microbial decomposition. Moderate to low primary production is partially broken down at the soil surface by anamorphic
 fungi and aerobic bacteria. Burial by overgrowth and saturation by the water table promotes anaerobic conditions, limiting subsurface microbial activity, while acidity, nutrient scarcity, and low temperatures enhance the excess of organic deposition over decomposition. Plant diversity is low but fine-scale hydrological gradients structure vegetation mosaics, which may include fens (TF1.7). Mosses (notably Sphagnum spp.) and graminoids with layering growth forms promote peat formation. Their relative abundance influences microbial communities and peat biochemistry. Plant traits, such as lacunate stem tissues, aerenchyma and surface root mats, promote oxygen transport into the anaerobic substrate. Woody plant foliage is small (leptophyll-microphyll) and sclerophyllous, reflecting excess carbohydrate production in low-nutrient conditions. Plants and fungi reproduce primarily by cloning,
 except where disturbances (i.e. fires) initiate gaps enabling recruitment. Pools within the bogs have specialised aquatic food webs underpinned by algal production and allochthonous carbon. Invertebrate larvae are prominent consumers in the trophic network of bog pools, and as adults they are important pollinators and predators. Assemblages of flies, dragonflies, damselflies, caddisflies and other invertebrates vary with the number, size and stability of pools. Carnivorous plants (i.e. sundews) support N cycling. Vertebrates are mostly itinerant but include specialised resident amphibians, reptiles, rodents, and birds. Some regions are rich in locally endemic flora and fauna, particularly in the Southern Hemisphere.
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
 Bogs are restricted to cool humid climates where moisture inputs (e.g. precipitation, seepage, and surface inflow) exceed outputs (e.g. evapotranspiration, percolation and runoff) for extended periods, enabling these systems to function as landscape sponges. Seasonally low temperatures and/or frequent cloud cover limit evapotranspiration. Substrates are waterlogged, anaerobic, highly organic (usually &gt;30% dry weight), acidic (pH 3.5–6), and nutrient-poor. Peat growth may produce raised ombrotrophic bogs entirely fed by rain, but if minerotrophic inflows from catchments occur, they provide limited nutrient subsidies (cf. TF1.6). Fires may occur in dry summers, sometimes igniting peat with long-term consequences for ecosystem function and stability.
 
-## DISTRIBUTION
+## 生態系功能群分布
 
 Extensive across boreal-subarctic latitudes, with small areas on tropical mountains of South America, New Guinea, and Central Africa and at cool, temperate southern latitudes in Patagonia and Australasia.
 
 # TF1.7 Boreal and temperate fens
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
 Fens are peatland ecosystems dominated by hydrophytic grasses, sedges, or forbs. Fens
 have higher productivity but lower functional diversity than bogs (TF1.6). Productivity is subsidised by inflow of minerotrophic waters and limited by anoxic substrates. Plant diversity is
@@ -127,11 +127,11 @@ be spatially homogeneous or form string mosaics with bogs
 (i.e. aapa mires of Finland) but often display zonation reflecting differences in water chemistry (notably pH) or saturation. Patches of fen and bogs may be juxtaposed within peatland mosaics. Ongoing peat build-up may lead to transition from fen to bog systems. Plants and fungi reproduce locally by cloning, but seed and spore production enables dispersal and the colonisation
 of new sites. Invertebrates are dominant consumers in the trophic network, including dragonflies, caddisflies, flies, as well as calcareous specialists such as snails. Vertebrates are mostly itinerant but include specialised resident amphibians and birds.
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
 Moisture inputs (e.g. precipitation, seepage, and surface inflow) exceed outputs (e.g. evapotranspiration, percolation and runoff) for extended periods, enabling these systems to function as landscape sponges. Seasonally low temperatures and/or frequent cloud cover limit evapotranspiration. Fens typically develop through the paludification (i.e. peat accumulation) of shallow lakes or around springs, and thus shallow standing water is present frequently
 as flark pools. Such lakes may be abundant in post-glacial landscapes. Substrates are waterlogged, anaerobic, highly organic (usually &gt;30% dry weight), slightly acidic or alkaline, and rich in mineral nutrients. Minerotrophic water (i.e. inflow from catchments) provides significant nutrient subsidies that vary with catchment geology. Fens on the Arctic Circle (palsa mires) have subsurface permafrost. Fires may occur in dry summers, rarely consuming peat, lowering the surface and degrading permafrost.
 
-## DISTRIBUTION
+## 生態系功能群分布
 
 Extensive across boreal-subarctic latitudes and cool temperate regions, especially mountains. Very restricted in the Southern Hemisphere. Fens may also occur in tropical mountains (i.e. Andes), but are poorly known there.
