@@ -13,24 +13,20 @@
 
 ## 關鍵生態驅動力
 
-High rainfall, overbank flows or high water tables maintain an abundant water supply. Continual soil profile saturation leads to anaerobic black water conditions and peat accumulation. In contrast, white water riparian zones undergo frequent fluvial disturbance and drain rapidly. Peat forests often develop behind lake shore vegetation or mangroves, which block lateral drainage. Black water peatlands may become domed, ombrogenous (i.e. rain-dependent), highly acidic, and nutrient-poor, with peat accumulating to depths of 20 m. In contrast, white water riparian forests are less permanently inundated and floods continually replenish nutrients, disturb vegetation, and rework sediments. Hummock-hollow micro-topography is characteristic of all forested wetlands and contributes to niche diversity. Light may be limited by dense tree canopies. There is low diurnal, intra- and inter-annual variability in rainfall and temperature, with the latter rarely &lt;10°C, which promotes microbial activity when oxygen is available.
+高降雨量、河水氾濫或高地下水位能維持足夠的水源。 長期飽和的土壤產生厭氧的黑水河岸並累積泥炭。 與此相對，白水河岸經常受到河流擾動，並迅速排水。 泥炭森林通常在湖岸植被或紅樹林的後方發展，阻止橫向排水。 黑水泥炭地可能形成圓頂狀的雨潤泥煤，酸性高且缺乏養分，泥炭的深度可達20公尺。 相對而言，白水河岸森林的淹沒時間較短，洪水會不斷補充養分、擾動植被並重新累積沉積物。 圓丘–凹地的微地形是所有森林濕地的典型特徵，有助於增加棲位多樣性。 茂密的樹冠可能限制日照量。 降雨量和氣溫的日夜、年內及年際變化小，氣溫很少低於10°C，有助於微生物在氧氣充足時活動。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Flat equatorial lowlands of Southeast Asia, South America, and Central and West Africa, notably in Borneo and the Amazonian lowlands.
+熱帶水沒林與泥炭森林分布於赤道，東南亞、南美洲以及非洲中部和西部的平坦低地，尤其是婆羅洲和亞馬遜低地。
 
-# TF1.2 Subtropical-temperate forested wetlands
+# TF1.2 亞熱帶、溫帶森林濕地
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-These hydrophilic forests and thickets have an open to closed tree or shrub canopy, 2–40 m tall, dependent on flood regimes or groundwater lenses. Unlike tropical forests (TF1.1), they typically are dominated by one
-or very few woody species. Trees engineer fine-scale spatial heterogeneity in resource availability (water, nutrients, and
-light) and ecosystem structure, which affects the composition, form, and functional traits of understorey plants and fauna. Engineering processes include the alteration of sediments,
-(i.e. surface micro-topography by the growth of large roots),
-the deposition of leaf litter and woody debris, canopy shading, creation of desiccation refuges for fauna and the development of foraging or nesting substrates (i.e. tree hollows). Forest understories vary from diverse herbaceous assemblages
+亞熱帶、溫帶的親水性森林和灌木叢具有開闊到鬱閉的樹冠或灌木冠層，高度在2至40公尺之間，取決於洪水規模或地下淡水透鏡體（groundwater lense）深度。 不同於熱帶水沒林（TF1.1），此生態系由一種或少數幾種木本植物主導。 樹木能改變資源可用性（如水、養分和日照量）及生態系結構，營造小尺度空間異質性，從而影響下層植群及動物群集的物種組成、形態及功能特徵。 此過程包括改變沉積物（如大型根系生長造成地表微地形）、沉積落葉層和木屑、樹冠遮蔭、為動物提供乾燥庇護所，並為覓食或築巢提供環境和材料（如樹洞）。 Forest understories vary from diverse herbaceous assemblages
 to simple aquatic macrophyte communities in response to spatial and temporal hydrological gradients, which influence
 the density and relative abundance of algae, hydrophytes and dryland plants. Primary production varies seasonally and inter- annually and can be periodically high due to the mobilisation of nutrients on floodplains during inundation. Nutrients accumulate on floodplains during low flows, and may drive microbial blooms, leading to aquatic anoxia, and fish kills, which may be extensive when flushing occurs. Plant and animal life histories are closely connected to inundation (e.g. seed-fall, germination fish-spawning and bird breeding are stimulated by flooding). Inundation-phase aquatic food webs are moderately complex. Turtles, frogs, birds and sometimes fish exploit the alternation between aquatic and terrestrial phases. Waterbirds forage extensively on secondary production, stranded as floodplains recede, and breed in the canopies of trees or mid-storey. Forested wetlands are refuges for many vertebrates during droughts. Itinerant mammalian herbivores (e.g. deer and kangaroos) may have locally important impacts on vegetation structure and recruitment.
 
