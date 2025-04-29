@@ -1,6 +1,6 @@
 # MT1 海岸線生物群系
 
-Twelve Apostles, Otway Coast, Victoria, Australia. Source: Richard Mikalsen on Wikimedia commons
+澳洲維多利亞省奧特威海岸十二門徒石。 資料來源：維基百科的 Richard Mikalsen
 
 海岸線生物群系為自然形成的潮間帶非生物底質棲地，位於陸域與海域交界處。 此生物群系分布於溫帶到極區緯度中所有具有陸地的地區。 初級生產力範圍從低到高不等，大致與水生大型植物附著的穩定硬底質可用性呈正比，並與陸域和海域的異源能量依賴程度呈反比。 初級生產力也受沿岸湧升流影響，對於細顆粒底質的生態型，初級生產力也與鄰近陸地沉積物的養分含量有關。 在生態型內部及之間，生物相強烈受到潮汐、波浪和顆粒尺寸影響，顆粒尺寸從連續的岩石到細小的粉砂和黏土不等。 部分海岸線由硬底質和軟底質混合構成，垂直分層隨風暴事件和軟質沉積物再沉積而暫時變化。 潮汐使曝氣面積垂直變化，增加乾燥和溫度壓力、減少濾食時間可用性，並改變海域和陸域掠食者的交互作用。 波浪和顆粒大小決定底質穩定性和物理擾動模式。 波浪作用從岬角向海灣逐漸減弱，產生生物群集結構的水平變化。 許多生物具有形態和行為特徵，防止在乾潮時乾燥或被波浪沖走。 掘穴動物是未固結沉積物中的重要物種。 競爭（尤其是競爭空間）是建構群集的重要因素，重要性隨顆粒尺寸變小而減弱。 促進性交互作用在所有顆粒尺寸的生態系中都可能很重要，特別是保護生物免受乾燥壓力或物理擾動的交互作用。 生物多樣性通常較高，微觀生物主導小顆粒生態系中的生物量。
 
@@ -47,43 +47,30 @@ Twelve Apostles, Otway Coast, Victoria, Australia. Source: Richard Mikalsen on W
 
 ## 生態特徵
 
-Sandy shorelines include beaches, sand bars and spits. These intertidal systems typically lack macrophytes, with their low productivity largely underpinned
-by detrital subsidies dominated by wrack (i.e. drift seaweed accumulating at the high-water mark) and phytoplankton, particularly in the surf zone of dissipative beaches. Salt- and drought-tolerant primary producers dominate adjacent dune systems (MT2.1). Meio-faunal biomass in many instances exceeds macrofaunal biomass. In the intertidal zone, suspension-feeding is a more common foraging strategy among invertebrates than deposit-feeding, although detritivores may dominate higher on the shore where wrack accumulates. Invertebrate fauna are predominantly interstitial, with bacteria, protozoans and small metazoans contributing to the trophic network. Sediments are constantly shifting and thus invertebrate fauna are dominated by mobile taxa that display an ability to burrow and/or swash-ride up and down the beach face with
-the tides. The transitional character of these systems supports marine and terrestrial invertebrates and itinerant vertebrates from marine waters (i.e. egg-laying turtles) and from terrestrial or transitional habitats (i.e. shorebirds foraging on invertebrates or foxes foraging on carrion).
+沙質海岸線位於潮間帶，如海灘、沙洲和沙嘴。 此生態系通常缺乏大型植物，低初級生產力仰賴聚集在滿潮線的漂流藻類和浮游植物，特別是在消能型海灘的碎波帶。 鄰近的沙丘生態系（MT2.1）中，優勢物種為耐鹽且耐旱的初級生產者。 底內動物相的生物量高於大型動物。 在潮間帶的無脊椎動物群集中，懸浮物濾食者比沉積物攝食者更常見，但在漂流藻類聚集的海岸線上層，碎食者可能占有優勢。 無脊椎動物群體主要生活於沙質間隙中，細菌、原生動物和小型後生動物皆會貢獻食物網。 由於沉積物持續移動，無脊椎動物群集主要是移動性物種，具有掘穴和(或)隨潮水上下移動的行為特徵。 此生態系的過渡性特徵支撐海域和陸域無脊椎動物、來自海域的移動性脊椎動物（如產卵的海龜）和來自陸域或過渡性棲地的脊椎動物，如掠食無脊椎動物的岸鳥或腐食性狐狸。
 
 ## 關鍵生態驅動力
 
-Physical factors are generally more important ecological drivers than biological factors.
-Sand grain size (>85% grains 0.0625-2mm diam.), wave
-and tidal regimes, and their relative energy, determine beach morphology, all of which influence the spatial and temporal availability of resources and niche diversity. Particle size is influenced by sediment sources as well as physical conditions and affects interstitial habitat structure. Wave action maintains substrate instability and an abundant supply of oxygen through turbulence. Tides and currents influence the dispersal of biota and regulate daily cycles of desiccation and hydration as well as salinity. Beach morphology ranges from narrow and steep (i.e. reflective) to wide and flat (i.e. dissipative) as sand becomes finer and waves and tides larger. Reflective beaches are accretional and more prevalent in the tropics; dissipative beaches are erosional and more common in temperate regions. Sands filter large volumes of seawater, with the volume greater on reflective than dissipative beaches. Beaches are linked to nearshore surf zones and coastal dunes through the storage, transport, and exchange of sand. Sand transport is the highest in exposed surf zones and sand storage the greatest in well-developed dunes.
+此生態系的物理驅動力通常比生物驅動力更重要。
+超過85%的沙粒尺寸在0.0625 – 2公釐之間，沙粒尺寸、波浪和潮汐規律及其相對能量會決定海灘形態，並影響資源的時間、空間可用性和棲位多樣性。 沉積物來源和物理條件會影響沙粒尺寸，並影響沙質間隙的棲地結構。 波浪作用以湍流維持底質不穩定性及充足的氧氣。 潮汐和洋流影響生物傳播，並調節乾燥程度、水合作用以及鹽度變化。 海灘形態從狹窄陡峭的反射型海灘到寬廣平坦的耗能型海灘不等，取決於沙粒尺寸以及波浪和潮汐強度。 反射型海灘多為熱帶地區的堆積性海灘；耗能型海灘則多為溫帶地區的侵蝕性海灘。 沙灘會過濾大量海水，反射型海灘的過濾量高於耗能型海灘。 海灘會透過儲存、運輸和交換沙粒，連結近岸碎波帶和沿海沙丘。 碎波帶的沙粒運輸量最高，發展成熟的沙丘中儲沙量最大。
 
 ## 生態系功能群分布
 
-Sandy shores are most extensive at temperate latitudes, accounting for 31% of the ice-free global coastline, including 66% of the African coast and 23% of the European coast.
+沙質海岸線廣泛分布於溫帶地區，佔全球無冰海岸線的31%，包括66%的非洲海岸線和23％的歐洲海岸線。
 
-# MT1.4 Boulder and cobble shores
+# MT1.4 巨礫石與鵝卵石海岸
 
-BIOME: MT1 SHORELINE SYSTEMS
-REALM: TRANSITIONAL MARINE-TERRESTRIAL
+生物群系：MT1 海岸線生物群系
+生態域：海域與陸域過渡帶
 
 ## 生態特徵
 
-These low-productivity, net heterotrophic systems are founded on unstable rocky substrates and share some ecological features with sandy beaches (MT1.3) and rocky shores (MT1.1). Traits of the biota reflect responses
-to regular substrate disturbance by waves and exposure of particles to desiccation and high temperatures. For example, in the high intertidal zone of boulder shores (where temperature and desiccation stress is most pronounced), fauna may be predominantly nocturnal. On cobble beaches, fauna are more abundant on the sub-surface because waves cause cobbles
-to grind against each other, damaging or killing attached fauna. Conversely, on sandy beaches (MT1.3), most fauna occupy surface sediments. Intermediate frequencies of disturbance
-lead to the greatest biodiversity. Only species with low tenacity (i.e. top shells) are found in surface sediments because they
-can detach and temporarily inhabit deeper interstices during disturbance events. High-tenacity species (i.e. limpets) or
-sessile species (e.g. macroalgae and barnacles) are more
-readily damaged, hence rare on cobble shores. Large boulders, however, are only disturbed during large storms and have more stable temperatures, so more fauna can persist on their surface. Encrusting organisms may cement boulders on the low shore, further stabilising them in turbulent water. Allochthonous wrack is the major source of organic matter on cobble beaches, but in situ autotrophs include superficial algae and vascular vegetation dominated by halophytic forbs. On some cobble beaches of New England, USA, extensive intertidal beds of the cordgrass Spartina alterniflora stabilise cobbles and provide shade, facilitating establishment of mussels, barnacles, gastropods, amphipods, crabs and algae. In stabilising cobbles and buffering wave energy, cordgrass may also facilitate plants higher on the intertidal shore.
+巨礫石與鵝卵石海岸為初級生產力低的異營生態系，建立於不穩定的岩石上，具有相似於沙灘(MT1.3)和岩石海岸(MT1.1)的生態特徵。 生物具有能應對波浪定期擾動底質並避免暴露於乾燥和高溫環境的特徵。 例如，在巨礫石海岸溫度和乾燥壓力最強的滿潮帶中，動物大多為夜行性。 鵝卵石海岸的動物群集則集中在地下，因為波浪會使卵石相互磨損，從而傷害或殺死附著生物。 與此生態系相反，沙灘(MT1.3)的大多數生物棲息於表層沉積物中。 此生態系中，擾動頻率中等區域的生物多樣性最高。 只有黏著度較弱的物種（如海螺）出現在表層沉積物中，這些生物可以在擾動事件中脫離並暫時棲息於較深的縫隙中。 黏著力較強的物種（如笠貝）或固著性生物（例如大型藻類和藤壺）更容易受損，因此罕見於鵝卵石海岸。 巨礫石海灘僅在大型風暴期間受到擾動，且溫度更穩定，因此表層可以生存更多生物。 結殼生物可能會膠結在乾潮區的巨礫石上，進一步穩定湍急水流中的巨礫石。 異源海藻是鵝卵石海岸主要的有機質來源，但當地自營生物包括表層藻類和耐鹽闊葉草類為主的維管束植物。 在美國的新英格蘭，廣泛分布於鵝卵石海岸的互花米草可以穩定鵝卵石並提供遮蔭，促進貽貝類、藤壺、腹足類、端足類、蟹類和藻類建立族群。 互花米草也可能穩定卵石並緩衝波浪能量，促進潮間帶海岸上層的植物生長。
 
 ## 關鍵生態驅動力
 
-Particle size (e.g. cobbles vs. boulders) and wave activity determine substrate mobility, hence the frequency of physical disturbance to biota. Ecosystem engineers modify these relationships by stabilising the substrate. Cobble beaches are typically steep because waves easily
-flow through large interstices between coarse beach particles, reducing the effects of backwash erosion. Hence swash and breaking zones tend to be similar widths. The permeability of cobble beaches leads to desiccation and heat stress at low
-tide along the beach surface gradient. Desiccation stress is extreme on boulder shores, playing a similar role in structuring communities as on rocky shores. The extent of the fine sediment matrix present amongst cobbles, water supply (i.e. rainfall)
-and the frequency of physical disturbance all influence beach vegetation. Alongshore grading of sediment by size could occur on long, drift dominated shorelines which may influence sediment calibre on the beach.
+此生態系的顆粒大小和波浪活動決定底質移動性，從而影響物理擾動生物相的頻率。 生態系工程師藉由穩定底質來改變上述關係。 鵝卵石海灘通常較陡，因為波浪能夠輕易穿過粗糙顆粒之間的大空隙，減少回流侵蝕的影響， 因此流濺帶和碎浪帶的寬度通常相近。 鵝卵石海灘的高滲透性導致海灘表面在低潮時出現乾燥和炎熱壓力。 巨礫石海岸具有極端乾燥壓力，乾燥影響鵝卵石和岩岸群集結構的方式類似。 鵝卵石間的細顆粒沉積物範圍、供水量（如降雨量）和物理擾動頻率都會影響海岸植群分布。 在以漂移為主的長海岸線上，沉積物可能會按照粒徑大小沿岸進行分級，影響海灘上的沉積物尺寸。
 
 ## 生態系功能群分布
 
-Cobble beaches occur where rivers or glaciers delivered cobbles to the coast or where they were eroded from nearby coastal cliffs. They are most common
-in Europe and also occur in Bahrain, North America, and New Zealand’s South Island.
+鵝卵石海灘分布於河流或冰河將鵝卵石運送至海岸的地區，或者是受侵蝕的海岸懸崖周邊地區。 此生態系常見於歐洲，也出現在巴林、北美洲和紐西蘭南島等地區。
