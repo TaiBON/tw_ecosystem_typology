@@ -111,22 +111,12 @@
 
 ## 生態特徵
 
-礦質泥炭沼澤以水生禾本科、莎草或闊葉草類為主。 相比於酸性泥炭沼澤（TF1.6），此生態系的初級生產力更高但功能多樣性較低。 初級生產力受到礦泉水補給，但受限於土壤缺氧。 Plant diversity is
-very low where surface hydrology varies temporally from complete saturation to desiccation but can be high in mineral- rich fens with stable near-surface water tables. Some regions
-are rich in locally endemic flora and fauna. Woody plants
-are typically scarce or absent, though some boreal forests
-(T2.1) develop on minerotrophic peats. Sphagnum mosses
-and hummock-forming sedges are absent from rich fens but ‘brown mosses’ are common. Primary production is partly broken down on soil-surface layers by anamorphic fungi and aerobic bacteria. Anaerobic conditions due to high water tables limit subsurface microbial activity so that organic deposition exceeds decomposition and peat accumulates. Plant traits,
-such as lacunate stem tissues, aerenchyma and surface root mats, promote oxygen transport into the anaerobic substrate. Methanogenic archaea and anaerobic bacteria may occur in the subsoil if N, Fe and S are sufficient to sustain them. Fens may
-be spatially homogeneous or form string mosaics with bogs
-(i.e. aapa mires of Finland) but often display zonation reflecting differences in water chemistry (notably pH) or saturation. Patches of fen and bogs may be juxtaposed within peatland mosaics. Ongoing peat build-up may lead to transition from fen to bog systems. Plants and fungi reproduce locally by cloning, but seed and spore production enables dispersal and the colonisation
-of new sites. Invertebrates are dominant consumers in the trophic network, including dragonflies, caddisflies, flies, as well as calcareous specialists such as snails. Vertebrates are mostly itinerant but include specialised resident amphibians and birds.
+礦質泥炭沼澤以水生禾本科、莎草或闊葉草類為主。 相比於酸性泥炭沼澤（TF1.6），此生態系的初級生產力更高但功能多樣性較低。 初級生產力受到礦泉水補給，但受限於土壤缺氧。 在地表水文變動大，土壤週期性飽和與乾旱的地區，植物多樣性極低，但在富含礦物質且水位穩定的沼澤中，植物多樣性可能很高。 部分地區擁有豐富的特有動植物群集。 通常缺乏木本植物，但部分北寒林（T2.1）可以在礦質泥炭上生長。 此生態系中沒有泥炭蘚和圓丘狀莎草叢，但褐蘚很常見。 初級產物在土壤表層被不完全真菌和好氧菌分解。 由於高水位造成土壤缺氧，限制地下微生物活動，因此有機質沉積量超過分解量，使泥炭累積。 植物特徵有助於將氧氣輸送至缺氧的土壤中，如具氣腔的莖、通氣組織和表面根墊。 甲烷古菌和厭氧菌可能出現在氮、鐵和硫充足的底土。 礦質泥炭沼澤可能均勻分布，也可能與酸性泥炭沼澤形成條狀鑲嵌地景（如芬蘭的阿帕泥沼aapa mires），但通常隨水化學性質（特別是pH值）或土壤水飽和度呈帶狀分布。 酸性泥炭沼澤和礦質泥炭沼澤的區塊可能在泥炭地鑲嵌地景中相鄰。 泥炭持續累積可能導致礦質泥炭沼澤轉變為酸性泥炭沼澤。 植物和真菌主要以無性繁殖，但種子和孢子能使其傳播並拓殖至其他地區。 在食物網中，無脊椎動物是主要消費者，包括蜻蜓、石蛾、蒼蠅以及部分含鈣物種，如蝸牛。 脊椎動物大多具有流動性，但也包括部分特化的定棲性兩棲類和鳥類。
 
 ## 關鍵生態驅動力
 
-Moisture inputs (e.g. precipitation, seepage, and surface inflow) exceed outputs (e.g. evapotranspiration, percolation and runoff) for extended periods, enabling these systems to function as landscape sponges. Seasonally low temperatures and/or frequent cloud cover limit evapotranspiration. Fens typically develop through the paludification (i.e. peat accumulation) of shallow lakes or around springs, and thus shallow standing water is present frequently
-as flark pools. Such lakes may be abundant in post-glacial landscapes. Substrates are waterlogged, anaerobic, highly organic (usually &gt;30% dry weight), slightly acidic or alkaline, and rich in mineral nutrients. Minerotrophic water (i.e. inflow from catchments) provides significant nutrient subsidies that vary with catchment geology. Fens on the Arctic Circle (palsa mires) have subsurface permafrost. Fires may occur in dry summers, rarely consuming peat, lowering the surface and degrading permafrost.
+礦質泥炭沼澤的水分輸入（如降水、滲流和地表水入流量）長期超過水分輸出（如蒸發散作用、滲漏和逕流），使此生態系能作為地景海綿。 節性低溫和(或)頻繁的雲層覆蓋限制蒸發散作用。 沼澤通常在淺湖或泉水周圍積累泥炭而形成，因此常出現淺水沼澤（flark）。 淺湖常見於冰河退去後的地貌中。 土壤長期淹水、缺氧、有機質含量高（高於30%土壤乾重）、弱酸性或弱鹼性，並富含礦物質。 流入集水區的礦泉水提供營養補給，隨集水區地質變化。 位於北極圈的泥炭凍土堆（palsa mires）有地下永久凍土。 在乾燥的夏季可能發生火燒事件，但很少燃燒泥炭，泥炭燃燒時會降低地表高度並破壞永久凍土。
 
 ## 生態系功能群分布
 
-Extensive across boreal-subarctic latitudes and cool temperate regions, especially mountains. Very restricted in the Southern Hemisphere. Fens may also occur in tropical mountains (i.e. Andes), but are poorly known there.
+北寒帶、溫帶礦質泥炭沼澤廣泛分布於北寒帶至亞北極和冷溫帶地區，尤其是在山區。 在南半球分布侷限。 此生態系也可能出現在熱帶山區， 例如安地斯山脈，但研究較少。
