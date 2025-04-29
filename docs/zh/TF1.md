@@ -77,46 +77,41 @@
 
 ## 生態特徵
 
-Highly episodic freshwater floodplains are distinct from, but associated with, adjacent river channels, which provide water and sediment during flooding. These are low-productivity systems during long, dry periods (maybe years), with periodic spikes of very high productivity when first inundated. 此生態系擁有高度多樣化的水域和陸域生物相，形成複雜的食物網，生物具有速生型生活史特徵，能夠利用短暫供應的水分和養分。 Primary producers include flood- dependent macrophytes and algae with physiological traits for water conservation or drought avoidance. Lower trophic levels (e.g. algae, invertebrate consumers) avoid desiccation with traits, such as dormant life-cycle phases, deposition of resting eggs (e.g. crustaceans and rotifers) and burial in sediments banks (i.e. larvae of cyclopoid copepods). Higher trophic levels (e.g. fish, amphibians, reptiles and waterbirds) are highly mobile in large numbers or with resting strategies (i.e. burrowing frogs). These taxa can be important mobile links for the movement of biota and resources, but floods are the primary allochthonous sources of energy and nutrients. Floods are important
-triggers for life-history processes, such as seed germination, emergence from larval stages, dispersal and reproduction. Common lifeforms include detritus-feeding invertebrate collector-gatherers, indicating a reliance on heterotrophic energy pathways.
+間歇性的淡水泛氾濫平原能提供水分及沉積物，與鄰近河道不同。 長期乾旱期的生產力較低，生產力於氾濫時驟增。 此生態系擁有高度多樣化的水域和陸域生物相，形成複雜的食物網，生物具有速生型生活史特徵，能夠利用短暫供應的水分和養分。 初級生產者包括仰賴洪水的大型水生植物和藻類，具有保水或躲避乾旱的生理特徵。 營養階層較低的生物（如藻類和無脊椎消費者）具有躲避乾旱的特徵，如生命週期的休眠階段、休眠卵（如甲殼類和輪蟲）或掩埋在沉積河堤中（如橈足類的幼蟲）。 高營養階層的生物，如魚類、兩棲類、爬蟲類和水鳥，則具有良好的移動力，能大量遷徙，或採取休眠策略（如掘地蛙）。 上述生物是生物群集與環境間的重要資源轉移者，但洪水仍是主要的異源能量和養分來源。 洪水能觸發生活史過程，如種子發芽、幼蟲蛻變、傳播和繁殖。 常見的生活形態包括碎食性的無脊椎動物採集者，顯示能量流動仰賴異營生物。
 
 ## 關鍵生態驅動力
 
-Multi-year dry periods are punctuated by brief intervals of shallow inundation caused by the overspill from flooding river channels. These boom-bust systems have temporarily high productivity driven by water and partly by elevated levels of dissolved Carbon and nutrients (notably N and P) released from leaf litter, oxygen, and organic matter in newly inundated, shallow areas. High temperatures promote productivity and rapid drying in arid environments. Water may be turbid or clear, which affects light environments and may limit benthic algal production to the shallow littoral margins of small channels. This in turn affects aquatic food webs and Carbon dynamics. Drainage is predominantly horizontal
-and bidirectional (i.e. in and out of the river), but infiltration and evapotranspiration can be significant in the flat terrain and may influence salinity if there are sources of salt in the catchment or ground water.
+河道氾濫溢出形成的淺層水淹終止長年的乾旱期。 新區域的淺層水淹使溶解碳濃度及落葉、大氣、有機物釋放的養分(氮及磷為大宗)增加導致短暫的高產力。 高溫在乾燥環境中增加初級生產力並加速乾燥過程。 水體可能混濁或清澈，影響水體內部日照，並將底棲藻類限制在小型河道的淺水沿岸。 進而影響水中食物網和碳循環。 水分橫向進出河道，但在平坦地形中，入滲和蒸發散作用明顯，若集水區或地下水中存在鹽源，則可能影響鹽度。
 
 ## 生態系功能群分布
 
-Connected to ephemeral rivers in semi-arid and arid regions of all continents.
+乾燥間歇性氾濫平原分布於所有大陸上半乾燥和乾燥地區的季節性河流周邊。
 
-# TF1.6 Boreal, temperate and montane peat bogs
-
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
-
-## 生態特徵
-
-These patterned peatlands account for up to 40% of global soil carbon are dominated by a dense cover (high LAI) of hydrophytic mosses, graminoids, and shrubs, sometimes with scattered trees. Positive feedbacks between dense ground vegetation, hydrology, and substrate chemistry promote peat formation. through water retention and inhibition of microbial decomposition. Moderate to low primary production is partially broken down at the soil surface by anamorphic
-fungi and aerobic bacteria. Burial by overgrowth and saturation by the water table promotes anaerobic conditions, limiting subsurface microbial activity, while acidity, nutrient scarcity, and low temperatures enhance the excess of organic deposition over decomposition. Plant diversity is low but fine-scale hydrological gradients structure vegetation mosaics, which may include fens (TF1.7). Mosses (notably Sphagnum spp.) and graminoids with layering growth forms promote peat formation. Their relative abundance influences microbial communities and peat biochemistry. Plant traits, such as lacunate stem tissues, aerenchyma and surface root mats, promote oxygen transport into the anaerobic substrate. Woody plant foliage is small (leptophyll-microphyll) and sclerophyllous, reflecting excess carbohydrate production in low-nutrient conditions. Plants and fungi reproduce primarily by cloning,
-except where disturbances (i.e. fires) initiate gaps enabling recruitment. Pools within the bogs have specialised aquatic food webs underpinned by algal production and allochthonous carbon. Invertebrate larvae are prominent consumers in the trophic network of bog pools, and as adults they are important pollinators and predators. Assemblages of flies, dragonflies, damselflies, caddisflies and other invertebrates vary with the number, size and stability of pools. Carnivorous plants (i.e. sundews) support N cycling. Vertebrates are mostly itinerant but include specialised resident amphibians, reptiles, rodents, and birds. Some regions are rich in locally endemic flora and fauna, particularly in the Southern Hemisphere.
-
-## 關鍵生態驅動力
-
-Bogs are restricted to cool humid climates where moisture inputs (e.g. precipitation, seepage, and surface inflow) exceed outputs (e.g. evapotranspiration, percolation and runoff) for extended periods, enabling these systems to function as landscape sponges. Seasonally low temperatures and/or frequent cloud cover limit evapotranspiration. Substrates are waterlogged, anaerobic, highly organic (usually &gt;30% dry weight), acidic (pH 3.5–6), and nutrient-poor. Peat growth may produce raised ombrotrophic bogs entirely fed by rain, but if minerotrophic inflows from catchments occur, they provide limited nutrient subsidies (cf. TF1.6). Fires may occur in dry summers, sometimes igniting peat with long-term consequences for ecosystem function and stability.
-
-## 生態系功能群分布
-
-Extensive across boreal-subarctic latitudes, with small areas on tropical mountains of South America, New Guinea, and Central Africa and at cool, temperate southern latitudes in Patagonia and Australasia.
-
-# TF1.7 Boreal and temperate fens
+# TF1.6 北寒帶、溫帶與山地酸性泥炭沼澤
 
 生物群系：沼生溼地生物群系
 生態域：陸域與淡水域過渡帶
 
 ## 生態特徵
 
-Fens are peatland ecosystems dominated by hydrophytic grasses, sedges, or forbs. Fens
-have higher productivity but lower functional diversity than bogs (TF1.6). Productivity is subsidised by inflow of minerotrophic waters and limited by anoxic substrates. Plant diversity is
+北寒帶、溫帶和山地酸性泥炭沼澤佔全球40%的土壤含碳量，優勢物種為高葉面積指數的親水性苔蘚、禾草和灌木，有時伴隨稀疏的樹木。 密集的地面植被、水文和土壤化學性質之間的正回饋促進堆積大量泥炭。 透過土壤水滯留並抑制微生物分解。 初級生產力低至中等，在土壤表面由不完全真菌(anamorphic fungi)和好氧菌分解。 過度生長的植物和土壤水飽和形成缺氧環境，限制地下微生物的活動，與酸性土壤、養分稀缺和低溫等因子共同造成有機物沉積量超過分解量。 雖然植物多樣性較低，但小尺度的水文變化形成植群鑲嵌地景，包括礦質泥炭沼澤（TF1.7）。 具有分層生長的苔蘚（主要是泥炭蘚, Sphagnum） 和禾草促進泥炭堆積。 其相對豐度影響微生物群集和泥炭生物化學。 植物特徵有助於將氧氣輸送至缺氧的土壤中，如具氣腔的莖、通氣組織和表面根墊。 木本植物的葉片較小（leptophyll – microphyll）且為硬葉植物，反映出土壤養分低，但碳水化合物過剩。 植物和真菌主要以無性繁殖，除非火燒事件等擾動產生間隙，從而讓新生植物補充。 此生態系內的池塘擁有由藻類生產者和異源碳支撐的特化水生食物網。 無脊椎動物幼蟲是酸性泥炭池食物網中的主要消費者，成年後轉變為重要的傳粉者和掠食者。 蒼蠅、蜻蜓、豆娘、石蛾和其他無脊椎動物群集隨池塘的數量、大小和穩定性變化。 食蟲植物（如茅膏菜屬）能協助氮循環。 多數脊椎動物具有流動性，但包括特化的定棲性兩棲類、爬蟲類、囓齒類和鳥類。 南半球的部分區域擁有豐富的特有動植物。
+
+## 關鍵生態驅動力
+
+酸性泥炭沼澤僅限於涼爽且潮濕的氣候區域，此生態系的水分輸入（如降水、滲流和地表水流入）長期超過水分輸出（如蒸發散作用、滲漏和逕流），使此生態系能作為地景海綿。 季節性低溫和(或)頻繁的雲層覆蓋限制蒸發散作用。 常年土壤水飽和、缺氧、有機質含量高（高於30%土壤乾重）、酸性（pH值3.5–6）且養分貧瘠。 酸性泥炭堆積可能會形成隆起雨養泥炭地(ombrotrophic bog)，但如果集水區有礦物質流入，會提供有限的營養補充（TF1.6）。 在乾燥的夏季可能會發生火燒事件，有時會點燃泥炭，對生態系功能和穩定性產生長期影響。
+
+## 生態系功能群分布
+
+酸性泥炭沼澤廣泛分布於北寒帶至亞北極，並在南美洲、新幾內亞和中非的熱帶山區以及巴塔哥尼亞和澳洲的南部冷溫帶。
+
+# TF1.7 北寒帶、溫帶礦質泥炭沼澤
+
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
+
+## 生態特徵
+
+礦質泥炭沼澤以水生禾本科、莎草或闊葉草類為主。 相比於酸性泥炭沼澤（TF1.6），此生態系的初級生產力更高但功能多樣性較低。 初級生產力受到礦泉水補給，但受限於土壤缺氧。 Plant diversity is
 very low where surface hydrology varies temporally from complete saturation to desiccation but can be high in mineral- rich fens with stable near-surface water tables. Some regions
 are rich in locally endemic flora and fauna. Woody plants
 are typically scarce or absent, though some boreal forests
