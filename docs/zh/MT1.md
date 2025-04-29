@@ -1,29 +1,21 @@
-# MT1 Shorelines biome
+# MT1 海岸線生物群系
 
 Twelve Apostles, Otway Coast, Victoria, Australia. Source: Richard Mikalsen on Wikimedia commons
 
-The Shoreline systems biome comprises naturally formed, intertidal abiogenic habitats situated at the interface between land and sea. The distribution of the biome spans all latitudes (temperate to polar) at which landmasses are present. Productivity ranges from high to low, is loosely proportional to the availability of stable hard substrate for macrophyte attachment and inversely proportional to the dependency
-on allochthonous energy sources derived from both land
-and sea. Productivity is also influenced by coastal upwelling and, for ecotypes of finer particle size, the nutrient content of adjacent terrestrial sediments. Within and across ecotypes, biotic communities are strongly structured by tides, waves and particle size, ranging from contiguous rock to fine silts and clays. Notably, some shorelines comprise mixed hard and soft substrates, with vertical zonation varying temporally in response to storm events and redeposition of soft sediments. Tides produce a vertical gradient of increasing aerial exposure
-across which desiccation and temperature stress increase,
-time available for filter-feeding decreases, and interactions
-with marine and terrestrial predators vary. Waves and particle size determine substrate stability and the physical disturbance regime. Wave action, diminishing from headlands to bays, produces horizontal gradients in community structure. Many organisms possess morphological and behavioural adaptations to prevent desiccation at low tide and dislodgement by wave forces. Burrowing animals are important in unconsolidated sediments. Competition (especially for space) is a major factor structuring communities, with its importance diminishing with decreasing particle size. Facilitative interactions (particularly those that protect organisms from desiccation stress or physical disturbance) can be important across ecosystems of all particle sizes. Biodiversity is generally high, with microscopic lifeforms dominating the biomass of systems of small particle size.
+海岸線生物群系為自然形成的潮間帶非生物底質棲地，位於陸域與海域交界處。 此生物群系分布於溫帶到極區緯度中所有具有陸地的地區。 初級生產力範圍從低到高不等，大致與水生大型植物附著的穩定硬底質可用性呈正比，並與陸域和海域的異源能量依賴程度呈反比。 初級生產力也受沿岸湧升流影響，對於細顆粒底質的生態型，初級生產力也與鄰近陸地沉積物的養分含量有關。 在生態型內部及之間，生物相強烈受到潮汐、波浪和顆粒尺寸影響，顆粒尺寸從連續的岩石到細小的粉砂和黏土不等。 部分海岸線由硬底質和軟底質混合構成，垂直分層隨風暴事件和軟質沉積物再沉積而暫時變化。 潮汐使曝氣面積垂直變化，增加乾燥和溫度壓力、減少濾食時間可用性，並改變海域和陸域掠食者的交互作用。 波浪和顆粒大小決定底質穩定性和物理擾動模式。 波浪作用從岬角向海灣逐漸減弱，產生生物群集結構的水平變化。 許多生物具有形態和行為特徵，防止在乾潮時乾燥或被波浪沖走。 掘穴動物是未固結沉積物中的重要物種。 競爭（尤其是競爭空間）是建構群集的重要因素，重要性隨顆粒尺寸變小而減弱。 促進性交互作用在所有顆粒尺寸的生態系中都可能很重要，特別是保護生物免受乾燥壓力或物理擾動的交互作用。 生物多樣性通常較高，微觀生物主導小顆粒生態系中的生物量。
 
-# MT1.1 Rocky shorelines
+# MT1.1 岩石海岸線
 
-BIOME: MT1 SHORELINE SYSTEMS
-REALM: TRANSITIONAL MARINE-TERRESTRIAL
+生物群系：M1 海岸線生物群系
+生態域：海域與陸域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-These intertidal benthic systems, composed of sessile and mobile species, are highly structured by fine-scale resource and stress gradients, as well as trade- offs among competitive, facilitation and predatory interactions. Sessile algae and invertebrates form complex three-dimensional habitats that provide microhabitat refugia from desiccation and temperature stress for associated organisms; these weaken competitive interactions. The biota exhibit behavioural and morphological adaptions to minimise exposure to stressors, such as seeking shelter in protective microhabitats at low
-tide, possessing exoskeletons (i.e. shells), or producing mucous to reduce desiccation. In wave-swept environments, adaptations include morphologies, such as small body sizes and small cross-sectional areas to minimise drag. Key trophic groups include filter-feeders (which feed on phytoplankton
-and dissolved organic matter at high tide), grazers (which scrape microphytobenthos and macroalgal spores from rock or consume macroalgal thalli), and resident (e.g. starfish, whelks and crabs) and transient (e.g. birds and fish) marine and terrestrial predators. Rocky shores display high endemism relative to other coastal systems and frequently display high productivity due to the large amounts of light they receive, although this can vary according to nutrient availability from upwelling and terrestrial runoff.
+岩石海岸線位於潮間帶，生物多為固著性和移動性底棲物種，高度受細尺度資源、壓力變化、競爭、促進和掠食交互作用之間的平衡影響群集結構。 固著性藻類和無脊椎動物形成複雜的立體棲地，為相關生物提供躲避乾燥和溫度壓力的微棲地庇護所，從而削弱競爭作用。 此生態系的生物具有行為和形態特徵，能避免壓力源，例如在乾潮時尋找微棲地庇護所、擁有外骨骼（如貝殼）或分泌黏液以減少乾燥。 在波浪衝擊的環境中，形態特徵包括小體型和小截面積等，以減少水阻力。 食物網中的主要功能群包括濾食者（在滿潮時攝食浮游植物和溶解有機質）、植食者（從岩石上刮食微藻和大型藻類孢子或食用大型藻類葉狀體）以及定棲性和暫時性海域和陸域掠食者（如海星、蛾螺、螃蟹、鳥類和魚類）。 與其他海岸線生態系相比，岩岸的特有性較高，且由於日照量大，初級生產力較高，但初級生產力會隨湧升流和陸地逕流的養分供應量而有所變化。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Tides and waves are the key ecological drivers, producing resource availability and physical disturbance gradients vertically and horizontally, respectively. Across the vertical gradient of increasing aerial exposure, desiccation and temperature stress increases, time available
-for filter-feeding decreases, and interactions with marine and terrestrial predators vary. Horizontal gradients of diminishing salinity and wave exposure from headlands to bays or inlets influences community composition and morphology. Many organisms rely on microhabitats formed from natural rock features (e.g. crevices, depressions and rock pools) or habitat- forming species (e.g. canopy-forming algae, mussels, oysters, and barnacles) to persist in an environment that would otherwise exceed their environmental tolerances. Rocky shores are open systems, so community structure can be influenced by larval supply, coastal upwelling and competition. Competition for space may limit the lower vertical distributions of some sessile species. The limited space available for the growth of marine primary producers can result in competition for food among grazers. Disturbances (i.e. storms, ice scour on subpolar shores) that free-up space can have a strong influence on community structure and diversity.
+潮汐和波浪是關鍵生態驅動力，形成垂直和水平方向的資源可用性和物理擾動變化。 曝氣面積的垂直變化，會增加乾燥和溫度壓力、減少濾食時間可用性，並改變海域和陸域掠食者的交互作用。 海岬到海灣或海口的波浪暴露度和鹽度水平變化，會影響集群組成和形態。 Many organisms rely on microhabitats formed from natural rock features (e.g. crevices, depressions and rock pools) or habitat- forming species (e.g. canopy-forming algae, mussels, oysters, and barnacles) to persist in an environment that would otherwise exceed their environmental tolerances. Rocky shores are open systems, so community structure can be influenced by larval supply, coastal upwelling and competition. Competition for space may limit the lower vertical distributions of some sessile species. The limited space available for the growth of marine primary producers can result in competition for food among grazers. Disturbances (i.e. storms, ice scour on subpolar shores) that free-up space can have a strong influence on community structure and diversity.
 
 ## DISTRIBUTION
 
