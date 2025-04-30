@@ -7,7 +7,7 @@
 生物群系：MFT1 半鹹水潮汐生物群系
 生態域：海域與陸域與淡水域過渡帶
 
-Sundarbans, Ganges Delta, India & Bangladesh. Source: NASA Earth Observatory, Wikimedia Commons CC4.0
+印度恆河三角洲。 來源: 美國國家航空暨太空總署地球觀測站
 
 ## 生態特徵
 
@@ -32,28 +32,26 @@ Sundarbans, Ganges Delta, India & Bangladesh. Source: NASA Earth Observatory, Wi
 
 ## 關鍵生態驅動力
 
-紅樹林無法耐受低溫，因此不會分布在寒冷月份平均氣溫低於–20°C、季節性氣溫變化超過10°C或會發生地面霜凍的地區。 許多紅樹林土壤的養分含量低，尤其是氮和磷。 Limited availability of nitrogen and phosphorus Regional distributions are influenced by interactions among landscape position, rainfall, hydrology, sea level, sediment dynamics, subsidence, storm- driven processes and disturbance by pests and predators. Rainfall and sediment supply from rivers and currents promote mangrove establishment and persistence, while waves and
-large tidal currents destabilise and erode mangrove substrates, mediating local-scale dynamics in ecosystem distributions. High rainfall reduces salinity stress and increases nutrient loading from adjacent catchments, while tidal flushing also regulates salinity.
+紅樹林無法耐受低溫，因此不會分布在寒冷月份平均氣溫低於–20°C、季節性氣溫變化超過10°C或會發生地面霜凍的地區。 許多紅樹林土壤的養分含量低，尤其是氮和磷。 氮和磷供應不足限制紅樹林生長和分布範圍。
+地景位置、降雨量、水文狀況、海平面變化、沉積物動態、地面沉降、風暴事件、害蟲和掠食者擾動等因素的交互作用會影響紅樹林的分布區域。 降雨和來自河流及洋流的沉積物有助於建立並維持紅樹林，波浪和強烈潮流則可能侵蝕並使紅樹林土壤不穩定，從而調節生態系的分布範圍局部變化。 高降雨量會減少高鹽度壓力，並增加鄰近集水區的養分入流量，潮汐沖刷也會調節鹽度。
 
 ## 生態系功能群分布
 
-Widely distributed along tropical and warm temperate coastlines of the world. Large-scale currents may prevent buoyant seeds from reaching some areas.
+紅樹林廣泛分布於全球熱帶和暖溫帶海岸線。 然而，大規模洋流可能會阻止漂浮性種子到達特定地區，進而影響紅樹林分布範圍。
 
-# MFT1.3 Coastal saltmarshes and reedbeds
+# MFT1.3 沿海鹽沼與蘆葦原
 
-BIOME: MFT1 BRACKISH TIDAL SYSTEMS
-REALM: TRANSITIONAL TERRESTRIAL-FRESHWATER-MARINE
+生物群系：MFT1 半鹹水潮汐生物群系
+生態域：海域與陸域與淡水域過渡帶
 
 ## 生態特徵
 
-Coastal saltmarshes are vegetated by salt-tolerant forbs, grasses and shrubs, with fine-scale mosaics related to strong local hydrological and salinity gradients, as well as competition and facilitation. Plant traits, such as succulence, salt excretion, osmotic regulation, reduced transpiration, C4 photosynthesis (among grasses), modular growth forms and aerenchymatous tissues, confer varied degrees of tolerance to salinity, desiccation and substrate anoxia. Adjacent marine and terrestrial ecosystems influence the complexity and function of the trophic network, while freshwater inputs mediate resource availability and physiological stress. Angiosperms are structurally dominant autotrophs, but algal mats and phytoplankton imported by tidal waters contribute to primary production. Cyanobacteria and rhizobial bacteria are important N-fixers. Tides and runoff bring subsidies of organic detritus and nutrients (including nitrates) from marine and terrestrial sources, respectively. Nitrogen is imported into saltmarshes mainly as inorganic forms and exported largely as organic forms, providing important subsidies to the trophic networks of adjacent estuarine fish nurseries (FM1.2). Fungi and bacteria decompose dissolved and particulate organic matter, while sulphate-reducing bacteria are important in the decay of substantial biomass in the anaerobic subsoil. Protozoans consume microbial decomposers, while in situ detritivores and herbivores include a range of crustaceans, polychaetes and molluscs. Many of these ingest a mixture
-of organic material and sediment, structuring, aerating, and increasing the micro-scale heterogeneity of the substrate
-with burrows and faecal pellets. Fish move through saltmarsh vegetation at high tide, feeding mainly on algae. They include small-bodied residents and juveniles of larger species that then move offshore. Itinerant terrestrial mammals consume higher plants, regulating competition and vegetation structure. Colonial and solitary shorebirds breed and/or forage in saltmarsh. Migratory species that play important roles in the dispersal of plants, invertebrates and microbes, while abundant foragers may force top-down transformational change.
+耐鹽的禾本科、闊葉草類和灌木植群組成沿海鹽沼與蘆葦原，由於局部水文和鹽度的強烈變化、競爭關係與促進作用，植群形成細尺度的鑲嵌式地景。 植物具有多種耐鹽性、耐旱性和耐受缺氧土壤的生理特徵，如肉質化、排鹽性、調節滲透、減少蒸散作用、禾本科C4光合作用路徑、模組化生長形式以及通氣組織。 相鄰的海域和陸域生態系會影響鹽沼的食物網複雜度和功能，淡水入流量會調節資源可用性和生理壓力。 被子植物為此生態系的優勢自營生物，但潮汐帶來的藻類墊和浮游植物也會貢獻初級生產力。 藍綠菌和根瘤菌是重要的固氮生物。 潮汐和逕流分別從海洋和陸地為此生態系補充有機質碎屑和養分，包括硝酸鹽。 氮主要以無機物形式輸入鹽沼，並轉化為有機氮輸出，補給鄰近河口魚類養殖場（FM1.2）的食物網。 真菌和細菌分解有機質顆粒和溶解有機質，而硫酸鹽還原菌會分解無氧底土中的大量生物量。 原生動物會消耗微生物分解者，腐食者和植食者包括各種甲殼類、多毛類和軟體動物， 會攝食有機質和沉積物混合物，通過掘穴和糞便顆粒將土壤結構化、充氣並增加微觀異質性。 魚類會在漲潮時穿越鹽沼植群，主要以藻類為食。 魚類包括小體型的定棲者和大型魚類幼體，後者會在成體時移動至海洋。 流動性陸域哺乳類會消耗高等植物，調節競爭關係和植群結構。 群居和獨居的岸鳥會在鹽沼繁殖和(或)覓食， 遷徙物種會傳播植物、無脊椎動物和微生物，大量覓食者可能會導致下行結構變化。
 
 ## 關鍵生態驅動力
 
-High and variable salt concentration is driven by alternating episodes of soil desiccation and flushing, associated with cycles of tidal inundation and drying combined with freshwater seepage, rainfall and runoff in the upper intertidal zone. These interacting processes produce dynamic fine-scale hydrological and salinity gradients, which may drive transformation to intertidal forests (MFT1.2). Marshes are associated with low-energy depositional coasts but may occur on sea cliffs and headlands where wind deposits salt from wave splash (i.e. salt spray) and aerosol inputs. Salt approaches hypersaline levels where flushing events are infrequent. Other nutrients make up a low proportion of the total ionic content. Subsoils are generally anaerobic, but this varies depending on seepage water and the frequency of tidal inundation. Tidal cycles also influence temperature extremes, irregularities in photoperiod, physical disturbance and deposition of sediment.
+潮汐的淹沒和乾燥週期，結合潮上帶的淡水滲流、降雨和逕流，使土壤乾燥和沖刷交替發生，造成此生態系的鹽度高且變動程度大， 產生細尺度水文和鹽度動態變化，可能會使鹽沼轉變成潮間帶森林（MFT1.2）。 鹽沼通常位於低能量的沉積性海岸，但也可能出現在海崖和岬角，風力會將海浪濺起的鹽分和氣膠鹽輸入至鹽沼。 當沖刷事件頻率較低時，此生態系可能會接近超鹽度。 其他營養鹽在總離子含量中占比較低。 底土通常處於無氧狀態，但會隨滲流水量和潮汐淹沒頻率改變。 潮汐週期也會影響溫度極端值、光週期的不規則性、物理擾動以及沉積量。
 
 ## 生態系功能群分布
 
-Widely distributed, mostly on low-energy coasts from arctic to tropical and subantarctic latitudes.
+沿海鹽沼與蘆葦原分布於全球的低能量海岸，集中在北極至熱帶，以及亞南極。
