@@ -1,30 +1,21 @@
 # MT2 潮上帶海岸生物群系
 
 潮上帶海岸是海域與陸域過渡帶中最靠近陸域的生物群系。 It is elevated above the direct influence of waves and tides (see MT1) and beyond the direct influence of freshwater seepage or rivers
-(see MFT1)。 潮上帶海岸生物群系遍布全球所有陸地，覆蓋範圍從數十公尺到幾公里不等，甚至涵蓋許多小島的所有島體。 由於水體和乾燥土地的熱容量不同，氣壓差會驅動沿岸風，成為生態系功能的關鍵驅動力。 These winds create desiccating conditions on elevated landforms, such as headlands and coastal dunes, as well as continual inputs of aerosol salts and salt spray. Even though the supralittoral zone is located above high spring tide, it is exposed to recurring disturbance from storms producing exceptional waves and tides that reduce standing biomass and destabilise substrates. These strong environmental gradients select for a
-specialised, low-diversity biota. Much of this biota is confined to supralittoral ecosystems and nowhere else, a key feature
-of these ecosystems, although it may be widely distributed behind shorelines on different land masses due to dispersal by coastal winds, oceanic currents, and/or migratory behaviour. Autochthonous energy is produced by wind-pruned vegetation with traits promoting tolerance to desiccation, high salinity
-and substrate instability (e.g. stomatal regulation, extensive rhizomes or root systems and succulence). The sea supplies allochthonous energy subsidies, such as wrack and guano, but also transports a portion of primary production to other ecosystems. Invertebrate detritivores and physical weathering contribute to rapid decay. Supralittoral ecosystems also provide nesting habitat for seabirds on the surface, in vegetation or in burrows, especially on islands free from terrestrial mammalian predators.
+(see MFT1)。 潮上帶海岸生物群系遍布全球所有陸地，覆蓋範圍從數十公尺到幾公里不等，甚至涵蓋許多小島的所有島體。 由於水體和乾燥土地的熱容量不同，氣壓差會驅動沿岸風，成為生態系功能的關鍵驅動力。 沿岸風在岬角和海岸沙丘等高地上創造乾燥環境，並持續輸入氣膠鹽和鹽霧。 雖然潮上帶位於滿潮線之上，但仍會遭受風暴事件引起的例外性波浪和潮汐反覆擾動，擾動會減少生物量並使底質不穩定。 強烈的環境變化造就特化且多樣性低的生物相， 該生物相僅存在於潮上帶生物群系，但此生物群系可能受沿岸風、洋流和(或)遷徙行為影響廣泛分布於不同大陸的海岸線後方。 生長於不穩定底質的植群會產生自源能量，植群具備氣孔調節、廣闊的地下莖、根系以及肉質化等耐旱和耐鹽特徵。 海洋則提供漂流海藻和鳥糞等異源能量，並將部分初級生產量轉移到其他生態系。 無脊椎動物碎食者和物理風化作用加速分解過程。 潮上帶生物群系也提供海鳥築巢地，築巢地主要位於沒有陸域掠食性哺乳類的島嶼地表、植群或洞穴中。
 
 # MT2.1 海岸灌叢地和草地
 
-BIOME: MT2 COASTAL VEGETATION
-REALM: TRANSITIONAL MARINE-TERRESTRIAL
+生物群系：MT2 潮上帶海岸生物群系
+生態域：海域與陸域過渡帶
 
 ## 生態特徵
 
-Relatively low productivity grasslands, shrublands and low forests on exposed coastlines are limited by salt influx, water deficit and recurring disturbances. Diversity is low across taxa and trophic networks are simple, but virtually all plants and animals have strong dispersal traits and most consumers move between adjacent terrestrial and marine ecosystems. Vegetation and substrates are characterised by strong gradients from sea to land, particularly related to aerosol salt inputs, substrate instability and disturbance associated
-with sea storms and wave action. Plant traits conferring salt tolerance (e.g. succulent and sub-succulent leaves and salt- excretion organs) are commonly represented. Woody plants
-with ramulose and/or decumbent growth forms and small (microphyll-nanophyll) leaves reflect mechanisms of persistence under exposure to strong salt-laden winds, while modular and rhizomatous growth forms of woody and non-woody plants promote persistence, regeneration and expansion under regimes of substrate instability and recurring disturbance. These strong environmental filters promote local adaptation, with specialised genotypes and phenotypes of more widespread
-taxa commonly represented on the strandline. Fauna are highly mobile, although some taxa, such as ground-nesting seabirds, may be sedentary for some parts of their lifecycles. Ecosystem dynamics are characterised by disturbance-driven cycles
-of disruption and renewal, with early phases dominated by colonists and in situ regenerators that often persist during the short intervals between successive disturbances.
+海岸灌叢地和草分布於海岸線上的草地、灌叢地和低矮森林，受限於鹽分入流、水分不足及週期性擾動，初級生產力相對較低。 此生態系的物種多樣性較低，食物網相對簡單，但幾乎所有動植物都有優良的傳播能力，大多數消費者徘徊於相鄰的陸地和海洋生態系之間。 海洋到陸地的植群和底質變化明顯，主要是因氣膠鹽輸入量、底質不穩定度以及海洋風暴和波浪相關的擾動。 植物通常具有耐鹽特徵，例如肉質化和亞肉質化葉片，以及排鹽器官。 小枝狀或匍匐生長的小葉木本植物（microphyll – nanophyll）反映鹽霧強風下的生存機制，模組化與地下莖生長形式則使木本和非木本植物能在不穩定底質和週期性擾動中生存、再生並擴張族群。 強烈的環境過濾作用會促進演化，廣泛分布的類群在海岸線上具有特化的基因型和表現型。 動物相的遷徙力高，但部生物類群（如在地面築巢的海鳥）可能有定棲性的生命週期階段。 擾動造成此生態系的破壞和更新動態週期，拓殖者和現地再生者能生存於連續性擾動間的短暫間隔期，通常在演替初期佔有優勢。
 
 ## 關鍵生態驅動力
 
-Desiccating winds promote an overall water deficit and appreciable exposure to salinity
-due to aerosol influx and salt spray. Warm to mild temperatures across the tropics to temperate zones and cold temperatures
-in the cool temperate to boreal zones are moderated by direct maritime influence. Above the regular intertidal zone, these systems are exposed to periodic disturbance from exceptional tides, coastal storm events, wind shear, bioturbation and aeolian substrate mobility. Consolidated substrates (headlands, cliffs) may differ from unconsolidated dunes in their influence on function and biota. Geomorphological depositional and erosional processes influence substrate stability and local vegetation succession.
+乾燥風加劇水分流失，並因氣膠鹽流入和鹽霧作用，使植物暴露於高鹽度。 海洋直接影響各緯度帶的氣溫。 此生態系位於規律潮間帶以上，但仍會遭受例外潮汐、海岸風暴事件、風切、生物擾動及風力搬移底質等擾動。 固結性的岬角、懸崖與未固結的沙丘以不同的方式影響生態系功能及生物相。 地貌的沉積和侵蝕作用會影響底質穩定性及當地植群演替。
 
 ## 生態系功能群分布
 
-Coastal dunes and cliffs throughout tropical, temperate, and boreal latitudes.
+海岸灌叢地和草地遍布於熱帶、溫帶和寒帶的海岸沙丘和懸崖。
