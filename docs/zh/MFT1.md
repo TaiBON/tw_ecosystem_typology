@@ -1,4 +1,4 @@
-# MFT1 Brackish tidal biome
+# MFT1 半鹹水潮汐生物群系
 
 The Brackish tidal systems biome is associated with prograding depositional shorelines at the interface of terrestrial, freshwater, and marine realms. The relative influences of marine, freshwater, and terrestrial processes vary from strongly fluvial deltas to marine-dominated intertidal forests and terrestrial-dominated coastal saltmarsh. Autochthonous sources of energy, contributed by flowering plants and algae, are supplemented
 by allochthonous sources delivered by rivers, currents, and tides. These sources support high productivity and complex trophic webs that include highly mobile fish and birds that rely on brackish tidal systems to complete their lifecycles. Standing plants assimilate energy and engineer habitat structure for epifauna and epiflora as well as juvenile fish nurseries. They also promote sediment deposition by dampening wave and tidal energy. While terrestrial systems are the ultimate source of most sediment, fluvial and marine processes redistribute it and drive
