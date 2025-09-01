@@ -1,29 +1,24 @@
-# Anthropogenic shorelines biome
+# 人造海岸線生物群系
 
-The Anthropogenic shorelines biome is distributed globally where urbanised and industrial areas adjoin the coast, and includes some more remote structures such as artificial islands. It includes marine interfaces constructed from hard, smooth surfaces, including concrete, timber, lithic blocks and earthen fill, adjoining, extending or replacing natural shores, or floating
-in proximity to them. These relatively homogeneous substrates support an opportunistic, cosmopolitan biota with limited diversity and simplified trophic structure compared to other shoreline systems. Vertical surfaces are inhabited by algae and biofouling species but are exposed to strong tidal desiccation regimes that strongly filter potential colonists. Floating structures have downward-facing, usually smooth, surfaces, unlike almost anything in nature, which may be colonised by opportunists.
-Influx of storm water and effluent enhances nutrient levels
-and eutrophic algae, which contribute autochthonous energy. Outflows from developed areas are also major sources of allochthonous energy. Strong bottom-up regulation stems from these resource inputs and from low populations of predators, which are depleted or deterred by human activity.
+人造海岸線生物群系分布於全球各地的沿海城市和工業區，也包括部分較為偏遠的人造結構，如人工島嶼。 此生態系包括由硬質、光滑材料（如混凝土、木材、石塊和填土）建造的海洋邊界，此生態系取代、延伸或附著於自然海岸，也可能漂浮於其周遭。 與其他海岸線生物群系相比，此生物群系的底質同質性相對較高，支撐機會主義型的全球性生物相，多樣性有限且食物網結構簡單。 垂直表面上棲息著藻類和附著生物，但強烈的潮汐乾燥會過濾潛在的拓殖者。 在自然界中極少出現如漂浮性構造物一樣光滑的向下表面，因此可能會被機會主義者拓殖。
+風雨水和廢水流入增加養分含量，促進優養化藻類生長，提供自源能量。 異源能量來自開發區域的排放物。 由於人為資源輸入及掠食者密度低，此生態系受到強烈的上行調節。
 
-# MT3.1 Artificial shorelines
+# MT3.1 人造海岸線
 
-BIOME: MT3 ARTIFICIAL MARINE SYSTEMS
-REALM: TRANSITIONAL MARINE-TERRESTRIAL
+生物群系：MT3 人造海岸線生物群系
+生態域：海域與陸域過渡帶
 
-Cape Town Harbour, South Africa. Source: SkyPixels (CC BY-SA 4.0)
+南非開普敦港。 來源: SkyPixels (CC BY-SA 4.0)
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Constructed sea walls,
-breakwaters, piers, docks, tidal canals, islands and other coastal infrastructure create substrates inhabited by inter-
-tidal and subtidal, benthic and demersal marine biota around ports, harbours, and other intensively settled coastal areas. Structurally simple, spatially homogeneous substrates support a cosmopolitan biota, with no endemism and generally lower taxonomic and functional diversity than rocky shores (MT1.1). Trophic networks are simple and dominated by filter-feeders (e.g. sea squirts and barnacles) and biofilms of benthic algae and bacteria. Low habitat heterogeneity and the small surface area for attachment that the often vertical substrate provides regulate community structure by promoting competition and limiting specialised niches (e.g. crevices or pools) and restricting refuges from predators. Small planktivorous fish may dominate temperate harbours and ports. These can provide a trophic link, but overharvest of predatory fish and sharks may destabilise food webs and cause trophic cascades. Much of the biota possess traits that promote opportunistic colonisation, including highly dispersive life stages (e.g. larvae, eggs and spores), high fecundity, generalist settlement niches and diet, wide ranges
-of salinity tolerance, and rapid population turnover. These structures typically contain a higher proportion of non-native species than the natural substrates they replace.
+人造海岸線包括海堤、防波堤、突堤碼頭、船塢、潮汐運河、人造島嶼和其他沿海基礎設施，在港埠、避風港和其他人類聚集的沿海區域中，提供棲地給潮間帶、潮下帶、底棲和深水層海洋生物。 此生態系的結構簡單、底質同質性相對較高，支撐機會主義型的全球性生物相，無特有種，分類和功能多樣性通常低於天然岩岸（MT1.1）。 食物網結構簡單，優勢物種為海鞘和藤壺等濾食者，以及底棲藻類和細菌組成的生物膜。 由於棲地異質性低且垂直構造提供的可附著表面有限，物種競爭、特化棲位減少（如裂縫或水池）及躲避掠食者的庇護所減少都會影響群集結構。 在溫帶港埠和避風港中，浮游生物食性的小型魚類可能具有優勢， 小魚能連結食物鏈，但過度捕撈掠食性魚類和鯊魚可能會破壞食物網，造成營養瀑布效應。 此生態系的生物相具有機會主義型拓殖特徵，包括傳播能力強的生活史階段（如幼體、卵和孢子）、繁殖力高、棲地棲位和食性廣泛、耐鹽度範圍大和族群替代速度快。 此生態系的外來種比例通常高於被取代的自然生態系。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-The substrate material influences the texture, chemistry, and thermal properties of the surface. Artificial structures of wood, concrete, rock, or steel have flat, uniform, and vertical surfaces that limit niche diversity and exacerbate inter-tidal gradients in desiccation and temperature. Floating structures have downward-facing surfaces, rare in nature. Some structures are ecologically engineered (designed for nature) to provide more complex surfaces and ponds to enhance biodiversity and ecosystem function. Structures may be located in high (i.e. breakwaters) or low (i.e. harbours) energy waters. Tides and waves are key drivers of onshore resource and kinetic energy gradients. Brackish water plumes from polluted storm water and sewage overflows add allochthonous nutrients, organic carbon, and open ecological space exploited by invasive species introduced by shipping and ballast water. The structures are often located close to vectors for invasive species (i.e. transport hubs).
-Boat traffic and storm water outflows cause erosion and bank instability and maintain high turbidity in the water column. This limits photosynthesis by primary producers, but nutrient runoff may increase planktonic productivity. Maintenance regimes (i.e. scraping) reduce biomass and reset succession.
+人造物材料影響表面質地、化學性質和熱性質。 由木材、混凝土、岩石或鋼材製成的人為構造物具有平坦、均勻且垂直的表面，會減少棲位多樣性，並增加潮間帶的乾燥和溫度變化。 浮動構造物則具有自然界中極為罕見的向下表面。 經過生態工程設計的構造物，可以提供更複雜的表面和水池，增加生物多樣性和生態系功能。 此生態系可能位於高能量(如防波堤)或低能量水域(如港口)。 潮汐和波浪會驅動資源和動能向岸輸送。 污染的雨水和污水溢流會形成半鹹水捲流，增加異源養分和有機碳，並釋放生態空間，進而被航運和壓艙水引入的入侵種利用。 此生態系通常靠近入侵種的傳播媒介（如交通樞紐）。
+船舶交通和雨水外流會引發侵蝕和河岸不穩定性，並保持水柱中的高濁度， 減少初級生產者的光合作用輛，但富含養分的逕流可能會增加浮游生物的生產力。 維護人造物時會減少生物量並重置生態演替。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Urbanised coasts through tropical and temperate latitudes, especially in North and Central America, Europe, and North and South Asia.
+人造海岸線分布於熱帶和溫帶的城市化海岸，尤其是北美洲、中美洲、歐洲，以及南亞和北亞地區。

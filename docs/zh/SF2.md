@@ -1,61 +1,37 @@
-# SF2 Anthropogenic subterranean freshwaters biome
+# SF2 地下人造淡水生物群系
 
-The Artificial subterranean freshwaters biome includes aquatic systems in underground canals, drains, sewers, water pipes
-and flooded mines constructed by humans. These are usually well connected to surface waters. The availability of resources
-is largely a function of source waters and the water regime, which varies from permanent to intermittent with low to high flow velocity or, in the case of flooded mines, negligible flow. Sunlight is absent or, if it diffuses through vents and portals (as in some canals), it is generally too dim to support photosynthesis.
-Algae may nonetheless be transported through these systems depending on the water of source. Although primary productivity is low and energy is supplied from allochthonous sources, secondary productivity by heterotrophic microbes in biofilms and in the water column may be high in sewers and drains where organic Carbon, nutrients and dissolved oxygen are abundant. This may support several tiers of detritivores and predators, including microscopic invertebrates, macro-invertebrates, and small vertebrates, including rodents and fish. Anaerobic bacteria may be important components of the trophic network where organic Carbon and nutrients are abundant but dissolved oxygen is scarce due to either low aeration or high microbial activity. In water supply pipes, low levels of organic carbon and nutrients exacerbate constraints on productivity imposed by the absence of light. Trophic webs within pipes are truncated and simple, and the mostly transitory biota reflects that of source waters.
+地下人造淡水生物群系包括由人類建造的地下運河、排水管、下水道、供水管道和淹沒的礦井等水域。 此生物群系通常與地表水連接， 資源可用性取決於水源及其水文狀況，兼具永久性到間歇性水域，且流速快慢不等，在淹沒的礦井中流速可能非常慢。 此生物群系缺乏光照，來自通風口和管道入口的光線通常過於微弱，無法進行光合作用。
+然而，根據水源狀況，藻類可能會隨水流進入此生物群系。 儘管初級生產力較低且仰賴異源能量，在下水道和排水管中，由於有機碳、養分和溶氧充足，異營微生物在生物膜和水柱中提供的次級生產力可能會很高， 得以供應多階層的碎食者和掠食者，包括微型無脊椎動物、大型無脊椎動物，以及小型脊椎動物，如囓齒類和魚類。 由於通氣不良或微生物活動旺盛，當有機碳和養分充足但溶氧稀少時，厭氧菌可能是食物網中的重要成員。 在供水管道中，有機碳和養分含量低，加劇缺乏日照對初級生產力的負面影響。 管道內的食物網較為簡化，大多數生物來自連通的水源，僅暫時棲息於管道中。
 
-# SF2.1 Water pipes and subterranean canals
+# SF2.1 水管及地下運河
 
-BIOME: SF2 FRESHWATER SUBTERRANEAN SYSTEMS
-REALM: TRANSITIONAL SUBTERRANEAN-FRESHWATER
+生物群系：SF2 地下人造淡水生物群系生態域：地下域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Constructed subterranean canals and water pipes are dark, low-productivity systems acting as conduits for water, nutrients, and biota between artificial or natural freshwater ecosystems. Energy sources are therefore entirely or almost entirely allochthonous from surface systems. Although similar to underground streams (S2.1), these systems are structurally simpler, younger, and less biologically diverse with few evolutionary lineages and no local endemism. Diversity and abundance are low, often resulting from the accidental transport of biota from source to sink ecosystems. Trophic networks are truncated, with very few or no primary producers and no vertebrate predators except incidental transients. The majority of the resident heterotrophic biota are bacteria, aquatic fungi and protists living in biofilms covering mostly smooth artificial surfaces or cut rock faces. Biofilms constitute food sources for detritivores and predators, including protozoans and planktonic invertebrates, as well as filter feeders such
-as molluscs. The structure of the biofilm community varies considerably with hydraulic regime, as does the biota in the water column. Transient vertebrates, notably fish, occupy well- connected ecosystems with abundant food and predominantly depend on transported nutrients and prey. A range of organisms may survive in these environments but only some maintain reproductive populations. All biota are capable of surviving under no or low light conditions, at least temporarily while in transit. Other traits vary with hydraulic regimes and hydrochemistry, with physiological tolerance to toxins important in highly eutrophic, slow-flowing drains and tolerance to low nutrients and turbulence typical in high-velocity minerotrophic water pipes.
+人工建造的水管及地下運河缺乏日照且低生產力，是人工或天然淡水生態系之間水分、養分和生物相的通道。 仰賴地表生態系提供的異源能量。 儘管與地下溪流（S2.1）相似，此生態系的結構更為簡單、歷史較短、生物多樣性較低、演化譜系較少且無特有種。 生物多是偶然在生態系間流動，物種多樣性和豐度較低。 食物網結構簡化，完全或幾乎沒有初級生產者，且除了偶爾出現的暫時性物種外，沒有脊椎動物掠食者。 優勢異營生物包括細菌、水生真菌和原生生物，其生活在光滑人工表面或岩石表面的生物膜中。 生物膜提供食物給碎食者、掠食者（原生動物和浮游無脊椎動物）和濾食者（軟體動物）。 水力狀態變化會影響生物膜結構和水體中的生物群集。 魚類等暫時性脊椎動物的棲息地，通常連接食物充足的地表生態系，並仰賴其運輸的養分和獵物。 各種生物都能在此環境條件中生存，但僅有一部分能夠繁衍並維持族群。 此生態系的所有生物都能在無光或微光下存活，即使是暫時性物種也能短暫耐受無光環境。 其他物種特徵則因水力和水化學狀態而異，如高度優養化而低流速的排水系統中，耐毒性是重要的生理特徵；而高流速的礦泉水管中的典型特徵則是低養分和強湍流的耐受性。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Subterranean canals and water pipes are engineered structures designed to connect
-and move waters between artificial (or more rarely natural) sources. They are united by an absence of light and usually low oxygen levels and low variability in temperatures, but hydraulic regimes, nutrient levels, water chemistry, flow and turbulence vary greatly among ecosystems. Water supply pipes are extreme oligotrophic systems with rapid flow, high turbulence, low nutrients and low connectivity to the atmosphere, often sourced from de-oxygenated water at depth within large reservoirs (F3.1). In contrast, subterranean wastewater or stormwater canals
-have slower, more intermittent flows, low turbulence and very high nutrient levels and chemical pollutants, including toxins. Many of these eutrophic systems have an in situ atmosphere, but dissolved oxygen levels are very low in connection with high levels of dissolved organic Carbon and microbial activity.
+地下運河和水管是專為連接並輸送水源而設計的工程結構，少數狀況下會連接天然水源。 此生態系的共同特徵是缺乏光照，通常含氧量較低且水溫變化小，但水力狀況、養分含量、水化學性質、水流速度和湍流程度在生態系間的變化明顯。 供水管道屬於極端貧養系統，水流快速、湍流強烈、養分含量低，且與大氣的連接性低，水源通常來自大型水庫深層的去氧水（F3.1）。 相較之下，地下廢水或暴雨排水運河具有較緩慢且間歇性的水流、湍流弱，並含有高濃度的養分及化學污染物，包含各類毒素。 優養生態系的管道中常具有局部空氣環境，但由於溶解有機碳濃度高及微生物活動旺盛，溶氧量極低。
 
-## DISTRIBUTION
+## 分布
 
-Common in landscapes with urban or industrial infrastructure, including water supply and sewerage reticulation systems, hydroelectricity, irrigation and other intensive agricultural industries.
+水管及地下運河常見於城市或具有工業基礎設施的地景中，包括供水和污水管道系統、水力發電、灌溉及其他密集型農業。
 
-# SF2.2 Flooded mines and other voids BIOME: SF2 FRESHWATER SUBTERRANEAN SYSTEMS
+# SF2.2 淹沒礦坑和其他空穴
 
-REALM: TRANSITIONAL SUBTERRANEAN-FRESHWATER
+生物群系：SF2 地下人造淡水生物群系
+生態域：地下域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Abandoned and now flooded underground mines frequently contain extensive reservoirs of geothermally warmed groundwater, colonized by stygobitic invertebrates from nearby natural subterranean habitats. A fraction of the biota is likely to have been introduced by mining activities. A lack of light excludes photoautotrophs from these systems and low connectivity limits inputs from allochthonous energy sources. Consequently, overall productivity is low, and is likely to depend on chemoautrophic microbes (i.e. sulfate- reducing bacteria) as sources of energy. Few studies have investigated the ecology of the aquatic biota in quasi-stagnant water within mine workings, but trophic networks are truncated and likely to be simple, with low diversity and abundance
-at all trophic levels, and no endemism. Most of the resident heterotrophic biota are bacteria, aquatic fungi and protists living in biofilms on artificial surfaces of abandoned infrastructure, equipment or cut rock faces. Extremophiles are likely to dominate in waters that are highly acidic or with high concentrations of heavy metals or other toxins. Micro-invertebrates are most likely to be the highest-level predators. Some voids may have simple assemblages of macroinverterbates, but few are likely to support vertebrates unless they are connected with surface waters that provide a means of colonization.
+廢棄且已淹沒的地下礦坑常含有廣闊的溫暖地下水庫，熱量來自於地熱，且可能被附近天然洞穴的無脊椎暗層動物拓殖。 部分生物相可能是在採礦活動時引入此生態系。 由於缺乏日照，光自營生物無法在此生態系中存活，低連通性則限制異源能量輸入。 因此初級生產力較低，仰賴化學自營微生物（例如硫酸鹽還原菌）作為能量來源。 對於停滯礦坑水域中水域生物的生態學研究甚少，但其食物網通常結構簡單且呈扁平狀，物種多樣性和豐度低，無特有種。 主要異營生物群集為細菌、水生真菌及原生生物，生活在廢棄基礎設施人造表面或岩石表面的生物膜中。 在極酸性或高濃度重金屬或其他毒素的水域中，極端微生物可能佔據主導地位。 微型無脊椎動物可能是此生態系中的頂尖掠食者。 一些洞穴可能含有簡單的巨型無脊椎動物群集，但很少具有脊椎動物，除非與提供生物拓殖途徑的地表水相連。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Like all subterranean ecosystems, light is absent or extremely dim in flooded mines. Unlike subterranean canals and pipes (SF2.1), mine waters are quasi-stagnant and not well connected to surface waters. During mine operation, water is pumped out of the mine forming a widespread cone of water table depression, with oxidation and hydrolysis of exposed minerals changing groundwater chemistry. When mines close and dewatering ceases, water table rebounds and the voids often flood. Some voids are completely inundated, while others retain a subterranean atmosphere, which may or may not be connected to the surface. Further changes in water chemistry occur after flooding due to dissolution and flushing of the oxidation products. Water is often warm due to geothermal heating. After inundation has stabilised, seepage and mixing may be slow, and stratification creates strong gradients in oxygen and solutes. Waters are acidic in most flooded mines. The ionic composition varies depending on mineralogy of the substrate, but ionic concentrations are typically high, and often contain heavy metals at levels toxic to some aquatic biota. Acid mine drainage is a common cause of pollution in surface rivers and streams, where it seeps to the surface.
+淹沒礦坑與其他地下生態系相同，缺乏日照或光線極其微弱。 與水管及地下運河（SF2.1）不同，礦坑水域近乎停滯，且難以連結地表水。 礦坑運營期間，水會被抽出，形成廣闊的地下水位下降區域，礦物經氧化和水解改變地下水的化學性質。 當礦坑廢棄並停止排水時，地下水位回升使礦坑被淹沒。 部分洞穴會完全被淹沒，其餘則會保有一部分地下空氣，這些洞穴可能與地表連通，也可能不連通。 淹沒後，由於氧化產物溶解和沖刷，進一步導致水化學性質的變化。 礦井水通常因地熱而較為溫暖。 隨著淹沒穩定後，水體的滲流和混合速率變慢，分層現象會產生強烈的氧氣和溶質梯度變化。 大多數淹沒礦井為酸性水質。 離子組成取決於礦物成分，但離子濃度通常較高，且重金屬濃度常對水域生物有毒。 礦井的酸性水滲流至地表時會對環境產生負面影響，是造成地表河流和溪流污染的常見原因。
 
-## DISTRIBUTION
+## 分布
 
-Common in in many mineral rich regions of the world.
-
-# SF2.2 Flooded mines and other voids
-
-BIOME: SF2 FRESHWATER SUBTERRANEAN SYSTEMS
-REALM: TRANSITIONAL SUBTERRANEAN-FRESHWATER
-
-## ECOLOGICAL TRAITS
-
-Abandoned and now flooded underground mines frequently contain extensive reservoirs of geothermally warmed groundwater, colonized by stygobitic invertebrates from nearby natural subterranean habitats. A fraction of the biota is likely to have been introduced by mining activities. A lack of light excludes photoautotrophs from these systems and low connectivity limits inputs from allochthonous energy sources. Consequently, overall productivity is low, and is likely to depend on chemoautrophic microbes (i.e. sulfate- reducing bacteria) as sources of energy. Few studies have investigated the ecology of the aquatic biota in quasi-stagnant water within mine workings, but trophic networks are truncated and likely to be simple, with low diversity and abundance
-at all trophic levels, and no endemism. Most of the resident heterotrophic biota are bacteria, aquatic fungi and protists living in biofilms on artificial surfaces of abandoned infrastructure, equipment or cut rock faces. Extremophiles are likely to dominate in waters that are highly acidic or with high concentrations of heavy metals or other toxins. Micro-invertebrates are most likely to be the highest-level predators. Some voids may have simple assemblages of macroinverterbates, but few are likely to support vertebrates unless they are connected with surface waters that provide a means of colonization.
-
-## KEY ECOLOGICAL DRIVERS
-
-Like all subterranean ecosystems, light is absent or extremely dim in flooded mines. Unlike subterranean canals and pipes (SF2.1), mine waters are quasi-stagnant and not well connected to surface waters. During mine operation, water is pumped out of the mine forming a widespread cone of water table depression, with oxidation and hydrolysis of exposed minerals changing groundwater chemistry. When mines close and dewatering ceases, water table rebounds and the voids often flood. Some voids are completely inundated, while others retain a subterranean atmosphere, which may or may not be connected to the surface. Further changes in water chemistry occur after flooding due to dissolution and flushing of the oxidation products. Water is often warm due to geothermal heating. After inundation has stabilised, seepage and mixing may be slow, and stratification creates strong gradients in oxygen and solutes. Waters are acidic in most flooded mines. The ionic composition varies depending on mineralogy of the substrate, but ionic concentrations are typically high, and often contain heavy metals at levels toxic to some aquatic biota. Acid mine drainage is a common cause of pollution in surface rivers and streams, where it seeps to the surface.
-
-## DISTRIBUTION
-
-Common in in many mineral rich regions of the world.
+常見於世界各地礦業發達的地區。

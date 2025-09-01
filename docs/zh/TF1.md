@@ -1,157 +1,122 @@
-# TF1 Palustrine wetlands biome
+# TF1 沼生濕地生物群系
 
-At the interface of terrestrial and freshwater realms, the Palustrine wetlands biome includes vegetated floodplains, groundwater seeps, and mires with permanent or intermittent surface water. Although water and light are abundant at
-least periodically, saturation of the soil may result in oxygen deprivation below the ground. This suppresses microbial activity and, in many systems, production exceeds decomposition, resulting in peat accumulation. The water regime influences resource availability and productivity and thus regulates
-these ecosystems from the bottom-up. Interactions among catchment precipitation, local evapotranspiration, and substrate and surface morphology regulate run-on, runoff, infiltration,
-and percolation. This results in water regimes that vary from permanent shallow standing water or near-surface water tables to seasonally high water tables to episodic inundation with long inter-annual dry phases. As a consequence of their indirect relationships with climate, wetland biomes are traditionally classified as ‘azonal’. Spatial heterogeneity is a key feature of palustrine wetlands. At landscape scales, they function as resource sinks and refuges with substantially higher productivity than the surrounding matrix. Fine-scale spatial variation in the water regime often produces restricted hydrological niches
-and intricate mosaics of patch types with contrasting structure and biotic composition. Autotrophs dominate complex trophic webs. Amphibious macrophytes are the dominant autotrophs, although epibenthic algae are important in some systems. Amphibious plants have specialised traits enabling growth and survival in low-oxygen substrates and often engineer habitats for heterotrophs. Microbial decomposers and invertebrate detritivores are most abundant in surface soils. A range of microscopic and macroinvertebrates with sedentary adult phases (i.e. crustaceans) have obligate associations with Palustrine wetlands, which also provide important foraging and breeding sites for macroinvertebrate and vertebrate herbivores and predators that disperse more widely across the landscape, including waterbirds.
+沼生濕地生物群系位於陸域和淡水域的交界處，包括植被覆蓋的氾濫平原、地下水滲流區和具有永久或間歇性地表水的泥炭沼澤。 雖然定期有充足的水分和日照量，但飽和土壤可能導致地下缺氧。 抑制微生物活動，使初級生產力常超過分解速率，導致泥炭累積。 水文狀況影響資源的可用性和初級生產力，從而上行調節此生物群系。 集水區降水量、局部蒸發散量、土壤和地形的相互作用，共同調節水分進出、入滲和滲漏。 創造多樣化的水文，包括較淺的永久靜水，或是季節性水位變化和年際性乾旱造成的間歇性洪水。 由於此生物群系與氣候的間接關係，濕地生物群系傳統上被歸類為「泛域」生物群系。 空間異質性是沼生濕地的關鍵特徵。 在地景尺度上，沼生濕地作為資源的匯集地和庇護所，初級生產力顯著高於周圍的生態系。 水文的微小空間變化通常會產生較侷限的水文棲位，和區塊間結構和生物組成差異巨大的鑲嵌式地景。 自營生物在複雜的食物網中占主導地位。 兩棲大型植物是主要的生產者，底表棲性藻類則是部分生態系的重要生產者。 兩棲植物能在低溶氧的水域中生長，並為異營生物構築棲地。 微生物分解者和無脊椎動物碎食者是地表土壤中的優勢物種。 微觀和大型無脊椎動物（如甲殼類）的成體有定棲性，為沼生濕地的專性物種。廣泛分布於地景中的大型無脊椎、脊椎動物植食者和掠食者（包括水鳥）也會利用沼生濕地作為覓食和繁殖地。
 
-# TF1.1 Tropical flooded forests and peat forests
+# TF1.1 熱帶水沒林與泥炭森林
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Closed-canopy forests in tropical swamps and riparian zones have high biomass and LAI, with unseasonal growth and reproductive phenology. The canopy foliage is evergreen, varying in size from mesophyll to notophyll with moderate SLA. Productivity differs markedly between high-nutrient ‘white water’ riparian systems and low-nutrient ‘black water’ systems. In the latter, most of the nutrient capital is sequestered in plant biomass, litter, or peat, whereas in white water systems, soil nutrients are replenished continually by fluvial subsidies. Some trees have specialised traits conferring tolerance to low-oxygen substrates, such as surface root
-mats, pneumatophores and stilt roots. Palms (sometimes in pure stands), hydrophytes, pitcher plants, epiphytic mosses, and ferns may be abundant, but lianas and grasses are rare or absent. The recent origin of these forests has allowed limited time for evolutionary divergence from nearby lowland rainforests (T1.1), but strong filtering by saturated soils has resulted in low diversity and some endemism. The biota is spatially structured by local hydrological gradients. Riparian galleries of floodplain forests also occur within savanna matrices. Trophic networks are complex but with less diverse representation of vertebrate consumers and predators than T1.1, although avian frugivores, primates, amphibians, macroinvertebrates, and crocodilian predators are prominent. Plant propagules are dispersed mostly by surface water or vertebrates. Seed dormancy and seedbanks are rare. Gap-phase dynamics are driven by individual tree-
-fall, storm events, or floods in riparian forests, but many plants exhibit leaf-form plasticity and can recruit in the shade.
+熱帶水沒林與泥炭森林位在熱帶的沼澤和河岸，具有高生物量和葉面積指數，其生長和繁衍無明顯季節性。 此生態系的樹冠鬱閉且常綠，葉片大小適中，比葉面積中等。 初級生產力在養分多的「白水」河岸和養分少的「黑水」河岸之間存在顯著差異。 黑水河岸中，養分大多封存於植物體、枯枝落葉或泥炭中；白水河岸則能透過河流持續補給土壤養分。 部分樹木具有能耐受缺氧土壤的特化性狀，如表面根墊、呼吸根和支柱根。 此生態系可能具有大量棕櫚樹（有時為純林）、水生植物、豬籠草、附生苔蘚和蕨類，但缺乏藤本植物和禾本科。 與附近的低地雨林（T1.1）相比，此生態系的歷史和演化時間較少，但由於飽和土壤的強烈過濾作用，導致物種多樣性較低，且具備特有種。 生物群集的空間分布受局部水文變化影響。 氾濫平原森林的河岸廊道也會出現在莽原地景中。 食物網複雜，脊椎動物消費者和掠食者的多樣性低於T1.1，但仍有豐富的果食性鳥類、靈長類、兩棲類、大型無脊椎動物和鱷目掠食者。 植物繁殖體主要透過地表水或脊椎動物傳播。 種子休眠和種子庫較為罕見。 由樹木個體倒下、暴風或河岸森林中的洪水引起樹冠孔隙動態變化，但大多數植物具有葉形可塑性，能夠在樹蔭中生長。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-High rainfall, overbank flows or high water tables maintain an abundant water supply. Continual soil profile saturation leads to anaerobic black water conditions and peat accumulation. In contrast, white water riparian zones undergo frequent fluvial disturbance and drain rapidly. Peat forests often develop behind lake shore vegetation or mangroves, which block lateral drainage. Black water peatlands may become domed, ombrogenous (i.e. rain-dependent), highly acidic, and nutrient-poor, with peat accumulating to depths of 20 m. In contrast, white water riparian forests are less permanently inundated and floods continually replenish nutrients, disturb vegetation, and rework sediments. Hummock-hollow micro-topography is characteristic of all forested wetlands and contributes to niche diversity. Light may be limited by dense tree canopies. There is low diurnal, intra- and inter-annual variability in rainfall and temperature, with the latter rarely &lt;10°C, which promotes microbial activity when oxygen is available.
+高降雨量、河水氾濫或高地下水位能維持足夠的水源。 長期飽和的土壤產生厭氧的黑水河岸並累積泥炭。 與此相對，白水河岸經常受到河流擾動，並迅速排水。 泥炭森林通常在湖岸植被或紅樹林的後方發展，阻止橫向排水。 黑水泥炭地可能形成圓頂狀的雨潤泥煤，酸性高且缺乏養分，泥炭的深度可達20公尺。 相對而言，白水河岸森林的淹沒時間較短，洪水會不斷補充養分、擾動植被並重新累積沉積物。 圓丘–凹地的微地形是所有森林濕地的典型特徵，有助於增加棲位多樣性。 茂密的樹冠可能限制日照量。 降雨量和氣溫的日夜、年內及年際變化小，氣溫很少低於10°C，有助於微生物在氧氣充足時活動。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Flat equatorial lowlands of Southeast Asia, South America, and Central and West Africa, notably in Borneo and the Amazonian lowlands.
+熱帶水沒林與泥炭森林分布於赤道，東南亞、南美洲以及非洲中部和西部的平坦低地，尤其是婆羅洲和亞馬遜低地。
 
-# TF1.2 Subtropical-temperate forested wetlands
+# TF1.2 亞熱帶、溫帶森林濕地
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-These hydrophilic forests and thickets have an open to closed tree or shrub canopy, 2–40 m tall, dependent on flood regimes or groundwater lenses. Unlike tropical forests (TF1.1), they typically are dominated by one
-or very few woody species. Trees engineer fine-scale spatial heterogeneity in resource availability (water, nutrients, and
-light) and ecosystem structure, which affects the composition, form, and functional traits of understorey plants and fauna. Engineering processes include the alteration of sediments,
-(i.e. surface micro-topography by the growth of large roots),
-the deposition of leaf litter and woody debris, canopy shading, creation of desiccation refuges for fauna and the development of foraging or nesting substrates (i.e. tree hollows). Forest understories vary from diverse herbaceous assemblages
-to simple aquatic macrophyte communities in response to spatial and temporal hydrological gradients, which influence
-the density and relative abundance of algae, hydrophytes and dryland plants. Primary production varies seasonally and inter- annually and can be periodically high due to the mobilisation of nutrients on floodplains during inundation. Nutrients accumulate on floodplains during low flows, and may drive microbial blooms, leading to aquatic anoxia, and fish kills, which may be extensive when flushing occurs. Plant and animal life histories are closely connected to inundation (e.g. seed-fall, germination fish-spawning and bird breeding are stimulated by flooding). Inundation-phase aquatic food webs are moderately complex. Turtles, frogs, birds and sometimes fish exploit the alternation between aquatic and terrestrial phases. Waterbirds forage extensively on secondary production, stranded as floodplains recede, and breed in the canopies of trees or mid-storey. Forested wetlands are refuges for many vertebrates during droughts. Itinerant mammalian herbivores (e.g. deer and kangaroos) may have locally important impacts on vegetation structure and recruitment.
+亞熱帶、溫帶的親水性森林和灌木叢具有開闊到鬱閉的樹冠或灌木冠層，高度在2至40公尺之間，取決於洪水規模或地下淡水透鏡體（groundwater lense）深度。 不同於熱帶水沒林（TF1.1），此生態系由一種或少數幾種木本植物主導。 樹木能改變資源可用性（如水、養分和日照量）及生態系結構，營造小尺度空間異質性，從而影響下層植群及動物群集的物種組成、形態及功能特徵。 此過程包括改變沉積物（如大型根系生長造成地表微地形）、沉積落葉層和木屑、樹冠遮蔭、為動物提供乾燥庇護所，並為覓食或築巢提供環境和材料（如樹洞）。 森林的下層植被物種豐富，從草本植群到簡單的大型水生植群不等，時空上的水文變化會改變藻類、水生植物和旱生植物的密度及相對豐度。 初級生產力隨季節和年際變化波動，並且在氾濫平原淹水期間因養分移動而達到週期性高峰。 低流量時養分累積於氾濫平原，可能會引起微生物爆發，導致水體缺氧，並在沖刷時造成魚類大量死亡。 動植物生活史與淹水息息相關，如播種、發芽、魚類產卵和鳥類繁殖都受洪水刺激。 淹水階段的水生食物網複雜。 烏龜、青蛙和鳥類會在水陸域交替活動，部分魚類也有此特徵。 洪水退去後，水鳥會在氾濫平原上廣泛掠食，並在樹冠或中層植被繁衍。 森林濕地在乾旱期間為許多脊椎動物提供庇護所。 遊蕩性哺乳類植食者（如鹿和袋鼠）可能會大幅影響植群結構和補充。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-These forests occur on floodplains, riparian corridors, and disconnected lowland flats. Seasonally and inter-annually variable water supply influences ecosystem dynamics. Allochthonous water and nutrient subsidies from upstream catchments supplement local resources and promote the extension of floodplain forests and their biota into arid regions (‘green tongues’). Water movement is critical for the connectivity and movement of biota, while some groundwater-dependent forests are disconnected. High-energy floods in riparian corridors displace standing vegetation and woody debris, redistribute nutrients, and create opportunities for dispersal and recruitment. Low-energy environments with slow drainage promote peat accumulation. Extreme drying and heat events may generate episodes of tree dieback and mortality. Fires may occur depending on the frequency of fire weather, ignition sources, and landscape context.
+森林濕地分布於氾濫平原、河岸廊道和孤立的低地平原上。 水分隨季節和年際變化，造成生態系動態變化。 來自上游集水區的異源水分和養分補充當地資源，促進氾濫平原森林及其生物相往乾燥地區擴展，形成「綠舌」（green tongues）。 水體流動是生物群集連結和遷徙的重要因素，部分依賴地下水的森林則與外界隔離。 河岸廊道中能量高的洪水會沖刷現有植被和木質碎片，重新分配養分，並創造植物傳播和補充的機會。 在水流能量低的環境中，排水緩慢會累積泥炭。 極端乾旱和高溫可能導致樹木枯萎和死亡。 乾旱頻率、起火源和地景會影響火燒事件頻率。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Temperate and subtropical floodplains. riparian zones and lowland flats worldwide.
+亞熱帶、溫帶森林氾濫平原。 全球的河岸和低地平原。
 
-# TF1.3 Permanent marshes
+# TF1.3 永久草澤
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-These shallow, permanently inundated freshwater wetlands lack woody vegetation but
-are dominated instead by emergent macrophytes growing
-in extensive, often monospecific groves of rhizomatous grasses, sedges, rushes, or reeds in mosaics with patches
-of open water. These plants, together with phytoplankton, algal mats, epiphytes, floating, and amphibious herbs, sustain high primary productivity and strong bottom-up regulation. Although most of the energy comes from these functionally diverse autotrophs, inflow and seepage from catchments may contribute allochthonous energy and nutrients. Plant traits, including aerenchymatous stems and leaf tissues (i.e. with
-air spaces), enable oxygen transport to roots and rhizomes
-and into the substrate. Invertebrate and microbial detritivores and decomposers inhabit the water column and substrate. Air-breathing invertebrates are more common than gill- breathers, due to low dissolved oxygen. The activity of microbial decomposers is also limited by low oxygen levels and organic deposition continually exceeds decomposition. Their aquatic predators include invertebrates, turtles, snakes and sometimes small fish. The emergent vegetation supports a complex trophic web, including insects with winged adult phases, waterbirds, reptiles, and mammals, which feed in the vegetation and
-also use it for nesting (e.g. herons, muskrat, and alligators). Waterbirds include herbivores, detritivores, and predators. Many plants and animals disperse widely beyond the marsh through the air, water and zoochory (e.g. birds, mammals). Reproduction and recruitment coincide with resource availability and may be cued to floods. Most macrophytes spread vegetatively with long rhizomes but also produce an abundance of wind- and water- dispersed seeds.
+永久草澤與開闊水域鑲嵌分布於地景中，缺乏木本植物，優勢物種為挺水植物，通常生長在廣闊且單一種群的地下莖禾本科、莎草、燈心草或蘆葦中。 上述植物和浮游植物、藻類墊層、附生植物、漂浮植物和兩棲草本植物共同維持高初級生產力，並上行調節營養階層。 雖然大部分能量來自功能多樣的自營生物，但集水區輸入和滲流的水流也會帶來異源能量和養分。 植物特徵使氧氣能夠傳輸到根和地下莖，並進入土壤，包括能通氣的莖葉組織。 無脊椎動物和微生物的碎食者和分解者棲息在水柱和土壤中。 由於溶氧量低，呼吸空氣的無脊椎動物比水中呼吸者更為常見。 微生物分解者的活性也受到低溶氧量限制，使有機質沉積量超過分解量。 水生掠食者包括無脊椎動物、烏龜、蛇和小型魚類。 挺水植物支撐複雜的食物網，包括成蟲階段有翅膀的昆蟲、水鳥、爬蟲類和哺乳類，在植物中覓食，並將其用於築巢（例如鷺科、麝鼠和短吻鱷）。 水鳥包括植食者、碎食者和掠食者。 許多動植物透過空氣、水和動物傳播（例如鳥類、哺乳類）到沼澤之外。 生物繁殖和補充時間與資源可用性一致，且可能由洪水觸發。 大多數挺水植物通過地下莖進行無性繁殖，但也會產生大量由風力和水力傳播的種子。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-These systems occur in several geomorphic settings, including lake shores, groundwater seeps, river floodplains and deltas, always in low-energy depositional environments. Shallow but perennial inundation and low variability are maintained by frequent floods and lake waters, sometimes independently of local climate. This sustains high levels of water and nutrients, but also generates substrate anoxia. Substrates are typically organic. Their texture varies, but silt and clay substrates are associated with high levels of P and N. Salinity is low but may be transitional where wetlands connect with brackish lagoons (FM1.2, FM1.3). Surface fires may burn vegetation in some permanent marshes, but rarely burn the saturated substrate, and are less pervasive drivers of these ecosystems than seasonal floodplain marshes (TF1.4).
+永久草澤出現在多種地貌中，包括湖岸、地下水滲流區、氾濫平原和三角洲，並且總是出現在水流能量低的沉積環境。 頻繁的洪水和湖水維持長期淺層淹水和低變異性，有時與當地氣候無關。 提供高水位和大量養分，但也會導致土壤缺氧。 土壤通常富含有機質。 土壤質地各異，磷和氮含量高的土壤通常為粉砂和黏土。此生態系的鹽度通常較低，但在與半鹹水潟湖（FM1.2, FM1.3）相連的地方可能會有鹽度過渡帶。 地表火燒事件可能會燃燒永久草澤中的部分植被，但很少會燃燒飽和土壤，在此生態系中的影響力也低於季節性氾濫平原草澤（TF1.4）。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Scattered throughout the tropical and temperate regions worldwide.
+永久草澤散布於全球熱帶和溫帶地區。
 
-# TF1.4 Seasonal floodplain marshes
+# TF1.4 季節性氾濫平原草澤
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-This group includes high-productivity floodplain wetlands fed regularly by large inputs of allochthonous resources that drive strong bottom-up regulation, and smaller areas of disconnected oligotrophic wetlands. Functionally diverse autotrophs include phytoplankton, algal mats and epiphytes, floating and amphibious herbs and graminoids, and semi-terrestrial woody plants. Interactions of fine-scale spatial gradients in anoxia and desiccation are related to differential flooding. These gradients shape ecosystem assembly by enabling species with diverse life-history traits to exploit different niches, resulting in strong local zonation of vegetation and
-high patch-level diversity of habitats for consumers. Wetland mosaics include very productive and often extensive grasses, sedges and forbs (sedges dominate oligotrophic systems)
-that persist through dry seasons largely as dormant seeds or subterranean organs as well as groves of woody perennials that are less tolerant of prolonged anoxia but access ground water or arrest growth during dry phases. Productive and functionally diverse autotrophs support complex trophic networks with zooplankton, aquatic invertebrates, fish, amphibians, reptiles, aquatic mammals, waterbirds, and terrestrial animals with diverse dietary and foraging strategies. During dry phases, obligate aquatic organisms are confined to wet refugia. Others, including many invertebrates, have dormancy traits allowing persistence during dry phases. Very high abundances and diversities of invertebrates, waterbirds, reptiles, and mammals exploit resource availability, particularly when prey are concentrated during drawdown phases of floods. Reproduction and recruitment, especially of fish, coincide with food availability cued by flood regimes.
+季節性氾濫平原草澤包括高初級生產力的氾濫平原濕地，其定期接收大量異源資源，藉以上行調節營養階層，同時也涵蓋小範圍的孤立貧養濕地。 功能多樣的自營生物包括浮游植物、藻類墊層、附生植物、漂浮和兩棲草本植物及禾草，以及半陸生木本植物。 由於氾濫不均，缺氧與乾燥程度的微尺度變化相互作用。 提供不同棲位給生活史特徵多樣的物種，進而塑造生態系的物種組成，造成植群帶狀分布，並提供消費者多樣化的棲地。 濕地鑲嵌地景包括初級生產力極高且廣闊的禾本科、莎草和闊葉草類（莎草在貧養地區佔優勢），在乾季以休眠種子或地下器官存活；木本多年生植物對長期缺氧的耐受性較低，但能夠利用地下水或在乾旱期間停止生長。 初級生產力高且功能多樣的自營生物支撐複雜的食物網，包括浮游動物、水生無脊椎動物、魚類、兩棲類、爬蟲類、水生哺乳類、水鳥及陸生動物，具有多樣的食性和覓食策略。 在乾旱期間，水域生物被限制在濕潤的庇護所。 其他生物（包括無脊椎動物）具有能度過乾旱的休眠特徵。 當洪水退去而獵物集中時，無脊椎動物、水鳥、爬蟲類和哺乳類的豐度和多樣性極高，能充分利用資源。 洪水帶來的大量食物與生物繁殖和補充的物候一致。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Regular seasonal flooding and drying is driven by river flow regimes, reflecting seasonal precipitation or melt patterns in catchments. Salinity gradients and tides influence these marshes where they adjoin estuaries, with brackish marshes on transitions to TF1.2, TF1.3 and MFT1.3. Disconnected oligotrophic systems rely on rainfall and low substrate permeability for seasonal waterlogging. Seasonal flood extent and duration vary inter-annually, especially in temperate zones. Geomorphic heterogeneity in the depositional floodplains promote spatial and temporal variability in moisture status, creating contrasting patches, including perennially inundated refuges and dry ‘islands’ that seldom flood and dry rapidly. Substrates are fertile alluvia or infertile white sands with variable grain sizes, moisture, and organic content that reflect fine-scale depositional patterns and hydrological gradients. Fires may occur in dry seasons, releasing resources, changing vegetation structure and composition, consuming organic substrates and lowering the wetland surface.
+由河川流量驅動季節性洪水和乾旱，反映集水區內的季節性降水或融雪模式。 當沼澤鄰近河口時，會受到鹽度變化和潮汐影響，並且在與TF1.2、TF1.3和MFT1.3的過渡區中形成半鹹水沼澤。 孤立貧養地區的季節性洪水仰賴降雨和低滲透性的土壤。 季節性洪水的範圍和持續時間在不同年份有所變化，溫帶地區的變化特別明顯。 多樣化的地貌造成氾濫平原的水分時空變異性，形成對比鮮明的區塊，包括長期淹沒的庇護所和鮮少淹沒且迅速乾燥的「島嶼」。 土壤從肥沃的沖積層到貧瘠的白沙不等，其顆粒大小、水分和有機質含量隨小尺度的沉積模式和水文變化。 在乾季可能發生火燒事件，釋放資源、改變植被結構和物種組成、消耗有機質並降低濕地高度。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Throughout the seasonal tropics and subhumid temperate regions of the world.
+季節性氾濫平原草澤分布於全球季節性熱帶區和溫帶半濕潤地區。
 
-# TF1.5 Episodic arid floodplains
+# TF1.5 乾燥間歇性氾濫平原
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Highly episodic freshwater floodplains are distinct from, but associated with, adjacent river channels, which provide water and sediment during flooding. These are low-productivity systems during long, dry periods (maybe years), with periodic spikes of very high productivity when first inundated. These floodplains have a high diversity of aquatic and terrestrial biota in complex trophic networks, with ruderal life-history traits enabling the exploitation of transient water and nutrient availability. Primary producers include flood- dependent macrophytes and algae with physiological traits for water conservation or drought avoidance. Lower trophic levels (e.g. algae, invertebrate consumers) avoid desiccation with traits, such as dormant life-cycle phases, deposition of resting eggs (e.g. crustaceans and rotifers) and burial in sediments banks (i.e. larvae of cyclopoid copepods). Higher trophic levels (e.g. fish, amphibians, reptiles and waterbirds) are highly mobile in large numbers or with resting strategies (i.e. burrowing frogs). These taxa can be important mobile links for the movement of biota and resources, but floods are the primary allochthonous sources of energy and nutrients. Floods are important
-triggers for life-history processes, such as seed germination, emergence from larval stages, dispersal and reproduction. Common lifeforms include detritus-feeding invertebrate collector-gatherers, indicating a reliance on heterotrophic energy pathways.
+間歇性的淡水泛氾濫平原能提供水分及沉積物，與鄰近河道不同。 長期乾旱期的生產力較低，生產力於氾濫時驟增。 此生態系擁有高度多樣化的水域和陸域生物相，形成複雜的食物網，生物具有速生型生活史特徵，能夠利用短暫供應的水分和養分。 初級生產者包括仰賴洪水的大型水生植物和藻類，具有保水或躲避乾旱的生理特徵。 營養階層較低的生物（如藻類和無脊椎消費者）具有躲避乾旱的特徵，如生命週期的休眠階段、休眠卵（如甲殼類和輪蟲）或掩埋在沉積河堤中（如橈足類的幼蟲）。 高營養階層的生物，如魚類、兩棲類、爬蟲類和水鳥，則具有良好的移動力，能大量遷徙，或採取休眠策略（如掘地蛙）。 上述生物是生物群集與環境間的重要資源轉移者，但洪水仍是主要的異源能量和養分來源。 洪水能觸發生活史過程，如種子發芽、幼蟲蛻變、傳播和繁殖。 常見的生活形態包括碎食性的無脊椎動物採集者，顯示能量流動仰賴異營生物。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Multi-year dry periods are punctuated by brief intervals of shallow inundation caused by the overspill from flooding river channels. These boom-bust systems have temporarily high productivity driven by water and partly by elevated levels of dissolved Carbon and nutrients (notably N and P) released from leaf litter, oxygen, and organic matter in newly inundated, shallow areas. High temperatures promote productivity and rapid drying in arid environments. Water may be turbid or clear, which affects light environments and may limit benthic algal production to the shallow littoral margins of small channels. This in turn affects aquatic food webs and Carbon dynamics. Drainage is predominantly horizontal
-and bidirectional (i.e. in and out of the river), but infiltration and evapotranspiration can be significant in the flat terrain and may influence salinity if there are sources of salt in the catchment or ground water.
+河道氾濫溢出形成的淺層水淹終止長年的乾旱期。 新區域的淺層水淹使溶解碳濃度及落葉、大氣、有機物釋放的養分(氮及磷為大宗)增加導致短暫的高產力。 高溫在乾燥環境中增加初級生產力並加速乾燥過程。 水體可能混濁或清澈，影響水體內部日照，並將底棲藻類限制在小型河道的淺水沿岸。 進而影響水中食物網和碳循環。 水分橫向進出河道，但在平坦地形中，入滲和蒸發散作用明顯，若集水區或地下水中存在鹽源，則可能影響鹽度。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Connected to ephemeral rivers in semi-arid and arid regions of all continents.
+乾燥間歇性氾濫平原分布於所有大陸上半乾燥和乾燥地區的季節性河流周邊。
 
-# TF1.6 Boreal, temperate and montane peat bogs
+# TF1.6 北寒帶、溫帶與山地酸性泥炭沼澤
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-These patterned peatlands account for up to 40% of global soil carbon are dominated by a dense cover (high LAI) of hydrophytic mosses, graminoids, and shrubs, sometimes with scattered trees. Positive feedbacks between dense ground vegetation, hydrology, and substrate chemistry promote peat formation. through water retention and inhibition of microbial decomposition. Moderate to low primary production is partially broken down at the soil surface by anamorphic
-fungi and aerobic bacteria. Burial by overgrowth and saturation by the water table promotes anaerobic conditions, limiting subsurface microbial activity, while acidity, nutrient scarcity, and low temperatures enhance the excess of organic deposition over decomposition. Plant diversity is low but fine-scale hydrological gradients structure vegetation mosaics, which may include fens (TF1.7). Mosses (notably Sphagnum spp.) and graminoids with layering growth forms promote peat formation. Their relative abundance influences microbial communities and peat biochemistry. Plant traits, such as lacunate stem tissues, aerenchyma and surface root mats, promote oxygen transport into the anaerobic substrate. Woody plant foliage is small (leptophyll-microphyll) and sclerophyllous, reflecting excess carbohydrate production in low-nutrient conditions. Plants and fungi reproduce primarily by cloning,
-except where disturbances (i.e. fires) initiate gaps enabling recruitment. Pools within the bogs have specialised aquatic food webs underpinned by algal production and allochthonous carbon. Invertebrate larvae are prominent consumers in the trophic network of bog pools, and as adults they are important pollinators and predators. Assemblages of flies, dragonflies, damselflies, caddisflies and other invertebrates vary with the number, size and stability of pools. Carnivorous plants (i.e. sundews) support N cycling. Vertebrates are mostly itinerant but include specialised resident amphibians, reptiles, rodents, and birds. Some regions are rich in locally endemic flora and fauna, particularly in the Southern Hemisphere.
+北寒帶、溫帶和山地酸性泥炭沼澤佔全球40%的土壤含碳量，優勢物種為高葉面積指數的親水性苔蘚、禾草和灌木，有時伴隨稀疏的樹木。 密集的地面植被、水文和土壤化學性質之間的正回饋促進堆積大量泥炭。 透過土壤水滯留並抑制微生物分解。 初級生產力低至中等，在土壤表面由不完全真菌(anamorphic fungi)和好氧菌分解。 過度生長的植物和土壤水飽和形成缺氧環境，限制地下微生物的活動，與酸性土壤、養分稀缺和低溫等因子共同造成有機物沉積量超過分解量。 雖然植物多樣性較低，但小尺度的水文變化形成植群鑲嵌地景，包括礦質泥炭沼澤（TF1.7）。 具有分層生長的苔蘚（主要是泥炭蘚, Sphagnum） 和禾草促進泥炭堆積。 其相對豐度影響微生物群集和泥炭生物化學。 植物特徵有助於將氧氣輸送至缺氧的土壤中，如具氣腔的莖、通氣組織和表面根墊。 木本植物的葉片較小（leptophyll – microphyll）且為硬葉植物，反映出土壤養分低，但碳水化合物過剩。 植物和真菌主要以無性繁殖，除非火燒事件等擾動產生間隙，從而讓新生植物補充。 此生態系內的池塘擁有由藻類生產者和異源碳支撐的特化水生食物網。 無脊椎動物幼蟲是酸性泥炭池食物網中的主要消費者，成年後轉變為重要的傳粉者和掠食者。 蒼蠅、蜻蜓、豆娘、石蛾和其他無脊椎動物群集隨池塘的數量、大小和穩定性變化。 食蟲植物（如茅膏菜屬）能協助氮循環。 多數脊椎動物具有流動性，但包括特化的定棲性兩棲類、爬蟲類、囓齒類和鳥類。 南半球的部分區域擁有豐富的特有動植物。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Bogs are restricted to cool humid climates where moisture inputs (e.g. precipitation, seepage, and surface inflow) exceed outputs (e.g. evapotranspiration, percolation and runoff) for extended periods, enabling these systems to function as landscape sponges. Seasonally low temperatures and/or frequent cloud cover limit evapotranspiration. Substrates are waterlogged, anaerobic, highly organic (usually &gt;30% dry weight), acidic (pH 3.5–6), and nutrient-poor. Peat growth may produce raised ombrotrophic bogs entirely fed by rain, but if minerotrophic inflows from catchments occur, they provide limited nutrient subsidies (cf. TF1.6). Fires may occur in dry summers, sometimes igniting peat with long-term consequences for ecosystem function and stability.
+酸性泥炭沼澤僅限於涼爽且潮濕的氣候區域，此生態系的水分輸入（如降水、滲流和地表水流入）長期超過水分輸出（如蒸發散作用、滲漏和逕流），使此生態系能作為地景海綿。 季節性低溫和(或)頻繁的雲層覆蓋限制蒸發散作用。 常年土壤水飽和、缺氧、有機質含量高（高於30%土壤乾重）、酸性（pH值3.5–6）且養分貧瘠。 酸性泥炭堆積可能會形成隆起雨養泥炭地(ombrotrophic bog)，但如果集水區有礦物質流入，會提供有限的營養補充（TF1.6）。 在乾燥的夏季可能會發生火燒事件，有時會點燃泥炭，對生態系功能和穩定性產生長期影響。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Extensive across boreal-subarctic latitudes, with small areas on tropical mountains of South America, New Guinea, and Central Africa and at cool, temperate southern latitudes in Patagonia and Australasia.
+酸性泥炭沼澤廣泛分布於北寒帶至亞北極，並在南美洲、新幾內亞和中非的熱帶山區以及巴塔哥尼亞和澳洲的南部冷溫帶。
 
-# TF1.7 Boreal and temperate fens
+# TF1.7 北寒帶、溫帶礦質泥炭沼澤
 
-BIOME: TF1 PALUSTRINE WETLANDS
-REALM: TRANSITIONAL FRESHWATER-TERRESTRIAL
+生物群系：沼生溼地生物群系
+生態域：陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Fens are peatland ecosystems dominated by hydrophytic grasses, sedges, or forbs. Fens
-have higher productivity but lower functional diversity than bogs (TF1.6). Productivity is subsidised by inflow of minerotrophic waters and limited by anoxic substrates. Plant diversity is
-very low where surface hydrology varies temporally from complete saturation to desiccation but can be high in mineral- rich fens with stable near-surface water tables. Some regions
-are rich in locally endemic flora and fauna. Woody plants
-are typically scarce or absent, though some boreal forests
-(T2.1) develop on minerotrophic peats. Sphagnum mosses
-and hummock-forming sedges are absent from rich fens but ‘brown mosses’ are common. Primary production is partly broken down on soil-surface layers by anamorphic fungi and aerobic bacteria. Anaerobic conditions due to high water tables limit subsurface microbial activity so that organic deposition exceeds decomposition and peat accumulates. Plant traits,
-such as lacunate stem tissues, aerenchyma and surface root mats, promote oxygen transport into the anaerobic substrate. Methanogenic archaea and anaerobic bacteria may occur in the subsoil if N, Fe and S are sufficient to sustain them. Fens may
-be spatially homogeneous or form string mosaics with bogs
-(i.e. aapa mires of Finland) but often display zonation reflecting differences in water chemistry (notably pH) or saturation. Patches of fen and bogs may be juxtaposed within peatland mosaics. Ongoing peat build-up may lead to transition from fen to bog systems. Plants and fungi reproduce locally by cloning, but seed and spore production enables dispersal and the colonisation
-of new sites. Invertebrates are dominant consumers in the trophic network, including dragonflies, caddisflies, flies, as well as calcareous specialists such as snails. Vertebrates are mostly itinerant but include specialised resident amphibians and birds.
+礦質泥炭沼澤以水生禾本科、莎草或闊葉草類為主。 相比於酸性泥炭沼澤（TF1.6），此生態系的初級生產力更高但功能多樣性較低。 初級生產力受到礦泉水補給，但受限於土壤缺氧。 在地表水文變動大，土壤週期性飽和與乾旱的地區，植物多樣性極低，但在富含礦物質且水位穩定的沼澤中，植物多樣性可能很高。 部分地區擁有豐富的特有動植物群集。 通常缺乏木本植物，但部分北寒林（T2.1）可以在礦質泥炭上生長。 此生態系中沒有泥炭蘚和圓丘狀莎草叢，但褐蘚很常見。 初級產物在土壤表層被不完全真菌和好氧菌分解。 由於高水位造成土壤缺氧，限制地下微生物活動，因此有機質沉積量超過分解量，使泥炭累積。 植物特徵有助於將氧氣輸送至缺氧的土壤中，如具氣腔的莖、通氣組織和表面根墊。 甲烷古菌和厭氧菌可能出現在氮、鐵和硫充足的底土。 礦質泥炭沼澤可能均勻分布，也可能與酸性泥炭沼澤形成條狀鑲嵌地景（如芬蘭的阿帕泥沼aapa mires），但通常隨水化學性質（特別是pH值）或土壤水飽和度呈帶狀分布。 酸性泥炭沼澤和礦質泥炭沼澤的區塊可能在泥炭地鑲嵌地景中相鄰。 泥炭持續累積可能導致礦質泥炭沼澤轉變為酸性泥炭沼澤。 植物和真菌主要以無性繁殖，但種子和孢子能使其傳播並拓殖至其他地區。 在食物網中，無脊椎動物是主要消費者，包括蜻蜓、石蛾、蒼蠅以及部分含鈣物種，如蝸牛。 脊椎動物大多具有流動性，但也包括部分特化的定棲性兩棲類和鳥類。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Moisture inputs (e.g. precipitation, seepage, and surface inflow) exceed outputs (e.g. evapotranspiration, percolation and runoff) for extended periods, enabling these systems to function as landscape sponges. Seasonally low temperatures and/or frequent cloud cover limit evapotranspiration. Fens typically develop through the paludification (i.e. peat accumulation) of shallow lakes or around springs, and thus shallow standing water is present frequently
-as flark pools. Such lakes may be abundant in post-glacial landscapes. Substrates are waterlogged, anaerobic, highly organic (usually &gt;30% dry weight), slightly acidic or alkaline, and rich in mineral nutrients. Minerotrophic water (i.e. inflow from catchments) provides significant nutrient subsidies that vary with catchment geology. Fens on the Arctic Circle (palsa mires) have subsurface permafrost. Fires may occur in dry summers, rarely consuming peat, lowering the surface and degrading permafrost.
+礦質泥炭沼澤的水分輸入（如降水、滲流和地表水入流量）長期超過水分輸出（如蒸發散作用、滲漏和逕流），使此生態系能作為地景海綿。 節性低溫和(或)頻繁的雲層覆蓋限制蒸發散作用。 沼澤通常在淺湖或泉水周圍積累泥炭而形成，因此常出現淺水沼澤（flark）。 淺湖常見於冰河退去後的地貌中。 土壤長期淹水、缺氧、有機質含量高（高於30%土壤乾重）、弱酸性或弱鹼性，並富含礦物質。 流入集水區的礦泉水提供營養補給，隨集水區地質變化。 位於北極圈的泥炭凍土堆（palsa mires）有地下永久凍土。 在乾燥的夏季可能發生火燒事件，但很少燃燒泥炭，泥炭燃燒時會降低地表高度並破壞永久凍土。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Extensive across boreal-subarctic latitudes and cool temperate regions, especially mountains. Very restricted in the Southern Hemisphere. Fens may also occur in tropical mountains (i.e. Andes), but are poorly known there.
+北寒帶、溫帶礦質泥炭沼澤廣泛分布於北寒帶至亞北極和冷溫帶地區，尤其是在山區。 在南半球分布侷限。 此生態系也可能出現在熱帶山區， 例如安地斯山脈，但研究較少。

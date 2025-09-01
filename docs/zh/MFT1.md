@@ -1,65 +1,57 @@
-# MFT1 Brackish tidal biome
+# MFT1 半鹹水潮汐生物群系
 
-The Brackish tidal systems biome is associated with prograding depositional shorelines at the interface of terrestrial, freshwater, and marine realms. The relative influences of marine, freshwater, and terrestrial processes vary from strongly fluvial deltas to marine-dominated intertidal forests and terrestrial-dominated coastal saltmarsh. Autochthonous sources of energy, contributed by flowering plants and algae, are supplemented
-by allochthonous sources delivered by rivers, currents, and tides. These sources support high productivity and complex trophic webs that include highly mobile fish and birds that rely on brackish tidal systems to complete their lifecycles. Standing plants assimilate energy and engineer habitat structure for epifauna and epiflora as well as juvenile fish nurseries. They also promote sediment deposition by dampening wave and tidal energy. While terrestrial systems are the ultimate source of most sediment, fluvial and marine processes redistribute it and drive
-patch dynamics across temporal and spatial scales. Brackish tidal systems are structured by steep local gradients in salinity and tidal exposure. Physiological traits that confer differential fitness and competitive abilities, together with differential predation pressure, mediate species turnover along gradients. Brackish tidal systems are distributed on depositional coastlines throughout the world.
+半鹹水潮汐生物群系分布於沉積型海岸線，位於陸域、淡水域和海域的交界處。 海域、淡水域和陸域生態過程的影響比例，使此生物群系包括河成三角洲、海域主導的潮間帶森林以及陸域主導的沿海鹽沼。 此生物群系中的自源能量大多來自開花植物和藻類，異源能量則來自河流、洋流和潮汐。 能量用以支撐高初級生產力和複雜的食物網，包括仰賴此生物群系完成生命週期的高度遷徙性魚類和鳥類。 高大植物能吸收能量、提供棲地結構給附生動植物，並作為魚類孵育地。 此外，高大植物也能減弱波浪和潮汐能量，促進沉積物累積。 雖然大多數沉積物來自陸域生態系，但河流和海洋過程會重新分配沉積物，並在時間和空間尺度上造成區塊動態變化。 鹽度和潮汐暴露度的快速變化會影響此生物群系的結構。 生物的生理特徵會造成適存度、競爭能力和掠食壓力差異，影響隨環境變化的物種組成差異。 此生物群系廣泛分布於世界各地的沉積型海岸線。
 
-# MFT1.1 Coastal river deltas
+# MFT1.1 沿海河口三角洲
 
-BIOME: MFT1 BRACKISH TIDAL SYSTEMS
-REALM: TRANSITIONAL TERRESTRIAL-FRESHWATER-MARINE
+生物群系：MFT1 半鹹水潮汐生物群系
+生態域：海域與陸域與淡水域過渡帶
 
-Sundarbans, Ganges Delta, India & Bangladesh. Source: NASA Earth Observatory, Wikimedia Commons CC4.0
+印度恆河三角洲。 來源: 美國國家航空暨太空總署地球觀測站
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Coastal river deltas are prograding depositional systems, shaped by freshwater flows and influenced by wave and tidal flow regimes and substrate composition. The biota of these ecosystems reflects strong relationships with terrestrial, freshwater, and marine realms at different spatial scales. Consequently, they typically occur as multi-scale mosaics comprised of unique elements juxtaposed with other functional groups that extend far beyond the deltaic influence, such as floodplain marshes (TF1.4), mangroves (MFT1.2), sandy shorelines (MT1.3) and subtidal muddy plains (M1.8). Gradients of water submergence and salinity structure these mosaics. Allochthonous subsidies from riverine discharge and marine currents supplement autochthonous sources of energy and carbon and contribute to high productivity. Complex, multi-faceted trophic relationships reflect the convergence and integration of three contrasting realms and the resulting niche diversity. Autotrophs include planktonic algae and emergent and submerged aquatic plants, which contribute to trophic networks mostly through organic detritus (rather than herbivory). Soft sediments and flowing water are critical to in-sediment fauna dominated by polychaetes and molluscs. Freshwater, estuarine, and marine fish and zooplankton are diverse and abundant in the water column. These provide food for diverse communities of wading and fishing birds, itinerant marine predators and terrestrial scavengers and predators (e.g. mammals and reptiles). Virtually all biota have life-history and/or movement traits enabling them to exploit highly dynamic ecosystem structures and disturbance regimes. High rates of turnover in habitat and biota are expressed spatially by large fluctuations in the mosaic of patch types that make up deltaic ecosystems.
+沿海河口三角洲屬於前積型沉積生態系，淡水流量、波浪和潮汐流動機制以及底質成分皆會影響地貌。 此生態系中的生物相在不同空間尺度上與陸域、淡水域和海域都有密切關係。 因此沿海河口三角洲通常是多尺度鑲嵌的生態系，與其他生態系功能群相鄰組成獨特的地景，相鄰的生態系功能群大多在河口三角洲的影響之外，如氾濫平原沼澤（TF1.4）、紅樹林（MFT1.2）、沙質海岸線（MT1.3）和潮下泥質平原（M1.8）等。 淹水程度和鹽度變化會建構不同的鑲嵌地景。 來自河流排水和洋流的異源能量和碳能補充此生態系的自源能量和碳，導致初級生產力高。 此生態系收斂並整合三個對比鮮明的生態域，產生高棲位多樣性，進而創造複雜且多面相的食物網關係。 自營生物包括浮游藻類、挺水植物和沉水植物，貢獻有機碎屑給食物網，此生態系的植食性動物較少。 以多毛類和軟體動物為主的沉積物內動物相需要軟沉積物和水流。 水柱中有多樣化且大量淡水、河口、海洋魚類和浮游動物， 提供食物給各種涉禽、魚食性鳥類、迴游性海域掠食者、陸域腐食者和掠食者（如哺乳類和爬蟲類）。 幾乎所有生物都具有生命史特徵或遷移特徵，能利用動態變化大的生態系結構和擾動機制。 此生態系區塊鑲嵌模式的高度空間變異性展現棲地和生物相的高變化程度。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-River inflows structure the dynamic mosaics of coastal river deltas. Inflows depend on catchment geomorphology and climate and influence water levels, nutrient input, turbidity (hence light penetration), tidal amplitude, salinity gradients, temperature, dissolved oxygen and organic carbon. Rates of delta aggradation depend on interactions among riverine sedimentation and ocean currents, tides and wave action, which disperse sediment loads. Coastal geomorphology influences depth gradients. These processes result in complex, spatio-temporally variable mosaics of distributary channels, islands, floodplains, mangroves, subtidal mud plains and sand beds. Regimes of floods and storm surges driven by weather in the river catchment and ocean, respectively, have a profound impact on patch dynamics.
+河流入流量建構沿海河口三角洲的動態鑲嵌地景。 入流量取決於集水區的地貌和氣候，並影響水位、養分輸入量、水體混濁度（從而影響透光度）、潮汐強度、鹽度變化、水溫、溶氧量和有機碳含量。 河流沉積作用與洋流、潮汐和波浪之間的交互作用會分散沉積物負荷，影響河口三角洲的累積速度。 沿海地貌影響深度變化， 使三角洲、分流渠道、島嶼、氾濫平原、紅樹林、潮下帶泥質平原和沙床共同形成複雜且時空變異性高的鑲嵌地景。 使三角洲、分流渠道、島嶼、氾濫平原、紅樹林、潮下帶泥質平原和沙床共同形成複雜且時空變異性高的鑲嵌地景。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Continental margins where rivers connect the coast to high-rainfall catchments, usually with high mountains in their headwaters.
+沿海河口三角洲分布於大陸邊緣，河流連接海岸與高降雨量的集水區，集水區上游通常有高山。
 
-# MFT1.2 Intertidal forests and shrublands
+# MFT1.2 潮間帶森林與灌叢地
 
-BIOME: MFT1 BRACKISH TIDAL SYSTEMS
-REALM: TRANSITIONAL TERRESTRIAL-FRESHWATER-MARINE
+生物群系：MFT1 半鹹水潮汐生物群系
+生態域：海域與陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Mangroves are structural engineers and possess traits, including pneumatophores, salt excretion glands, vivipary and propagule buoyancy, that promote survival and recruitment in poorly aerated, saline, mobile and tidally inundated substrates. They are highly efficient in nitrogen use efficiency and nutrient resorption. These systems are among the most productive coastal environments. They produce large amounts of detritus (e.g. leaves, twigs and bark), which is
-either buried in waterlogged sediments, consumed by crabs, or more commonly decomposed by fungi and bacteria, mobilising carbon and nutrients to higher trophic levels. These ecosystems are also major blue carbon sinks, incorporating organic matter into sediments and living biomass. Although highly productive, these ecosystems are less speciose than other coastal
-biogenic systems. Crabs are among the most abundant and important invertebrates. Their burrows oxygenate sediments, enhance groundwater penetration, and provide habitat for other invertebrates such as molluscs and worms. Specialised roots (pneumatophores and stilt roots) provide a complex habitat structure that protects juvenile fish from predators and serves as hard substrate for the attachment of algae as well as sessile and mobile invertebrates (e.g. oysters, mussels, sponges
-and gastropods). Mangrove canopies support invertebrate herbivores and other terrestrial biota, including invertebrates, reptiles, small mammals and extensive bird communities. These are highly dynamic systems, with species distributions adjusting to local changes in sediment distribution, tidal regimes, and local inundation and salinity gradients.
+潮間帶森林與灌叢地又稱為紅樹林生態系功能群，紅樹林樹種為生態系結構工程師，其特徵包括氣根、排鹽腺體、胎生苗和漂浮繁殖體，能在缺氧、高鹽度、移動性強且受潮汐淹沒的土壤中生存並繁殖。 紅樹林生態系具有優秀的用氮效率和養分再吸收能力， 具有沿海地區最高的初級生產力。 此生態系每年產生大量的枯枝落葉、樹皮等有機質，有機質可能被埋藏於浸水沉積物中、被蟹類消耗，或被真菌和細菌分解，從而將碳和養分輸送至更高的營養階層。 紅樹林生態系也是重要的藍碳儲存地，有機質累積在沉積物和生物體中。 雖然紅樹林的初級生產力極高，物種多樣性卻低於其他沿海生物系。 蟹類是此生態系最多且最重要的無脊椎動物， 牠們挖掘的洞穴會氧化沉積物，增強地下水透水度，並提供棲地給其他無脊椎動物，如軟體動物和蠕蟲。 紅樹林的特殊根系（如氣根和支柱根）提供魚類幼體複雜的棲地結構，保護其免受掠食者威脅，特殊根系也能作為藻類、固著性及移動性無脊椎動物（如牡蠣、貽貝、海綿和腹足類）附著的硬基質。 紅樹林冠層支撐無脊椎植食者和其他陸域生物，包括無脊椎動物、爬蟲類、小型哺乳類及大量的鳥類群集。 此生態系具有高度動態變化，沉積物分布、潮汐規律及當地的浸沒和鹽度變化會影響物種分布。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Mangroves are physiologically intolerant of low temperatures, which excludes them from regions where mean air temperature during the coldest months is -20°C, where the seasonal temperature range exceeds
-10°C, or where ground frost occurs. Many mangrove soils are low in nutrients, especially nitrogen and phosphorus. Limited availability of nitrogen and phosphorus Regional distributions are influenced by interactions among landscape position, rainfall, hydrology, sea level, sediment dynamics, subsidence, storm- driven processes and disturbance by pests and predators. Rainfall and sediment supply from rivers and currents promote mangrove establishment and persistence, while waves and
-large tidal currents destabilise and erode mangrove substrates, mediating local-scale dynamics in ecosystem distributions. High rainfall reduces salinity stress and increases nutrient loading from adjacent catchments, while tidal flushing also regulates salinity.
+紅樹林無法耐受低溫，因此不會分布在寒冷月份平均氣溫低於–20°C、季節性氣溫變化超過10°C或會發生地面霜凍的地區。 許多紅樹林土壤的養分含量低，尤其是氮和磷。 氮和磷供應不足限制紅樹林生長和分布範圍。
+地景位置、降雨量、水文狀況、海平面變化、沉積物動態、地面沉降、風暴事件、害蟲和掠食者擾動等因素的交互作用會影響紅樹林的分布區域。 降雨和來自河流及洋流的沉積物有助於建立並維持紅樹林，波浪和強烈潮流則可能侵蝕並使紅樹林土壤不穩定，從而調節生態系的分布範圍局部變化。 高降雨量會減少高鹽度壓力，並增加鄰近集水區的養分入流量，潮汐沖刷也會調節鹽度。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Widely distributed along tropical and warm temperate coastlines of the world. Large-scale currents may prevent buoyant seeds from reaching some areas.
+紅樹林廣泛分布於全球熱帶和暖溫帶海岸線。 然而，大規模洋流可能會阻止漂浮性種子到達特定地區，進而影響紅樹林分布範圍。
 
-# MFT1.3 Coastal saltmarshes and reedbeds
+# MFT1.3 沿海鹽沼與蘆葦原
 
-BIOME: MFT1 BRACKISH TIDAL SYSTEMS
-REALM: TRANSITIONAL TERRESTRIAL-FRESHWATER-MARINE
+生物群系：MFT1 半鹹水潮汐生物群系
+生態域：海域與陸域與淡水域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Coastal saltmarshes are vegetated by salt-tolerant forbs, grasses and shrubs, with fine-scale mosaics related to strong local hydrological and salinity gradients, as well as competition and facilitation. Plant traits, such as succulence, salt excretion, osmotic regulation, reduced transpiration, C4 photosynthesis (among grasses), modular growth forms and aerenchymatous tissues, confer varied degrees of tolerance to salinity, desiccation and substrate anoxia. Adjacent marine and terrestrial ecosystems influence the complexity and function of the trophic network, while freshwater inputs mediate resource availability and physiological stress. Angiosperms are structurally dominant autotrophs, but algal mats and phytoplankton imported by tidal waters contribute to primary production. Cyanobacteria and rhizobial bacteria are important N-fixers. Tides and runoff bring subsidies of organic detritus and nutrients (including nitrates) from marine and terrestrial sources, respectively. Nitrogen is imported into saltmarshes mainly as inorganic forms and exported largely as organic forms, providing important subsidies to the trophic networks of adjacent estuarine fish nurseries (FM1.2). Fungi and bacteria decompose dissolved and particulate organic matter, while sulphate-reducing bacteria are important in the decay of substantial biomass in the anaerobic subsoil. Protozoans consume microbial decomposers, while in situ detritivores and herbivores include a range of crustaceans, polychaetes and molluscs. Many of these ingest a mixture
-of organic material and sediment, structuring, aerating, and increasing the micro-scale heterogeneity of the substrate
-with burrows and faecal pellets. Fish move through saltmarsh vegetation at high tide, feeding mainly on algae. They include small-bodied residents and juveniles of larger species that then move offshore. Itinerant terrestrial mammals consume higher plants, regulating competition and vegetation structure. Colonial and solitary shorebirds breed and/or forage in saltmarsh. Migratory species that play important roles in the dispersal of plants, invertebrates and microbes, while abundant foragers may force top-down transformational change.
+耐鹽的禾本科、闊葉草類和灌木植群組成沿海鹽沼與蘆葦原，由於局部水文和鹽度的強烈變化、競爭關係與促進作用，植群形成細尺度的鑲嵌式地景。 植物具有多種耐鹽性、耐旱性和耐受缺氧土壤的生理特徵，如肉質化、排鹽性、調節滲透、減少蒸散作用、禾本科C4光合作用路徑、模組化生長形式以及通氣組織。 相鄰的海域和陸域生態系會影響鹽沼的食物網複雜度和功能，淡水入流量會調節資源可用性和生理壓力。 被子植物為此生態系的優勢自營生物，但潮汐帶來的藻類墊和浮游植物也會貢獻初級生產力。 藍綠菌和根瘤菌是重要的固氮生物。 潮汐和逕流分別從海洋和陸地為此生態系補充有機質碎屑和養分，包括硝酸鹽。 氮主要以無機物形式輸入鹽沼，並轉化為有機氮輸出，補給鄰近河口魚類養殖場（FM1.2）的食物網。 真菌和細菌分解有機質顆粒和溶解有機質，而硫酸鹽還原菌會分解無氧底土中的大量生物量。 原生動物會消耗微生物分解者，腐食者和植食者包括各種甲殼類、多毛類和軟體動物， 會攝食有機質和沉積物混合物，通過掘穴和糞便顆粒將土壤結構化、充氣並增加微觀異質性。 魚類會在漲潮時穿越鹽沼植群，主要以藻類為食。 魚類包括小體型的定棲者和大型魚類幼體，後者會在成體時移動至海洋。 流動性陸域哺乳類會消耗高等植物，調節競爭關係和植群結構。 群居和獨居的岸鳥會在鹽沼繁殖和(或)覓食， 遷徙物種會傳播植物、無脊椎動物和微生物，大量覓食者可能會導致下行結構變化。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-High and variable salt concentration is driven by alternating episodes of soil desiccation and flushing, associated with cycles of tidal inundation and drying combined with freshwater seepage, rainfall and runoff in the upper intertidal zone. These interacting processes produce dynamic fine-scale hydrological and salinity gradients, which may drive transformation to intertidal forests (MFT1.2). Marshes are associated with low-energy depositional coasts but may occur on sea cliffs and headlands where wind deposits salt from wave splash (i.e. salt spray) and aerosol inputs. Salt approaches hypersaline levels where flushing events are infrequent. Other nutrients make up a low proportion of the total ionic content. Subsoils are generally anaerobic, but this varies depending on seepage water and the frequency of tidal inundation. Tidal cycles also influence temperature extremes, irregularities in photoperiod, physical disturbance and deposition of sediment.
+潮汐的淹沒和乾燥週期，結合潮上帶的淡水滲流、降雨和逕流，使土壤乾燥和沖刷交替發生，造成此生態系的鹽度高且變動程度大， 產生細尺度水文和鹽度動態變化，可能會使鹽沼轉變成潮間帶森林（MFT1.2）。 鹽沼通常位於低能量的沉積性海岸，但也可能出現在海崖和岬角，風力會將海浪濺起的鹽分和氣膠鹽輸入至鹽沼。 當沖刷事件頻率較低時，此生態系可能會接近超鹽度。 其他營養鹽在總離子含量中占比較低。 底土通常處於無氧狀態，但會隨滲流水量和潮汐淹沒頻率改變。 潮汐週期也會影響溫度極端值、光週期的不規則性、物理擾動以及沉積量。
 
-## DISTRIBUTION
+## 生態系功能群分布
 
-Widely distributed, mostly on low-energy coasts from arctic to tropical and subantarctic latitudes.
+沿海鹽沼與蘆葦原分布於全球的低能量海岸，集中在北極至熱帶，以及亞南極。

@@ -26,33 +26,29 @@
 
 ## 生態特徵
 
-海水湖與海下水蝕洞(SM1.1)相似，均為受潮汐影響的半鹹水體，從地下連結海洋和地下水，但海水湖具有明顯或完全暴露於空氣和陽光下的特徵。 此生態系與海洋或淡水生態系沒有地表連接。 歷史較短的海水湖曝曬於陽光下，初級生產力相對較低，通常僅能支撐底棲微藻類、藍綠菌和初級消費者。 歷史較長的海水湖生物群集豐富，初級生產力較高，擁有更多元的自營生物，包括大型藻類、水生單子葉植物以及成熟的河岸和樹冠植被，得以支撐初級與次級消費者。 高初級生產力主要歸因於日照、粗糙的土壤以及地下水中相對較多的無機營養鹽。 海水湖還能支撐複雜的底棲微生物群集、初級消費者、次級消費者、濾食者以及腐食者。 消費者主要包括軟體動物和甲殼類，部分為海水湖專性物種。 由於海水湖連結更深的地下棲地，專性物種可能表現出類似海下水蝕洞物種的形態和生理特徵。 較大的掠食性魚類和鳥類也會利用海水湖覓食和棲息。 Anchialine pools are ecologically dynamic systems due to their openness, connections with surrounding terrestrial habitats and subterranean hydrologic connections. Consequently, they are inherently sensitive to ecological phase shifts throughout their relatively ephemeral existence, with senescence initiating in as little as 100 years. However, new anchialine pools may form within a few months after basaltic lava flows.
+海水湖與海下水蝕洞(SM1.1)相似，均為受潮汐影響的半鹹水體，從地下連結海洋和地下水，但海水湖具有明顯或完全暴露於空氣和陽光下的特徵。 此生態系與海洋或淡水生態系沒有地表連接。 歷史較短的海水湖曝曬於陽光下，初級生產力相對較低，通常僅能支撐底棲微藻類、藍綠菌和初級消費者。 歷史較長的海水湖生物群集豐富，初級生產力較高，擁有更多元的自營生物，包括大型藻類、水生單子葉植物以及成熟的河岸和樹冠植被，得以支撐初級與次級消費者。 高初級生產力主要歸因於日照、粗糙的土壤以及地下水中相對較多的無機營養鹽。 海水湖還能支撐複雜的底棲微生物群集、初級消費者、次級消費者、濾食者以及腐食者。 消費者主要包括軟體動物和甲殼類，部分為海水湖專性物種。 由於海水湖連結更深的地下棲地，專性物種可能表現出類似海下水蝕洞物種的形態和生理特徵。 較大的掠食性魚類和鳥類也會利用海水湖覓食和棲息。 海水湖因其開放性、連結周圍陸域棲地和地下水而形成動態變化的生態系。 因此海水湖極易受到生態系演替影響，可能在100年內進入地形老年期（senescence）， 但新的海水湖可能在玄武岩熔岩流動幾個月後形成。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Anchialine pools form from subterranean mixing of seawater and groundwater, primarily through porous basalt or limestone substrates, and more rarely other lithic substrates. Tidal influences can drive large fluctuations in water level and salinity on a daily cycle, but are typically dampened with increased distance from the ocean. Sunlight, UV exposure and other environmental characteristics vary within anchialine pools and haloclines are common. The pools can also be connected to anchialine cave systems (SM1.1) through tension fissures in basalt flows, and collapsed openings in lava tubes.
+海水湖由海水與淡水在地下透過多孔的玄武岩或石灰岩質混合後形成，較少見於其他岩石基質。 潮汐會導致水位和鹽度在單日週期內大幅變化，但隨著與海洋的距離增加，變化程度通常會減少。 海水湖內的日照、紫外線及其他環境特徵因地而異，且常見鹽度躍層。 此生態系也會透過玄武岩流中的張裂和熔岩管的坍塌開口與海下水蝕洞生態系（SM1.1）相連。
 
-## DISTRIBUTION
+## 分布
 
-Scattered worldwide, mostly in the Northern Hemisphere. Many well- known examples occur in Hawaii, Palau and Indonesia, volcanic cracks or grietas in the Galapagos Islands, and open-air entrance pools of anchialine caves (e.g. cenotes in Mexico’s Yucatan Peninsula and blue holes in the Bahamas).
+海水湖零散分布於全球各地，主要集中於北半球。 著名的例子包括夏威夷、帛琉和印尼，以及加拉巴哥群島的火山破裂或裂隙。此外，還包括海下水蝕洞口的露天池塘，如墨西哥猶卡坦半島的天然井和巴哈馬的藍洞。
 
-# SM1.3 Sea caves
+# SM1.3 海蝕洞
 
-BIOME: SM1 SUBTERRANEAN TIDAL SYSTEMS.
-REALM: TRANSITIONAL SUBTERRANEAN-MARINE
+生物群系：SM1 地下潮汐生物群系
+生態域：地下域與海域過渡帶
 
-## ECOLOGICAL TRAITS
+## 生態特徵
 
-Sea caves (also known as marine
-or littoral caves) are usually formed by wave action abrasion in various rock types. In contrast to anchialine caves (SM1.1), sea caves are not isolated from the external marine environment. Thus, the biota in sea caves are mostly stygophiles (typical of dim-light cryptic and deep-water environments outside caves) or stygoxenes (species sheltering in caves during daytime but foraging outside at night). However, numerous taxa (mostly sessile invertebrates) have so far been reported only from sea caves, and thus can be considered as cave-exclusive sensu lato. Visitors often enter sea caves by chance (i.e. carried in by currents), and survive only for short periods. The diverse sea- cave biota is dominated by sessile (e.g. sponges, cnidarians, bryozoans) and mobile invertebrates (i.e. molluscs crustaceans, annelids) and fish. Photoautotrophs are restricted close to cave openings, while chemoautotrophic bacteria form extensive mats in sea caves with hydrothermal sulphur springs, similar
-to those in some terrestrial caves (SF1.1) and deep sea vents (M3.7). In semi-dark and dark cave sectors, the main trophic categories are filter-feeders (passive and active), detritivores, carnivores, and omnivores. Decomposers also play important roles. Filter-feeders consume plankton and suspended organic material delivered by tidal currents and waves. Other organisms either feed on organic material produced by filter-feeders
-or move outside caves in to find food. These “migrants”, especially swarm-forming crustaceans and schooling fish can be significant import pathways for organic matter, mitigating oligotrophy in confined cave sectors.
+海蝕洞通常由波浪侵蝕各類岩石而形成。 與海下水蝕洞（SM1.1）不同，海蝕洞並未與海洋隔絕。 因此，海蝕洞中的生物多數為非專性暗層物種（Stygophile, 微光環境隱藏種或深海物種）或偶發性暗層物種（Stygoxenes, 白天在洞內休憩，夜間在洞外覓食的物種）。 但許多物種（主要為固著性無脊椎動物）目前僅在海蝕洞中被發現，因此廣義上可視為洞穴專性物種。 外來生物通常因洋流偶然進入海蝕洞，但只能存活短暫時間。 海蝕洞中多樣化的生物群以固著性（如海綿、刺絲胞動物、苔蘚蟲）、移動性無脊椎動物（如軟體動物、甲殼類、環節動物）以及魚類為主。 光自營生物僅限於靠近洞口的區域，而化學自營細菌則會在含有熱硫泉的海蝕洞中形成廣闊的菌毯，類似於部分陸域洞穴（SF1.1）和海底火山（M3.7）。 在微光和黑暗的洞穴中，食物網中的主要角色包括被動和主動濾食者、腐食者、掠食者、雜食者。 分解者亦扮演重要的角色。 濾食者消耗由潮流和波浪帶來的浮游生物和懸浮有機物。 其他生物仰賴濾食者產生的有機物，或是離開洞穴尋找食物。 成群的甲殼類和魚群等「遷徙者」，可能是重要的有機質輸入途徑，能緩解封閉洞穴的貧養性。
 
-## KEY ECOLOGICAL DRIVERS
+## 關鍵生態驅動力
 
-Sea caves openings vary from fully submerged and never exposed to the atmosphere
-to partially submerged and exposed to waves and tides. Sea caves are generally shorter and receive less input of freshwater from terrestrial sources than anchialine caves (SM1.1). Sea caves thus lack haloclines, a defining feature of anchialine caves, and are influenced more strongly by marine waters and biota throughout their extent. While salinity gradients are weak, the decrease of light and sea water renewal from the opening to the cave interior drive marked zonation of biota by creating oligotrophic conditions and limiting larval supply. Submersion level, cave morphology and micro-topography play key roles in forming such gradients.
+海蝕洞口形態多樣，從完全被海水淹沒，到部分淹沒並受到海浪和潮汐影響不等。 與海下水蝕洞（SM1.1）相比，海蝕洞通常較短，來自陸地的淡水輸入也較少。 因此，海蝕洞不具有鹽度躍層，並且受到海水和海洋生物的強烈影響。 儘管鹽度變化較弱，但從洞口到洞穴內部，日照量和海水更新量減少，導致貧養狀況並限制幼體供應，造成生物群集明顯呈帶狀分布。 浸沒程度、洞穴形態和微地形是日照量變化和海水更新量變化中的關鍵。
 
-## DISTRIBUTION
+## 分布
 
-Globally distributed in coastal headlands, rocky reefs and in coral reefs.
+廣泛分布於全球的沿海岬角、岩礁和珊瑚礁區域。
